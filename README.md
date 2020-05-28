@@ -8,9 +8,9 @@
 | ------------- | ------------ |
 | Maj 29, 2020 |  | September 5, 2020|
 ## GOALS
-[ ] Completing JavaScript section of FCC and TOP and finish reading EloquentJavaScript
-[ ] Starting to publish articles
-[ ] Learning React
+ [ ] Completing JavaScript section of FCC and TOP and finish reading EloquentJavaScript
+ [ ] Starting to publish articles
+ [ ] Learning React
 
 | Log  | 
 | --- |
@@ -29,8 +29,8 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 | Maj 29, 2020 |  | Maj 31, 2020|
 
 ### TASKS
- [ ] Maj 29 Reviewing Materials And Fixing Calculator App
- [ ] Maj 30 to Maj 31 Fixing Pomodoro app and building [budget app](https://romeojeremiah.github.io/javascript-oop-budget-project/)
+  [ ] Maj 29 Reviewing Materials And Fixing Calculator App
+  [ ] Maj 30 to Maj 31 Fixing Pomodoro app and building [budget app](https://romeojeremiah.github.io/javascript-oop-budget-project/)
  
 
 
