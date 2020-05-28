@@ -1,16 +1,15 @@
 # Johongirmirzo Rahimov
 
-## 365 Days Of Code
-
+ 
 
 ### 100 Days Of Code Learning JavaScript
 |  Start Date   | End Date     |
 | ------------- | ------------ |
 | Maj 29, 2020 |  | September 5, 2020|
 ## GOALS
- [ ] Completing JavaScript section of FCC and TOP and finish reading EloquentJavaScript
- [ ] Starting to publish articles
- [ ] Learning React
+- [ ] Completing JavaScript section of FCC and TOP and finish reading EloquentJavaScript
+- [ ] Starting to publish articles
+- [ ] Learning React
 
 | Log  | 
 | --- |
@@ -29,8 +28,8 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 | Maj 29, 2020 |  | Maj 31, 2020|
 
 ### TASKS
-  [ ] Maj 29 Reviewing Materials And Fixing Calculator App
-  [ ] Maj 30 to Maj 31 Fixing Pomodoro app and building [budget app](https://romeojeremiah.github.io/javascript-oop-budget-project/)
+- [ ] Maj 29 Reviewing Materials And Fixing Calculator App
+-  [ ] Maj 30 to Maj 31 Fixing Pomodoro app and building [budget app](https://romeojeremiah.github.io/javascript-oop-budget-project/)
  
 
 
@@ -40,16 +39,16 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 | June 1, 2020 |  | June 25, 2020|
 
 ### TASKS
-[ ] June 1 to June 2 Doing Introduction and Objects and Object Constructors sections
-[ ] June 3 to June 4 Doing Building Library Project
-[ ] June 5 to June 7 Doing Factory Functions  and the Module Pattern section
-[ ] June 8 to June 9 Building Tic Tac Toe 
-[ ] June 10 to June 11 Doing Classes section and reading classes on EloquentJavascript
-[ ] June 12 to June 13 Building [Flashcard App](https://romeojeremiah.github.io/flashcard-javascript-OOP-project/)
-[ ] June 14 to June 15 Doing es6 modules section and reading modules on EloquentJavaScript
-[ ] June 16 to June 17 Building Restaurant Page 
-[ ] June 18 to June 19 Doing OOP princicples section
-[ ] June 20 to June June 25 Building TodoList project
+- [ ] June 1 to June 2 Doing Introduction and Objects and Object Constructors sections
+- [ ] June 3 to June 4 Doing Building Library Project
+- [ ] June 5 to June 7 Doing Factory Functions  and the Module Pattern section
+- [ ] June 8 to June 9 Building Tic Tac Toe 
+- [ ] June 10 to June 11 Doing Classes section and reading classes on EloquentJavascript
+- [ ] June 12 to June 13 Building [Flashcard App](https://romeojeremiah.github.io/flashcard-javascript-OOP-project/)
+- [ ] June 14 to June 15 Doing es6 modules section and reading modules on EloquentJavaScript
+- [ ] June 16 to June 17 Building Restaurant Page 
+- [ ] June 18 to June 19 Doing OOP princicples section
+- [ ] June 20 to June June 25 Building TodoList project
 
 
 
@@ -74,11 +73,11 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 | July 7, 2020 |  | June 17, 2020|
 
 ### TASKS
-[ ] July 7 Doing JSON section
-[ ] July 8 to July 10 Doing async section
-[ ] July 11 to July 12 Doing Working with Apis section
-[ ] July 13 to July 14 Doing Async and Await section
-[ ] July 15 to July 17  Building weather app
+- [ ] July 7 Doing JSON section
+- [ ] July 8 to July 10 Doing async section
+- [ ] July 11 to July 12 Doing Working with Apis section
+- [ ] July 13 to July 14 Doing Async and Await section
+- [ ] July 15 to July 17  Building weather app
 
 
 
@@ -88,10 +87,10 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 | July 18, 2020 |  | July 31, 2020|
 
 ### TASKS
-[ ] July 18 to July 19 Doing Testing basics section
-[ ] July 20 to July 22 Practising Testing
-[ ] July 23 to July 25 Doing More testing section
-[ ] July 26 to July 31 Building Battleship 
+- [ ] July 18 to July 19 Doing Testing basics section
+- [ ] July 20 to July 22 Practising Testing
+- [ ] July 23 to July 25 Doing More testing section
+- [ ] July 26 to July 31 Building Battleship 
 
 
 
@@ -101,7 +100,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 | August 1, 2020 |  | August 15, 2020|
 
 ### TASK
-[ ] August 1 to August 15 Building [Phone store](https://react-tech-store-recording.netlify.app/)
+- [ ] August 1 to August 15 Building [Phone store](https://react-tech-store-recording.netlify.app/)
 
 
 
