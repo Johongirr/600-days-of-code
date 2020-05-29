@@ -5,7 +5,7 @@
 ### 100 Days Of Code 
 |  Start Date   | End Date     |
 | ------------- | ------------ |
-| Maj 30, 2020 |  | September 6, 2020|
+| Maj 30, 2020 |   September 6, 2020|
 ## GOALS
 - [ ] Completing JavaScript and React track in FCC
 - [ ] Finish reading EloquentJavaScript
