@@ -95,23 +95,6 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ## Finishing Up with Javascript by Odin Project
 |  Start Date   | End Date     |
 | ------------- | ------------ |
-<<<<<<< HEAD
+ 
 | August 10, 2020 |  | September 7, 2020|
-=======
-| September 8, 2020 |  | September 13, 2020|
-
-### TASKS:
-- [ ] 08.09 to 10.09 Testing Routes and Controllers
-- [ ] 11.09 to 13.09 Testing database operations
-
-
-## Final Project by Odin Project
-|  Start Date   | End Date     |
-| ------------- | ------------ |
-| September 14, 2020 |  | September 20, 2020|
  
-### Task:
-- [ ] 14.09 to 20.09 Project: Odin-Book
- 
- 
->>>>>>> b00c49701116ff3452e1e65a5686df1f28b71d24
