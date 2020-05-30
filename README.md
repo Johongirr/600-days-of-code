@@ -91,6 +91,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ## Testing Express
 |  Start Date   | End Date     |
 | ------------- | ------------ |
+<<<<<<< HEAD
 | September 12, 2020 |  September 11, 2020|
 
 ### TASKS:
@@ -105,3 +106,8 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ### TASK:
 - [ ] 17.09 to 24.09 Project: Odin Book
+=======
+ 
+| August 10, 2020 |  | September 7, 2020|
+ 
+>>>>>>> 05bcf760f1308c2f7df4b73baa2d3669942f6ce7
