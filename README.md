@@ -5,16 +5,11 @@
 ### 100 Days Of Code 
 |  Start Date   | End Date     |
 | ------------- | ------------ |
-<<<<<<< HEAD
 | Maj 31, 2020 |  | September 7, 2020|
-=======
-| Maj 30, 2020 |   September 6, 2020|
->>>>>>> ccd15922d55a43e38363f983487e1eb59308a656
 ## GOALS
-- [ ] Completing JavaScript and Node track in FCC
+- [ ] Completing JavaScript in FCC
 - [ ] Finish reading EloquentJavaScript
 - [ ] Starting to publish articles once a week
-- [ ] Learning Nodejs 
 - [ ] Getting a job
 
 | Log  | 
@@ -90,75 +85,14 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [ ] 19.07 to 20.07 More Testing
 - [ ] 21.07 to 25.07 Project: Battleship
 
-
-## Introduction to NodeJS by Odin Project
+## JavaScript and the Backend by Odin Project
 |  Start Date   | End Date     |
 | ------------- | ------------ |
-| July 26, 2020 |  | August 2, 2020|
-
-### TASKS:
-- [ ] 26.07 to 28.07 Introduction: What's Node js
-- [ ] 29.07 to 30.07 Getting Started
-- [ ] 31.07 to 02.08 Project: Basic Informational Site
+| July 26, 2020 |  | August 9, 2020|
 
 
-## Express by Odin Project
+
+## Finishing Up with Javascript by Odin Project
 |  Start Date   | End Date     |
 | ------------- | ------------ |
-| August 3, 2020 |  | August 23, 2020|
-
-### TASKS:
-- [ ] 03.08 to 04.08 Introduction to Express
-- [ ] 05.08 to 06.08 Express 101
-- [ ] 07.08 to 08.08 Express 102 CRUD and MVC
-- [ ] 09.08 Preparing for Deployment
-- [ ] 10.08 to 11.08 Project: Mini Message Board
-- [ ] 12.08 to 13.08 Express 103: Routes and Controllers
-- [ ] 14.08 to 15.08 Express 104: View Templates
-- [ ] 16.08 to 17.08 Express 105: Forms and Deployment
-- [ ] 18.08 to 23.08 Project: Inventory Application
-
-
-## Authentication by Odin Project
-|  Start Date   | End Date     |
-| ------------- | ------------ |
-| August 24, 2020 |  | August 31, 2020|
-
-### TASKS:
-- [ ] 24.08 to 26.08 Authentication Basics
-- [ ] 27.08 to 28.08 Security Configuration
-- [ ] 29.08 to 31.08 Project: Members Only
-
-
-## APIs by Odin Project
-|  Start Date   | End Date     |
-| ------------- | ------------ |
-| September 1, 2020 |  | September 7, 2020|
-
-### TASKS:
-- [ ]  01.09 to 03.09 API basics
-- [ ]  04.09 to 05.09 API Security
-- [ ]  06.09 to 07.09 Project: Blog Api
-
-
-## Testing Express by Odin Project
-|  Start Date   | End Date     |
-| ------------- | ------------ |
-| September 8, 2020 |  | September 13, 2020|
-
-### TASKS:
-- [ ] 08.09 to 10.09 Testing Routes and Controllers
-- [ ] 11.09 to 13.09 Testing database operations
-
-
-## Final Project by Odin Project
-|  Start Date   | End Date     |
-| ------------- | ------------ |
-| September 14, 2020 |  | September 20, 2020|
-
-<<<<<<< HEAD
-### Task:
-- [ ] 14.09 to 20.09 Project: Odin-Book
-=======
- 
->>>>>>> ccd15922d55a43e38363f983487e1eb59308a656
+| August 10, 2020 |  | September 7, 2020|
