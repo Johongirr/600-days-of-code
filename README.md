@@ -41,7 +41,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 | ------------- | ------------ |
 | June 3, 2020 |  | June 25, 2020|
 
-### TASKS:
+### TASKS: 
 - [ ] 03.06 to 04.06 Objects and Object Constructors
 - [ ] 05.06 to 06.06 Project: Library
 - [ ] 07.06 to 08.06 Factory Functions and the Module Pattern
