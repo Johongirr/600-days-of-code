@@ -5,11 +5,11 @@
 ### 100 Days Of Code 
 |  Start Date   | End Date     |
 | ------------- | ------------ |
-<<<<<<< HEAD
+ 
 | Maj 31, 2020 |  | September 7, 2020|
-=======
-| Maj 30, 2020 |   September 6, 2020|
->>>>>>> ccd15922d55a43e38363f983487e1eb59308a656
+ 
+ 
+ 
 ## GOALS
 - [ ] Completing JavaScript and Node track in FCC
 - [ ] Finish reading EloquentJavaScript
@@ -155,10 +155,8 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 |  Start Date   | End Date     |
 | ------------- | ------------ |
 | September 14, 2020 |  | September 20, 2020|
-
-<<<<<<< HEAD
+ 
 ### Task:
 - [ ] 14.09 to 20.09 Project: Odin-Book
-=======
  
->>>>>>> ccd15922d55a43e38363f983487e1eb59308a656
+ 
