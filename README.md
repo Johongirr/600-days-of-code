@@ -5,9 +5,11 @@
 ### 100 Days Of Code 
 |  Start Date   | End Date     |
 | ------------- | ------------ |
-| Maj 31, 2020 |  | September 7, 2020|
+| Maj 31, 2020 |  September 7, 2020|
 ## GOALS
-- [ ] Completing JavaScript in FCC
+- [ ] Learning React and completing React track in FCC
+- [ ] Completing JavaScript track in FCC
+- [ ] Learning NodeJS and completing NodeJS track in FCC
 - [ ] Finish reading EloquentJavaScript
 - [ ] Starting to publish articles once a week
 - [ ] Getting a job
@@ -21,97 +23,85 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 **Commitment:** *I will code daily for the next 100 days.*
 
-## JavaScript Introduction by Odin Project
+## Learning React Fundamentals on React DOCs
 |  Start Date   | End Date     |
 | ------------- | ------------ |
-| Maj 31, 2020 |  | June 2, 2020|
+| Maj 31, 2020 |  June 7, 2020|
 
 ### TASKS:
-- [ ] 31.05 Reviewing and Fixing Calculator App
-- [ ] 01.06 Fixing Pomodoro App
-- [ ] 02.06 Doing Introduction Module
+- [ ] 31.05 Going through React Main Concepts and Building Calculator App
+- [ ] 01.06 Going through React Main Concepts and Building Pomodoro App
+- [ ] 02.06 to 07.06 Going through 30 days of JavaScript and building [beach resort](https://react-beach-resort-project.netlify.app/)
 
-## Organizing Your JavaScript Code by Odin Project
+## Complete React Guide by Maximilian on Udemy
 |  Start Date   | End Date     |
 | ------------- | ------------ |
-| June 3, 2020 |  | June 25, 2020|
-
-### TASKS: 
-- [ ] 03.06 to 04.06 Objects and Object Constructors
-- [ ] 05.06 to 06.06 Project: Library
-- [ ] 07.06 to 08.06 Factory Functions and the Module Pattern
-- [ ] 09.06 to 11.06 Project: Tic Tact Toe
-- [ ] 12.06 Classes
-- [ ] 13.06 to 14.06 ES6 Modules
-- [ ] 15.06 to 16.06 Project: Restaurant Page
-- [ ] 17.06 to 18.06 OOP Principles
-- [ ] 19.06 to 25.06 Project: Todo List
+| June 8, 2020 |  July 31, 2020|
 
 
-## JavaScript in the Real World by Odin Project
+## Introduction to NodeJS
 |  Start Date   | End Date     |
 | ------------- | ------------ |
-| June 26, 2020 |  | July 4, 2020|
+| August 1, 2020 |  August 5, 2020|
 
 ### TASKS:
-- [ ] 26.06 to 27.06 Linting
-- [ ] 28.06 Dynamic User Interface Interactions
-- [ ] 29.06 to 30.06 Forms
-- [ ] 01.07 to 02.07 Webpack 2
-- [ ] 03.07 to 04.07 ES?
+- [ ] 01.08 to 02.08 Introduction to NodeJS
+- [ ] 03.08 to 04.08 Getting Started
+- [ ] 05.08 Project: Basic Informational Site
 
 
-## Asynchronous JavaScript and APIs by Odin Project
+## Express
 |  Start Date   | End Date     |
 | ------------- | ------------ |
-| July 5, 2020 |  | July 14, 2020|
+| August 6, 2020 |  August 28, 2020|
 
 ### TASKS:
-- [ ] 05.07 JSON
-- [ ] 06.07 to 07.07 Async
-- [ ] 08.07 to 09.07 Working with APIs
-- [ ] 10.07 to 11.07 Async and Await
-- [ ] 12.07 to 14.07 Project: Weather App
+- [ ] 06.08 to 07.08 Introduction to Express
+- [ ] 08.08 to 10.08 Express 101
+- [ ] 11.08 to 12.08 Express 102: CRUD and MVC
+- [ ] 13.08 Preparing for Deployment
+- [ ] 14.08 to 15.08 Project: Mini Message Board
+- [ ] 16.08 to 18.08 Express 103: Routes and Controllers
+- [ ] 19.08 to 20.08 Express 104: View Templates
+- [ ] 21.08 to 23.08 Express 105: Forms and Deployment
+- [ ] 24.08 to 28.09 Project: Inventory Application
 
 
-## Testing JavaScript by Odin Project
+## Authentication
 |  Start Date   | End Date     |
 | ------------- | ------------ |
-| July 13, 2020 |  | July 25, 2020|
+| August 29, 2020 |  September 5, 2020|
 
 ### TASKS:
-- [ ] 13.07 to 15.07 Testing Basics
-- [ ] 16.07 to 18.07 Project: Testing Basics
-- [ ] 19.07 to 20.07 More Testing
-- [ ] 21.07 to 25.07 Project: Battleship
+- [ ] 29.08 to 30.08 Authentication Basics
+- [ ] 31.08 to 01.09 Security Configuration
+- [ ] 02.09 to 05.09 Project: Members Only
 
-## JavaScript and the Backend by Odin Project
+
+## APIs
 |  Start Date   | End Date     |
 | ------------- | ------------ |
-| July 26, 2020 |  | August 9, 2020|
-
-
-
-## Finishing Up with Javascript by Odin Project
-|  Start Date   | End Date     |
-| ------------- | ------------ |
-<<<<<<< HEAD
-| August 10, 2020 |  | September 7, 2020|
-=======
-| September 8, 2020 |  | September 13, 2020|
+| September 6, 2020 |  September 11, 2020|
 
 ### TASKS:
-- [ ] 08.09 to 10.09 Testing Routes and Controllers
-- [ ] 11.09 to 13.09 Testing database operations
+- [ ] 06.09 to 07.09 APIs Basics
+- [ ] 08.09 to 09.09 API Security
+- [ ] 10.09 to 12.09 Project: Blog API
 
-
-## Final Project by Odin Project
+## Testing Express
 |  Start Date   | End Date     |
 | ------------- | ------------ |
-| September 14, 2020 |  | September 20, 2020|
- 
-### Task:
-- [ ] 14.09 to 20.09 Project: Odin-Book
- 
- 
->>>>>>> b00c49701116ff3452e1e65a5686df1f28b71d24
+| September 12, 2020 |  September 11, 2020|
+
+### TASKS:
+- [ ] 12.09 to 13.09 Testing Routes and Controllers
+- [ ] 14.09 to 16.09 Testing database operations
+
+
+## FINAL PROJECT
+|  Start Date   | End Date     |
+| ------------- | ------------ |
+| September 17, 2020 |  September 24, 2020|
+
+### TASK:
+- [ ] 17.09 to 24.09 Project: Odin Book
