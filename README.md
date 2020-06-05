@@ -5,7 +5,7 @@
 ### 100 Days Of Code 
 |  Start Date   | End Date     |
 | ------------- | ------------ |
-| Jun 4, 2020 |  September 11, 2020|
+| Jun 6, 2020 |  September 13, 2020|
 ## GOALS
 - [ ] Learning React and completing React track in FCC
 - [ ] Completing JavaScript track in FCC
@@ -26,7 +26,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ## Learning React Fundamentals on React DOCs
 |  Start Date   | End Date     |
 | ------------- | ------------ |
-| June 4, 2020 |  June 11, 2020|
+| June 6, 2020 |  June 13, 2020|
 
 ### TASKS:
 - [ ] Getting React Fundamentals Down and building [beach resort](https://react-beach-resort-project.netlify.app/)
@@ -34,13 +34,13 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ## Complete React Guide by Maximilian on Udemy
 |  Start Date   | End Date     |
 | ------------- | ------------ |
-| June 12, 2020 |  August 4, 2020|
+| June 14, 2020 |  August 6, 2020|
 
 
 ## Introduction to NodeJS
 |  Start Date   | End Date     |
 | ------------- | ------------ |
-| August 5, 2020 |  August 9, 2020|
+| August 7, 2020 |  August 11, 2020|
 
 ### TASKS:
 - [ ] 05.08 to 06.08 Introduction to NodeJS
@@ -51,7 +51,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ## Express
 |  Start Date   | End Date     |
 | ------------- | ------------ |
-| August 9, 2020 |  September 1, 2020|
+| August 12, 2020 |  September 4, 2020|
 
 ### TASKS:
 - [ ] 09.08 to 10.08 Introduction to Express
@@ -68,7 +68,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ## Authentication
 |  Start Date   | End Date     |
 | ------------- | ------------ |
-| September 1, 2020 |  September 7, 2020|
+| September 5, 2020 |  September 11, 2020|
 
 ### TASKS:
 - [ ] 01.09 to 02.09 Authentication Basics
@@ -79,7 +79,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ## APIs
 |  Start Date   | End Date     |
 | ------------- | ------------ |
-| September 8, 2020 |  September 14, 2020|
+| September 12, 2020 |  September 16, 2020|
 
 ### TASKS:
 - [ ] 08.09 to 09.09 APIs Basics
@@ -89,7 +89,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ## Testing Express
 |  Start Date   | End Date     |
 | ------------- | ------------ |
-| September 14, 2020 |  September 18, 2020|
+| September 17, 2020 |  September 21, 2020|
 
 ### TASKS:
 - [ ] 14.09 to 15.09 Testing Routes and Controllers
@@ -99,7 +99,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ## FINAL PROJECT
 |  Start Date   | End Date     |
 | ------------- | ------------ |
-| September 19, 2020 |  September 26, 2020|
+| September 22, 2020 |  September 28, 2020|
 
 ### TASK:
 - [ ] 19.09 to 26.09 Project: Odin Book
