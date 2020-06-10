@@ -5,7 +5,7 @@
 ### 100 Days Of Code 
 |  Start Date   | End Date     |
 | ------------- | ------------ |
-| Jun 10, 2020 |  September 18, 2020|
+| Jun 11, 2020 |  September 18, 2020|
 ## GOALS
 - [ ] Learning JavaScript and Completing JavaScript track in FCC
 - [ ] Learning React and completing React track in FCC
@@ -22,31 +22,34 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 **Commitment:** *I will code daily for the next 100 days.*
 
-## JavaScript Introduction by Odin Project 
+## Reviewing web fundamentals 
 |  Start Date   | End Date     |
 | ------------- | ------------ |
-| June 10, 2020 |  June 12, 2020|
+| June 11, 2020 |  June 17, 2020|
 
-### TASK:
-- [ ] 10.06 to 12.06 Introduction
-
-
+### TASKS:
+- [ ] 11.06 Reviewing Web Fundamentals and building [recipe app](https://codepen.io/inkblotty/pen/oxWRme)
+- [ ] 12.06 to 13.06 Reading chapters of 1-7 on EloquentJavaScript and building [memory game](https://jdmedlock.github.io/memorygame/)
+- [ ] 14.06 Learning Firestore and building [flashcard app](https://romeojeremiah.github.io/flashcard-javascript-OOP-project/)
+- [ ] 15.06 to 16.06 Learning Firebase Auth and adding it to [flashcard app](https://romeojeremiah.github.io/flashcard-javascript-OOP-project/)
+- [ ] 17.06 Learning Firebase Functions and building course project
+ 
 
 
 ## Organizing your JavaScript Code by Odin Project
 |  Start Date   | End Date     |
 | ------------- | ------------ |
-| June 13, 2020 |  July 4, 2020|
+| June 18, 2020 |  July 9, 2020|
 
 ### TASKS:
-- [ ] 13.06 to 14.06 Objects and Object Constructors
-- [ ] 15.06 to 16.06 Project: Library
-- [ ] 17.06 to 19.06 Factory Functions and the Module Pattern
-- [ ] 20.06 to 21.06 Classes
-- [ ] 22.06 to 24.06 ES6 Modules
-- [ ] 25.06 to 26.06 Project: Restaurant Page
-- [ ] 27.06 to 29.06 OOP Principles
-- [ ] 30.06 to 04.07 Project: Todo List
+- [ ] 18.06 to 19.06 Objects and Object Constructors
+- [ ] 20.06 to 21.06 Project: Library
+- [ ] 22.06 to 24.06 Factory Functions and the Module Pattern
+- [ ] 25.06 to 26.06 Classes
+- [ ] 27.06 to 29.06 ES6 Modules
+- [ ] 30.06 to 01.07 Project: Restaurant Page
+- [ ] 02.07 to 04.07 OOP Principles
+- [ ] 05.07 to 09.07 Project: Todo List
 
 
 
@@ -54,14 +57,14 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ## JavaScript in the Real World by Odin Project
 |  Start Date   | End Date     |
 | ------------- | ------------ |
-| July 5, 2020 |  July 16, 2020|
+| July 10, 2020 |  July 21, 2020|
 
 ### TASKS:
-- [ ] 05.07 to 07.07 Linting
-- [ ] 08.07 to 09.07 Dynamic User Interface Interactions
-- [ ] 10.07  Forms
-- [ ] 11.07 to 14.07 Webpack 2
-- [ ] 15.07 to 16.07 ES?
+- [ ] 10.07 to 12.07 Linting
+- [ ] 13.07 to 14.07 Dynamic User Interface Interactions
+- [ ] 15.07  Forms
+- [ ] 16.07 to 19.07 Webpack 2
+- [ ] 20.07 to 21.07 ES?
 
 
 
@@ -69,14 +72,14 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ## Asynchronous JavaScript and APIs by Odin Project
 |  Start Date   | End Date     |
 | ------------- | ------------ |
-| July 17, 2020 |  July 31, 2020|
+| July 22, 2020 |  August 5, 2020|
 
 ### TASKS:
-- [ ]  17.07 to 18.07 JSON
-- [ ]  19.07 to 21.07 Async
-- [ ]  22.07 to 23.07 Working with APIs
-- [ ]  24.07 to 26.07 Async and Await
-- [ ]  27.07 to 31.07 Project: Weather App
+- [ ]  22.07 to 23.07 JSON
+- [ ]  24.07 to 26.07 Async
+- [ ]  27.07 to 28.07 Working with APIs
+- [ ]  29.07 to 31.07 Async and Await
+- [ ]  01.08 to 05.08 Project: Weather App
 
 
 
@@ -84,13 +87,13 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ## Testing JavaScript by Odin Project
 |  Start Date   | End Date     |
 | ------------- | ------------ |
-| August 1, 2020 |  August 15, 2020|
+| August 6, 2020 |  August 21, 2020|
 
 ### TASKS:
-- [ ] 01.08 to 05.08 Testing Basics
-- [ ] 06.08 to 07.08 Project: Testing Practice
-- [ ] 08.08 to 11.08 More Testing
-- [ ] 12.08 to 15.08 Project: Battleship
+- [ ] 06.08 to 10.08 Testing Basics
+- [ ] 11.08 to 12.08 Project: Testing Practice
+- [ ] 13.08 to 16.08 More Testing
+- [ ] 17.08 to 21.08 Project: Battleship
 
 
 
@@ -98,11 +101,11 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ## JavaScript and the Backend by Odin Project
 |  Start Date   | End Date     |
 | ------------- | ------------ |
-| August 16, 2020 |  August 28, 2020|
+| August 22, 2020 |  September 4, 2020|
 
 ### TASKS:
-- [ ] 16.08 to 20.08 Using Ruby on Rails or BaaS For Your Back End
-- [ ] 21.08 to 27.08 Project: Where's Waldo (A Photo Tagging App)
+- [ ] 22.08 to 26.08 Using Ruby on Rails or BaaS For Your Back End
+- [ ] 27.08 to 04.09 Project: Where's Waldo (A Photo Tagging App)
 
 
 
@@ -110,11 +113,11 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ## Finishing Up with Javascript by Odin Project
 |  Start Date   | End Date     |
 | ------------- | ------------ |
-| August 29, 2020 |  September 3, 2020|
+| September 5, 2020 |  September 11, 2020|
 
 ### TASKS:
-- [ ] 29.08 to 03.08 Project: Final Project
-- [ ] 03.08 Conclusion
+- [ ] 05.09 to 11.09 Project: Final Project
+- [ ] 11.09 Conclusion
 
 
 
@@ -122,5 +125,5 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ## React Complete Guide by Maximilian on Udemy
 |  Start Date   | End Date     |
 | ------------- | ------------ |
-| September 4, 2020 |  November 5, 2020|
+| September 12, 2020 |  November 13, 2020|
  
