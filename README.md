@@ -25,31 +25,30 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ## Reviewing web fundamentals 
 |  Start Date   | End Date     |
 | ------------- | ------------ |
-| June 11, 2020 |  June 17, 2020|
+| June 15, 2020 |  June 19, 2020|
 
 ### TASKS:
-- [ ] 11.06 Reviewing Web Fundamentals and building [recipe app](https://codepen.io/inkblotty/pen/oxWRme)
-- [ ] 12.06 to 13.06 Reading chapters of 1-7 on EloquentJavaScript and building [memory game](https://jdmedlock.github.io/memorygame/)
-- [ ] 14.06 Learning Firestore and building [flashcard app](https://romeojeremiah.github.io/flashcard-javascript-OOP-project/)
-- [ ] 15.06 to 16.06 Learning Firebase Auth and adding it to [flashcard app](https://romeojeremiah.github.io/flashcard-javascript-OOP-project/)
-- [ ] 17.06 Learning Firebase Functions and building course project
+- [ ] 15.06 Reviewing Web Fundamentals Learning Firebase auth  
+- [ ] 16.06 to 17.06 Reading chapters of 1-7 on EloquentJavaScript and building [memory game](https://jdmedlock.github.io/memorygame/)
+- [ ] 18.06 to 19.06 Learning Firebase Functions and building course project
+
  
 
 
 ## Organizing your JavaScript Code by Odin Project
 |  Start Date   | End Date     |
 | ------------- | ------------ |
-| June 18, 2020 |  July 9, 2020|
+| June 20, 2020 |  July 10, 2020|
 
 ### TASKS:
-- [ ] 18.06 to 19.06 Objects and Object Constructors
-- [ ] 20.06 to 21.06 Project: Library
-- [ ] 22.06 to 24.06 Factory Functions and the Module Pattern
-- [ ] 25.06 to 26.06 Classes
-- [ ] 27.06 to 29.06 ES6 Modules
-- [ ] 30.06 to 01.07 Project: Restaurant Page
-- [ ] 02.07 to 04.07 OOP Principles
-- [ ] 05.07 to 09.07 Project: Todo List
+- [ ] 20.06 to 21.06 Objects and Object Constructors
+- [ ] 22.06 to 23.06 Project: Library
+- [ ] 24.06 to 25.06 Factory Functions and the Module Pattern
+- [ ] 26.06 to 27.06 Classes
+- [ ] 28.06 to 30.06 ES6 Modules
+- [ ] 01.07 to 02.07 Project: Restaurant Page
+- [ ] 03.07 to 05.07 OOP Principles
+- [ ] 06.07 to 10.07 Project: Todo List
 
 
 
