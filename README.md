@@ -5,11 +5,9 @@
 ### 100 Days Of Code 
 |  Start Date   | End Date     |
 | ------------- | ------------ |
-| Jun 11, 2020 |  September 18, 2020|
+| Jun 29, 2020 |  October 6, 2020|
 ## GOALS
 - [ ] Learning JavaScript and Completing JavaScript track in FCC
-- [ ] Learning React and completing React track in FCC
-- [ ] Finish reading EloquentJavaScript
 - [ ] Starting to publish articles once a week
 - [ ] Getting a job
 
@@ -22,107 +20,43 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 **Commitment:** *I will code daily for the next 100 days.*
 
-## Reviewing web fundamentals 
+## Completing Learning How To Learn
 |  Start Date   | End Date     |
 | ------------- | ------------ |
-| June 15, 2020 |  June 19, 2020|
+| June 29, 2020 |  July 7, 2020|
 
 ### TASKS:
-- [ ] 15.06 Reviewing Web Fundamentals Learning Firebase auth  
-- [ ] 16.06 to 17.06 Reading chapters of 1-7 on EloquentJavaScript and building [memory game](https://jdmedlock.github.io/memorygame/)
-- [ ] 18.06 to 19.06 Learning Firebase Functions and building course project
+- [ ] 29.06  What's learning?
+- [ ] 30.06 to 01.07 Chunking
+- [ ] 02.07 to 04.07 Procrastinatin and Memory
+- [ ] 05.07 to 07.07 Renaissance Learning and Unlocking Your Potential
 
- 
 
 
-## Organizing your JavaScript Code by Odin Project
+## Doing cs50 Harvady University course
 |  Start Date   | End Date     |
 | ------------- | ------------ |
-| June 20, 2020 |  July 10, 2020|
+| July 8, 2020 |  July 16, 2020|
 
 ### TASKS:
-- [ ] 20.06 to 21.06 Objects and Object Constructors
-- [ ] 22.06 to 23.06 Project: Library
-- [ ] 24.06 to 25.06 Factory Functions and the Module Pattern
-- [ ] 26.06 to 27.06 Classes
-- [ ] 28.06 to 30.06 ES6 Modules
-- [ ] 01.07 to 02.07 Project: Restaurant Page
-- [ ] 03.07 to 05.07 OOP Principles
-- [ ] 06.07 to 10.07 Project: Todo List
+- [ ] 08.07 Computational Thinking, Scratch
+- [ ] 09.07 C
+- [ ] 10.07 Arrays
+- [ ] 11.07 Algorithms
+- [ ] 12.07 Memory
+- [ ] 13.07 Data Structures
+- [ ] 14.07 Python
+- [ ] 15.07 SQL
+- [ ] 16.07 Information
 
 
 
-
-## JavaScript in the Real World by Odin Project
+## Learning Web Fundamentals
 |  Start Date   | End Date     |
 | ------------- | ------------ |
-| July 10, 2020 |  July 21, 2020|
+| July 17, 2020 |  July 5, 2020|
 
 ### TASKS:
-- [ ] 10.07 to 12.07 Linting
-- [ ] 13.07 to 14.07 Dynamic User Interface Interactions
-- [ ] 15.07  Forms
-- [ ] 16.07 to 19.07 Webpack 2
-- [ ] 20.07 to 21.07 ES?
-
-
-
-
-## Asynchronous JavaScript and APIs by Odin Project
-|  Start Date   | End Date     |
-| ------------- | ------------ |
-| July 22, 2020 |  August 5, 2020|
-
-### TASKS:
-- [ ]  22.07 to 23.07 JSON
-- [ ]  24.07 to 26.07 Async
-- [ ]  27.07 to 28.07 Working with APIs
-- [ ]  29.07 to 31.07 Async and Await
-- [ ]  01.08 to 05.08 Project: Weather App
-
-
-
-
-## Testing JavaScript by Odin Project
-|  Start Date   | End Date     |
-| ------------- | ------------ |
-| August 6, 2020 |  August 21, 2020|
-
-### TASKS:
-- [ ] 06.08 to 10.08 Testing Basics
-- [ ] 11.08 to 12.08 Project: Testing Practice
-- [ ] 13.08 to 16.08 More Testing
-- [ ] 17.08 to 21.08 Project: Battleship
-
-
-
-
-## JavaScript and the Backend by Odin Project
-|  Start Date   | End Date     |
-| ------------- | ------------ |
-| August 22, 2020 |  September 4, 2020|
-
-### TASKS:
-- [ ] 22.08 to 26.08 Using Ruby on Rails or BaaS For Your Back End
-- [ ] 27.08 to 04.09 Project: Where's Waldo (A Photo Tagging App)
-
-
-
-
-## Finishing Up with Javascript by Odin Project
-|  Start Date   | End Date     |
-| ------------- | ------------ |
-| September 5, 2020 |  September 11, 2020|
-
-### TASKS:
-- [ ] 05.09 to 11.09 Project: Final Project
-- [ ] 11.09 Conclusion
-
-
-
-
-## React Complete Guide by Maximilian on Udemy
-|  Start Date   | End Date     |
-| ------------- | ------------ |
-| September 12, 2020 |  November 13, 2020|
- 
+- [ ] 17.07 [how internet works - 1]( https://medium.com/@User3141592/how-does-the-internet-work-edc2e22e7eb8)
+[how internet works - 2](https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm)
+- [ ] 18.07
