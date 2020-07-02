@@ -5,7 +5,7 @@
 ### 100 Days Of Code 
 |  Start Date   | End Date     |
 | ------------- | ------------ |
-| Jun 29, 2020 |  October 6, 2020|
+| July 04, 2020 |  October 11, 2020|
 ## GOALS
 - [ ] Learning JavaScript and Completing JavaScript track in FCC
 - [ ] Starting to publish articles once a week
