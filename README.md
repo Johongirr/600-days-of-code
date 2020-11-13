@@ -5,7 +5,7 @@
 ### 100 Days Of Code 
 |  Start Date   | End Date     |
 | ------------- | ------------ |
-| July 04, 2020 |  October 11, 2020|
+| July 12, 2020 |  October 19, 2020|
 ## GOALS
 - [ ] Learning JavaScript and Completing JavaScript track in FCC
 - [ ] Starting to publish articles once a week
@@ -20,172 +20,930 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 **Commitment:** *I will code daily for the next 100 days.*
 
-
-## Completing Learning How To Learn on Coursera
-|  Start Date   | End Date     |
-| ------------- | ------------ |
-| Jun 29, 2020 |   July 9, 2020|
  
-### TASKS:
-- [ ] 29.06 to 30.06 What's learning?
-- [ ] 01.07 to 02.07 Chunking
-- [ ] 03.07 to 05.07 Procrastinatin and Memory
-- [ ] 06.07 to 09.07 Renaissance Learning and Unlocking Your Potential
 
 
-
-## Doing cs50 Harvady University course
+### Learning How to Learn by Barbara Oakley
 |  Start Date   | End Date     |
 | ------------- | ------------ |
-| July 10, 2020 |  October 6, 2020|
+| July 12, 2020 |  October 19, 2020|
 
-### TASKS:
-- [ ] 10.07 Computational Thinking, Scratch
-- [ ] 11.07 C
-- [ ] 12.07 Arrays
-- [ ] 13.07 Algorithms
-- [ ] 14.07 Memory
-- [ ] 15.07 Data Structures
-- [ ] 16.07 Python
-- [ ] 17.07 SQL
-- [ ] 18.07 Information
+#### Videos on achieving goals and learning
+- [ ] watch [link-1](https://www.youtube.com/watch?v=LNHBMFCzznE&t=23s). 
+- [ ] watch [link-2](https://www.youtube.com/watch?v=TQMbvJNRpLE&t=64s).
+
+#### What is Learning
+- [ ] Focussed versus Diffused Thinking
+- [ ] Procrastination, Memory, Sleep
+- [ ] Summary
+- [ ] Review
+- [ ] Reflactive Essay about a Learning Challenge
+
+#### Chunking
+- [ ] Chunking - The Essentials
+- [ ] Seeing the Bigger Picture
+- [ ] Review
+- [ ] Optional Further Readings
+- [ ] Optional Interviews
+
+#### Procrastination and Memory
+- [ ] Procrastination
+- [ ] Memory
+- [ ] Review
+- [ ] Optional Further Readings
+- [ ] Optional Interviews
+- [ ] Final Project on Learning
+
+#### Renaissance Learning and Unlocking Your Potential
+- [ ] Renaissance Learning and Unlocking Your Potential I
+- [ ] Renaissance Learning and Unlocking Your Potential II
+- [ ] Review
+- [ ] Optional Further Readings
+- [ ] Reading
+
+#### Article 
+- [ ] Writing an article about this course
 
 
 
-## Learning Web Fundamentals
+### Computer Science by CS50 
 |  Start Date   | End Date     |
 | ------------- | ------------ |
-| July 19, 2020 |  July 23, 2020|
+| July 12, 2020 |  October 19, 2020|
 
-### TASKS:
-- [ ] 19.07 to 20.07 [how internet works - 1]( https://medium.com/@User3141592/how-does-the-internet-work-edc2e22e7eb8)
-[how internet works - 2](https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm)
- [how browser works - 1](https://medium.com/@monica1109/how-does-web-browsers-work-c95ad628a509)[how browser works - 2](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Pages_sites_servers_and_search_engines
-)
-- [ ] 21.07 [client vs server - 1](https://www.cloudflare.com/learning/serverless/glossary/client-side-vs-server-side/)[client vs sever - 2](https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Introduction)[client vs server - 3](https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Client-Server_overview)
-[how computer works](https://www.youtube.com/watch?v=OAx_6-wdslM&list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-
-)
-- [ ] 22.07 to 23.07 [what is software - 1](https://searchapparchitecture.techtarget.com/definition/software)[what is software - 2](https://www.techopedia.com/definition/4356/software)[what is software development](https://www.ibm.com/topics/software-development)[what is software architecture](https://codeburst.io/software-architecture-the-difference-between-architecture-and-design-7936abdd5830)[client side architecture - 1](https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Client-Server_overview)[client side architecture - 2](https://khalilstemmler.com/articles/client-side-architecture/introduction/)[full stack architecture - 1](https://www.freecodecamp.org/news/full-stack-unified-architecture/)[full stack architecture - 2](https://dejanglozic.com/2014/05/12/the-rise-of-the-full-stack-architect/)
+- [ ] Computational Thinking
+- [ ] C
+- [ ] Arrays
+- [ ] Algorithms
+- [ ] Memory
+- [ ] Data Structures
+- [ ] Python
+- [ ] SQL
+- [ ] Information
+
+#### Article 
+- [ ] Writing an article about this course
 
 
 
 
-## Reviewing Materials so far
+### Internet 
 |  Start Date   | End Date     |
 | ------------- | ------------ |
-| July 24, 2020 |  July 24, 2020|
+| July 12, 2020 |  October 19, 2020|
 
-### TASKS:
-- [ ] 24.07 Reviewing all materials's that i've learned
+- [ ] How Internet [works-1](https://medium.com/@User3141592/how-does-the-internet-work-edc2e22e7eb8#:~:text=Summary%201%20The%20Internet%20started%20as%20ARPANET%20in,each%20other%20in%20well-defined%20interfaces.%20More%20items...%20)
+- [ ] How Internet [works-2](https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm)
+- [ ] Domain Name and Web [hosting](https://www.webhostingsecretrevealed.net/blog/web-hosting-guides/what-is-the-difference-between-a-domain-and-web-hosting/#:~:text=Domain%20vs%20Sub-domain%20%20%20%20Website%20Domain,%E2%80%93%20%20%20%E2%80%93%20%20%20co.jp%20)
+- [ ] What is [software-1](https://www.britannica.com/technology/software)
+- [ ] What is [software-2](https://www.computerhope.com/jargon/s/software.htm)
+- [ ] Software Development Life [cycle](https://www.tutorialspoint.com/sdlc/sdlc_overview.htm)
+- [ ] Software Development Life [cycle](https://stackify.com/what-is-sdlc/#:~:text=SDLC%20or%20the%20Software%20Development%20Life%20Cycle%20is,which%20is%20well-tested%20and%20ready%20for%20production%20use.)
+- [ ] How Browser [works-1](https://medium.com/@monica1109/how-does-web-browsers-work-c95ad628a509)
+- [ ] How Browser [works-2](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
+- [ ] How Browser [works-3](https://www.theodinproject.com/courses/foundations/lessons/how-does-the-web-work)
+- [ ] What is [client](https://medium.com/concepts-for-dummies/client-vs-server-terminology-b18355d1f9ff#:~:text=Client%20vs.%20Server%20terminology.%20Typically%2C%20a%20client%20is,device%2C%20and%20connects%20to%20a%20server%20as%20necessary.)
+- [ ] What is [server](https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Introduction)
+- [ ] Client Server [overview](https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Client-Server_overview)
+- [ ] Client vs [server](https://blog.teamtreehouse.com/i-dont-speak-your-language-frontend-vs-backend)
+- [ ] Client Side vs Server Side [development](https://careerkarma.com/blog/client-vs-server-side-development/#:~:text=Client-side%20web%20development%20involves%20interactivity%20and%20displaying%20data%2C,web%20development%20are%20client-side%2C%20server-side%2C%20and%20full-stack%20development.)
+- [ ] What is Web [development](https://www.techopedia.com/definition/23889/web-development)
+- [ ] Common Software Architectural [patterns](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013)
+- [ ] The 5 Software Articheture Patterns You Need to Know(https://dzone.com/articles/software-architecture-the-5-patterns-you-need-to-k)
+
+#### Article 
+- [ ] Writing an article about what i've learned
 
 
 
-## Building 3 projects
+
+###  HTML and CSS by Odin Project
 |  Start Date   | End Date     |
 | ------------- | ------------ |
-| July 25, 2020 |  July 31, 2020|
+| July 12, 2020 |  October 19, 2020|
 
-### TASKS:
-- [ ] 25.07 to 26.07 Flashcard
-- [ ] 27.07 to 29.07Calculator
-- [ ] 30.07 to 31.07 Pomodoro
+#### Basic HTML Page Structure
+- [ ] HTML Basics
+- [ ] Linking Internal and External Pages
+- [ ] Working with Images, Video and Other Media
+- [ ] Project: Embedding Images and Video
+- [ ] What's New in HTML5
+- [ ] HTML5 [doctor](http://html5doctor.com/computer-says-no-to-html5-document-outline/)
+- [ ] Project: [link](https://preview.colorlib.com/theme/specer/index.html)
+
+#### Article 
+- [ ] Writing an article about what i've learned
+
+#### Displaying and Inputting Data
+- [ ] Tables in HTML
+- [ ] Ordered and Unordered Lists
+- [ ] Forms for Collecting Data
+- [ ] Project: HTML Forms
+
+#### Article 
+- [ ] Writing an article about what i've learned
+
+#### CSS
+- [ ] CSS Basics
+- [ ] The Box Model
+- [ ] Floats and Positioning
+- [ ] Project: [link](https://preview.colorlib.com/theme/travel2/)
+- [ ] Flexbox
+- [ ] Project: [link](https://colorlib.com/preview/#feliciano)
+- [ ] Grid
+- [ ] Project: Positioning and Floating Elements
+- [ ] Best Practices
+- [ ] Backgrounds and Gradients
+- [ ] Project: Building with Backgrounds and Gradients
+- [ ] [challenge](https://en.wikiversity.org/wiki/Web_Design/CSS_challenges)
+
+#### Article 
+- [ ] Writing an article about what i've learned
+
+#### Design and UX
+- [ ] Introduction to Design and UX
+- [ ] Fonts and Typography
+- [ ] How to choose font [link-1](https://naldzgraphics.net/font-for-typography/)
+- [ ] How to choose font [link-2](https://webdesign.tutsplus.com/articles/choosing-the-right-font-a-practical-guide-to-typography-on-the-web--webdesign-15)
+- [ ] Project: [link](https://preview.colorlib.com/theme/ronaldo/)
+- [ ] Styling [text](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text)
+- [ ] Project: Design Teardown
+
+#### Article 
+- [ ] Writing an article about what i've learned
+
+#### Responsive Design and CSS Frameworks
+- [ ] Mobile First RWD [link](https://www.youtube.com/watch?v=PM3XW_1RAIs&list=PL4cUxeGkcC9hH1tAjyUPZPjbj-7s200a4)
+- [ ] Project: [link](https://preview.colorlib.com/theme/constructioncompany/)
+- [ ] Responsive Design
+- [ ] Project: Building with Responsive Design
+- [ ] CSS Frameworks like Bootstrap and Foundation
+- [ ] Project: Using Bootstrap
+
+#### Article 
+- [ ] Writing an article about what i've learned
+
+#### Advanced CSS
+- [ ] Animations, Subtle Effects and Compatibility
+- [ ] Project: [link](https://preview.colorlib.com/theme/ogani/)
+- [ ] Using CSS Preprocessors to Save Time
+- [ ] Project: Design Your Own Grid-Based Framework
+- [ ] Article on Writing Better [css](https://davidwalsh.name/starting-css)
+
+#### Article 
+- [ ] Writing an article about what i've learned
 
 
 
 
-## Javascript Introduction by Odin Project
+###  PSD To HTML
 |  Start Date   | End Date     |
 | ------------- | ------------ |
-| August 1, 2020 |  August 1, 2020|
+| July 12, 2020 |  October 19, 2020|
 
-### TASKS:
-- [ ] 01.08 How this course'll work - Problem solving -  A quick review
+- [ ] Tutorial [link-1](https://www.youtube.com/watch?v=d_llyPvEBrU&t=211s)
+- [ ] Tutorial [link-2](https://www.youtube.com/watch?v=KiFqtm0kRlI&list=PL4cUxeGkcC9j-0YIv3EDq58-B1yZWvw8_)
+- [ ] Do PSD to Html 2 Projects in [here](https://freebiesbug.com/psd-freebies/website-template/)
+
+#### Article 
+- [ ] Writing an article about what i've learned
 
 
-
-
-## Organizing your JavaScript Code  by Odin Project 
+###  Freelancing Guide
 |  Start Date   | End Date     |
 | ------------- | ------------ |
-| August 2, 2020 |  August 26, 2020|
- ### TASKS:
-- [ ] 02.08 to 03.08 Objects and Object Constructors
-- [ ] 04.08 to 06.08 Project: Library
-- [ ] 07.08 to 08.08 Factory Functions and the Module Pattern
-- [ ] 09.08 to 12.08 Project: Tic Tac Toe
-- [ ] 13.08 to 14.08 to Classes
-- [ ] 15.08 to 16.08 ES6 Modules
-- [ ] 17.08 to 18.08 Project: Restaurant Page
-- [ ] 19.08 to 21.08 OOP Principles
-- [ ] 22.08 to 26.08 Project: Todo List
+| July 12, 2020 |  October 19, 2020|
+
+- [ ] Freelancing Guide [link-1]()
+- [ ] Freelancing Guide [link-2]()
+- [ ] Freelancing Guide [link-3]()
+- [ ] Freelancing Guide [link-4]()
+- [ ] Freelancing Guide [link-5]()
+
+#### Article 
+- [ ] Writing an article about what i've learned
 
 
 
 
-## JavaScript in the Real World by Odin Project 
+###  Accessibility by MDN
 |  Start Date   | End Date     |
 | ------------- | ------------ |
-| August 27, 2020 |  September 16, 2020|
- ### TASKS:
- - [ ] 27.08 to 29.08 Linting
- - [ ] 30.08 to 31.08 Dynamic User Interface Interactions
- - [ ] 01.09 to 02.09 Forms
- - [ ] 03.09 to 06.09 Webpack 2
- - [ ] 07.09 to 09.09 Babel
- - [ ] 10.09 to 13.09 Project: [memory game](https://jdmedlock.github.io/memorygame/)
- - [ ] 14.09 to 16.09 ES?
+| July 12, 2020 |  October 19, 2020|
+
+- [ ] Accessibility overview
+- [ ] What is accessibility?
+- [ ] HTML: A good basis for accessibility
+- [ ] CSS and JavaScript accessibility best practices
+- [ ] Project: [link](https://preview.colorlib.com/theme/accounting/)
+- [ ] WAI-ARIA basics
+    1. Definition of [roles](https://www.w3.org/TR/wai-aria-1.1/#role_definitions)
+    2. Definitions of States and Properties [all aria-* attributes](https://www.w3.org/TR/wai-aria-1.1/#state_prop_def)
+- [ ] Project: [link](https://preview.colorlib.com/theme/etrain/)
+- [ ] Accessible multimedia
+- [ ] Project: [link](https://preview.colorlib.com/theme/foody/)
+- [ ] Mobile accessibility
+- [ ] Project: Accessibility assesment
+
+#### Article 
+- [ ] Writing an article about what i've learned
 
 
 
-
-## Asynchronous JavaScript and APIs by Odin Project 
+###  UX/UI by Daniel Walter Scott
 |  Start Date   | End Date     |
 | ------------- | ------------ |
-| September 17, 2020 |  September 30, 2020|
+| July 12, 2020 |  October 19, 2020|
 
-### TASKS:
-- [ ] 17.09 JSON
-- [ ] 18.09 to 20.09 Async
-- [ ] 21.09 to 23.09 Working with APIs
-- [ ] 24.09 to 26.09 Async and Await
-- [ ] 27.09 to 30.09 Project: Weather App
+- [ ] Project Blog [site](https://uxplanet.org/ux-ui-portfolio-projects-for-beginners-1-blog-site-b3aa6fe0df2a) (building it alongside course)
 
 
+- [ ] Getting Started
+- [ ] The Brief
+- [ ] Wireframing Low Fidelity
+- [ ] Type, Color & Icon Introduction
+- [ ] Prototyping a Website - Introduction
+- [ ] Symbols & Repeat Grids
+- [ ] Prototyping an App - Introduction
+- [ ] Wireframe Feedback
+- [ ] High Fidelity UI Design
+- [ ] Colors
+- [ ] Choosing colours [link-1](https://uxmisfit.com/2019/05/21/ui-design-in-practice-colors/)
+- [ ] Choosing colours [link-2](https://www.designhill.com/design-blog/how-to-choose-colors-for-the-best-ui-design/)
+- [ ] Text & Fonts Advanced
+- [ ] Drawing
+- [ ] Working with Illustrator
+- [ ] Working with InDesign
+- [ ] Images
+- [ ] Working with Photoshop
+- [ ] APP Design
+- [ ] Placeholder content & Plugins
+- [ ] Asset Panel
+- [ ] Symbol - Advanced
+- [ ] Micro Interactions
+- [ ] Prototyping Advanced
+- [ ] Voice Interactions
+- [ ] User Testing
+- [ ] Pitching to Clients & Customers
+- [ ] Exporting
+- [ ] What Next
+
+#### Article 
+- [ ] Writing an article about what i've learned
 
 
-## Testing JavaScript by Odin Project 
+
+###  JavaScript by Odin Project
 |  Start Date   | End Date     |
 | ------------- | ------------ |
-| October 1, 2020 |  October 15, 2020|
+| July 12, 2020 |  October 19, 2020|
 
-### TASKS:
-- [ ] 01.10 to 04.10 Testing Basics
-- [ ] 05.10 to 06.10 Project: Testing Practice
-- [ ] 07.10 to 10.10 More Testing
-- [ ] 11.10 to 15.10 Project: Battleship
+- [ ] Coding along with Wes Bos's 30 days of javascript
+
+#### JavaScript 101
+- [ ] Javascript [intro](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
+- [ ] Fundamentals Part 1
+- [ ] Fundamentals Part 2
+- [ ] Developer Tools 2
+- [ ] Fundamentals Part 3
+- [ ] Problem Solving
+- [ ] Project: Rock Paper Scissors
+- [ ] Clean Code
+- [ ] Fundamentals Part 4
+- [ ] DOM manipulation
+- [ ] Project: Etch-a-Sketch
+- [ ] Fundamentals Part 5
+- [ ] Project: Calculator
+
+#### Article 
+- [ ] Writing an article about what i've learned
+
+#### Organizing Your JavaScript Code
+- [ ] Constructor Pattern 
+- [ ] Objects and Object Constructors 
+- [ ] Project: Library
+- [ ] What are design patterns [link-1](https://www.freecodecamp.org/news/the-basic-design-patterns-all-developers-need-to-know/#:~:text=%20Type%201%3A%20Creational%20-%20The%20Singleton%20Design,2%20Lazy%20Instantiation%203%20Thread-safe%20Instantiation%20More%20)
+ [link-2](https://medium.com/educative/the-7-most-important-software-design-patterns-d60e546afb0e)
+- [ ] Factory Functions, the Module Pattern and Prototype Pattern
+- [ ] Project: Tic Tac Toe 
+- [ ] Classes
+- [ ] Singleton design pattern
+- [ ] Project: [link](http://tranquil-beyond-43849.herokuapp.com/)
+- [ ] Observer design pattern
+- [ ] Project: [link](https://codepen.io/inkblotty/pen/oxWRme)
+- [ ] Firebase Firestore [link](https://www.youtube.com/watch?v=4d-gIPGzmK4&list=PL4cUxeGkcC9itfjle0ji1xOZ2cjRGY_WB)
+- [ ] Project: [link](https://codepen.io/bradtraversy/pen/OrmKWZ)
+- [ ] ES6 Modules
+- [ ] Project: Restaurant Page
+- [ ] OOP Principles
+- [ ] Project: Todo List
+
+#### Article 
+- [ ] Writing an article about what i've learned
+
+#### JavaScript in the Real World
+- [ ] Linting
+- [ ] Project: [link](https://smartslider3.com/courses/)
+- [ ] Dynamic User Interface Interactions
+- [ ] Forms on [mdn](https://developer.mozilla.org/en-US/docs/Learn/Forms)
+- [ ] Project: [link](https://romeojeremiah.github.io/course-form-project/)
+- [ ] Forms
+- [ ] Webpack
+- [ ] Project: [link](https://jsbeginners.com/flashcard-javascript-oop-project/)
+- [ ] ES?
+- [ ] Project: [link](https://tomato-timer.com/)
+- [ ] Adabter design pattern
+- [ ] Project: [link](https://romeojeremiah.github.io/javascript-oop-budget-project/)
+- [ ] Strategy design pattern
+- [ ] Project: [link](https://jsbeginners.com/mead-javascript-todo-app-project/)
+- [ ] Builder design pattern
+- [ ] Project: [link](https://jsbeginners.com/recipe-app-project/)
+
+#### Article 
+- [ ] Writing an article about what i've learned
+
+#### Asynchronous JavaScript and APIs
+- [ ] JSON
+- [ ] Async
+- [ ] Working with APIs
+- [ ] Project: [link](https://github.com/florinpop17/app-ideas/blob/master/Projects/2-Intermediate/Book-Finder-App.md)
+- [ ] Async and Await
+- [ ] Project: Weather App
+- [ ] State design pattern
+- [ ] Project [link](https://github.com/florinpop17/app-ideas/blob/master/Projects/2-Intermediate/Charity-Finder-App.md)
+
+#### Article 
+- [ ] Writing an article about what i've learned
+
+#### Testing JavaScript
+- [ ] Testing Basics
+- [ ] Project: Testing Practice
+- [ ] More Testing
+- [ ] Project: Battleship
+
+#### Article 
+- [ ] Writing an article about what i've learned
+
+#### JavaScript and the Backend
+- [ ] Using Ruby on Rails or BaaS For Your Back End
+- [ ] Firebase Auth [link](https://www.youtube.com/watch?v=aN1LnNq4z54&list=PL4cUxeGkcC9jUPIes_B8vRjn1_GaplOPQ)
+- [ ] Project: [link](https://codepen.io/bradtraversy/pen/OrmKWZ)
+- [ ] Firebase Functions [link](https://www.youtube.com/watch?v=udHm7I_OvJs&list=PL4cUxeGkcC9i_aLkr62adUTJi53y7OjOf)
+- [ ] Project: [link](https://codepen.io/bradtraversy/pen/OrmKWZ)
+- [ ] Project: Where's Waldo (A Photo Tagging App)
+
+#### Article 
+- [ ] Writing an article about what i've learned
+
+#### Finishing Up with Javascript
+- [ ] Firebase Storage [link](https://firebase.google.com/docs/storage/web/start)
+- [ ] Project: [link](https://jsbeginners.com/javascript-course-form-project/)
+- [ ] Firebase Hosting [link](https://www.youtube.com/watch?v=mmmaeHBCTOw&list=PL4cUxeGkcC9he0kHAyiyr3dDO2xw0NWoP)
+- [ ] Project: [link](https://vanilla-js-basic-project-8-menu.netlify.app/)
+- [ ] Project: Final Project
+- [ ] Decorator Pattern
+- [ ] Project: [link](https://codepen.io/FlorinPop17/pen/BaBePej)
+- [ ] Conclusion
+
+#### Article 
+- [ ] Writing an article about what i've learned
 
 
 
 
-## JavaScript and the Backend by Odin Project 
+### Web  Security
 |  Start Date   | End Date     |
 | ------------- | ------------ |
-| October 16, 2020 |  October 31, 2020|
+| July 12, 2020 |  October 19, 2020|
 
-### TASKS:
-- [ ]  16.10 to 22.10 Using Ruby on Rails or BaaS For Your Back End
-- [ ]  23.10 to 31.10 Project: Where's Waldo (A Photo Tagging App)
+- [ ] HTTPS [link-1](https://www.addictivetips.com/vpn/https-explained/#:~:text=HTTP%20stands%20for%20Hyper%20Text%20Transfer%20Protocol%2C%20a,HTML%20websites%20to%20PHP%20pages%2C%20Javascript%2C%20and%20beyond.)
+ [link-2](https://www.freecodecamp.org/news/wtf-is-https/)
+- [ ] Content Security Policy [link-1](https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP)
+ [link-2](https://developers.google.com/web/fundamentals/security/csp/)
+- [ ] CORS [link-1](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
+ [link-2](https://www.codecademy.com/articles/what-is-cors)
+- [ ] OWASP Security Risks [link-1](https://blogvault.net/owasp-top-10/#:~:text=OWASP%20Top%2010%20Security%20Risks%20and%20Vulnerabilities%201,while%20in%20transfer%20or%20storage.%20More%20items...%20)
+ [link-2](https://owasp.org/www-project-top-ten/)
+- [ ] Project: [link](https://github.com/florinpop17/app-ideas/blob/master/Projects/2-Intermediate/GitHub-Profiles.md)
+
+#### Article 
+- [ ] Writing an article about what i've learned
 
 
 
 
-## Finishing Up with Javascript by Odin Project 
+### Cross Browser Compatibility
 |  Start Date   | End Date     |
 | ------------- | ------------ |
-| November 1, 2020 |  November 7, 2020|
+| July 12, 2020 |  October 19, 2020|
 
-### TASKS:
-- [ ] 01.11 to 06.11 Project: Final Project
-- [ ] 07.11 Conclusion
+- [ ] Cross browser testing overview
+- [ ] Introduction to cross browser testing
+- [ ] Strategies for carrying out testing
+- [ ] Handling common HTML and CSS problems
+- [ ] Project: Javascript Drum Kit [at](https://mikkegoes.com/javascript-projects-for-beginners/) view at [link](https://codepen.io/amdsouza92/pen/xdooWa)
+- [ ] Handling common JavaScript problems
+- [ ] Project: Javascript Browser Code Editor [at](https://mikkegoes.com/javascript-projects-for-beginners/) view at [link](https://codepen.io/kazzkiq/pen/xGXaKR)
+- [ ] Handling common accessibility problems
+- [ ] Implementing feature detection
+- [ ] Project: [link](https://jdmedlock.github.io/memorygame/)
+- [ ] Introduction to automated testing
+- [ ] Project: [link](https://github.com/florinpop17/app-ideas/blob/master/Projects/2-Intermediate/Chrome-Theme-Extension.md)
+- [ ] Setting up your own test automation environment
+- [ ] Project: [link](https://github.com/florinpop17/app-ideas/blob/master/Projects/2-Intermediate/Markdown-Previewer.md)
 
+#### Article 
+- [ ] Writing an article about what i've learned
+
+
+
+
+###  React
+|  Start Date   | End Date     |
+| ------------- | ------------ |
+| July 12, 2020 |  October 19, 2020|
+
+#### Completing Ninja React course with odin react course
+- [ ] React by Ninja [link](https://www.youtube.com/watch?v=OxIDLw0M-m0&list=PL4cUxeGkcC9ij8CfkAY2RAGb-tmkNwQHG)
+
+#### React JS by Odin Project
+- [ ] React Introduction
+- [ ] What is React and Why React is popular [link-1](https://medium.com/javascript-in-plain-english/5-reasons-why-you-should-be-using-react-238373cc245e#:~:text=%20Top%205%20Reasons%20to%20Use%20React%20,as%20a%20JavaScript%20framework%20by%20many%2C...%20More%20)
+- [ ] [link-2](https://www.educba.com/uses-of-react-js/)
+- [ ] State and Props
+- [ ] Handle Inputs and Render Lists
+- [ ] Project: CV Application
+- [ ] Lifecycle Methods
+- [ ] Hooks
+- [ ] Project: Memory Card
+- [ ] Router
+- [ ] Project: Shopping Cart
+- [ ] Advanced Concepts
+
+#### Article 
+- [ ] Writing an article about what i've learned
+
+#### React by Maximillian
+
+- [ ] Working with Lists and Conditionals
+- [ ] Styling React Components & Elements
+- [ ] Project: [link](http://demo15.downloader.tech/)
+- [ ] Debugging React Apps
+- [ ] Diving Deeper into Components & React Internals
+- [ ] Project: calculator app in odin project 
+- [ ] A Real App The Burger Builder (Basic Version)
+- [ ] Reaching out to the Web (Http  Ajax)
+- [ ] Project weather app in odin project
+- [ ] Burger Builder Project Accessing a Server
+- [ ] Multi-Page-Feeling in a Single-Page-App Routing
+- [ ] Project: [link](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Quiz-App.md)
+- [ ] Adding Routing to our Burger Project
+- [ ] Project: [link](https://www.tower28beauty.com/pages/frequently-asked-questions)
+- [ ] Project: [link](https://jsbeginners.com/filter-project)
+- [ ] Forms and Form Validation
+- [ ] Project: form in odin project
+- [ ] Redux
+- [ ] Project: [link](https://jsbeginners.com/todo-list-javascript-project-v1/)
+- [ ] Adding Redux to our Project
+- [ ] Redux Advanced
+- [ ] Project: todo app odin project
+- [ ] Redux Advanced Burger Project
+- [ ] Adding Authentication to our Burger Project
+- [ ] Project todo app odin project
+- [ ] Improving our Burger Project
+- [ ] Testing
+- [ ] Project todo app odin project
+- [ ] Deploying the App to the Web
+- [ ] Project todo app odin project
+- [ ] Bonus Working with Webpack
+- [ ] Bonus Next.js
+- [ ] Project: [link](http://demo8.downloader.tech/)
+- [ ] Bonus Animations in React Apps
+- [ ] Project todo app odin project
+- [ ] Bonus A Brief Introduction to Redux Saga
+- [ ] React Hooks
+- [ ] Project todo app odin project
+- [ ] Using Hooks in the Burger Builder
+- [ ] Bonus Replacing Redux with React Hooks
+- [ ] Project todo app odin project
+- [ ] Bonus Building the Burger CSS
+- [ ] Next Steps and Course Roundup
+
+#### Article 
+- [ ] Writing an article about what i've learned
+
+
+ 
+###  PHP & MySql
+|  Start Date   | End Date     |
+| ------------- | ------------ |
+| July 12, 2020 |  October 19, 2020|
+
+- [ ] PHP Intro [link-1](https://en.wikipedia.org/wiki/PHP#:~:text=PHP%20is%20a%20general-purpose%20scripting%20language%20especially%20suited,stands%20for%20the%20recursive%20initialism%20PHP%3A%20Hypertext%20Preprocessor.)
+- [ ] PHP Intro [link-2]
+
+- [ ] Building project [link](https://www.phptpoint.com/projects/employee-leave-management-system-project-download/) as i follow with courses 
+- [ ] Do exercises [here](https://www.learn-php.org/) along the courses
+
+- [ ] PHP & MySql course [link](https://www.youtube.com/watch?v=pWG7ajC_OVo&list=PL4cUxeGkcC9gksOX3Kd9KPo-O68ncT05o)
+- [ ] PHP & MySql course [link](https://www.youtube.com/watch?v=kByr0ifju4k&list=PL0eyrZgxdwhwBToawjm9faF1ixePexft-&index=6)
+
+#### Article 
+- [ ] Writing an article about what i've learned
+
+
+
+
+### OO PHP
+|  Start Date   | End Date     |
+| ------------- | ------------ |
+| July 12, 2020 |  October 19, 2020|
+
+- [ ] Building project [link](https://www.phptpoint.com/projects/online-food-order-system-project/) as i follow with courses
+
+- [ ] OOP PHP course [link](https://www.youtube.com/watch?v=Anz0ArcQ5kI&list=PL0eyrZgxdwhypQiZnYXM7z7-OTkcMgGPh)
+- [ ] OOP PHP course [link](https://www.youtube.com/watch?v=LuWxwLk8StM&list=PL4cUxeGkcC9hNpT-yVAYxNWOmxjxL51Hy)
+
+- [ ] Visibility [link](https://www.php.net/manual/en/language.oop5.visibility.php)
+- [ ] Interface [link](https://www.php.net/manual/en/language.oop5.interfaces.php)
+- [ ] Traits [link](https://www.php.net/manual/en/language.oop5.traits.php)
+- [ ] Class Abstraction [link](https://www.php.net/manual/en/language.oop5.abstract.php)
+- [ ] Learn Namespace Basics [link](https://www.php.net/manual/en/language.namespaces.php)
+
+- [ ] Project: [link](https://phpgurukul.com/user-registration-login-and-user-management-system-with-admin-panel/)
+
+- [ ] Learn Composer [link](https://getcomposer.org/doc/)
+- [ ] Project: [link](https://phpgurukul.com/cyber-cafe-management-system-using-php-mysql/)
+
+#### Article 
+- [ ] Writing an article about what i've learned
+
+
+
+
+### PHPUnit Testing
+| Start Date   | End Date     |
+| ------------- | ------------ |
+| July 12, 2020 |  October 19, 2020|
+
+- [ ] Write test for this project [link](https://phpgurukul.com/tourism-management-system-free-download/) as I follow with courses
+
+#### PHPUnit Testing Courses
+- [ ] Using PHPUnit official Docs [link](https://phpunit.readthedocs.io/en/9.3/installation.html) as I follow with courses
+- [ ] Tutorial [link-1](https://www.youtube.com/watch?v=k9ak_rv9X0Y&list=PLfdtiltiRHWGXSggf05W-pJbD47-_d8bJ&index=1)
+- [ ] Tutorial [link-2](https://www.youtube.com/watch?v=okYKN1o_dIk&list=PLe30vg_FG4OTsFRc1eWppZfYwZdMlLuhE)
+
+#### Article 
+- [ ] Writing an article about what i've learned
+
+
+
+
+### RESTFUL Apis with PHP
+| Start Date   | End Date     |
+| ------------- | ------------ |
+| July 12, 2020 |  October 19, 2020|
+
+- [ ] What is REST Api [link-1](https://en.wikipedia.org/wiki/Representational_state_transfer)
+- [ ] What is REST Api [link-2](https://searchapparchitecture.techtarget.com/definition/RESTful-API)
+- [ ] What is REST Api [link-3](https://codeofaninja.com/2017/02/create-simple-rest-api-in-php.html)
+- [ ] What is REST Api [link-4](https://www.allphptricks.com/create-and-consume-simple-rest-api-in-php/)
+- [ ] RESTFUL Api Best Practises [link](https://www.javaguides.net/2018/06/restful-api-design-best-practices.html)
+- [ ] Project [link](https://www.theodinproject.com/courses/nodejs/lessons/blog-api)
+
+#### Article 
+- [ ] Writing an article about what i've learned
+
+
+
+
+###  Wordpress
+|  Start Date   | End Date     |
+| ------------- | ------------ |
+| July 12, 2020 |  October 19, 2020|
+
+#### Wordpress Intro
+- [ ] Wordpress intro [link-1](https://ithemes.com/tutorials/what-is-wordpress/#:~:text=WordPress%20is%20an%20open-source%20website%20creation%20platform%20that,excellent%20website%20platform%20for%20a%20variety%20of%20websites.)
+- [ ] Wordpress intro [link-2](https://kinsta.com/blog/wordpress-com-vs-wordpress-org/)
+- [ ] What can u do with wordpress [link](https://www.searchenginejournal.com/11-cool-things-can-wordpress-probably-arent/113010/#:~:text=11%20Cool%20Things%20You%20Can%20Do%20With%20WordPress,is%20a%20serious%20concern.%20...%20More%20items...%20)
+- [ ] Wordpress Core and Why is it Improtant [link](https://kinsta.com/blog/wordpress-com-vs-wordpress-org/)
+- [ ] Wordpress.com vs Wordpress.ord [link](https://kinsta.com/blog/wordpress-com-vs-wordpress-org/)
+- [ ] Hidden gems of Wordpress [link](https://bestwordpresstutorials.com/the-hidden-gems-of-wordpress/)
+- [ ] Wordpress.com vs Wordpress.ord Whic one to choose [link](https://www.wpbeginner.com/beginners-guide/self-hosted-wordpress-org-vs-free-wordpress-com-infograph/)
+- [ ] How to make 100k/YEAR with WordPress Freelancing [link](https://www.youtube.com/watch?v=g36F5Er3X6M)
+
+#### Wordpress Projects: Code Along them as I follow Wordpress Course 1
+- [ ] Project [link-1](https://www.youtube.com/watch?v=8AZ8GqW5iak&t=534s)
+- [ ] Project [link-2](https://www.youtube.com/watch?v=6gosrWrGF9Q&t=1s)
+
+#### Article 
+- [ ] Writing an article about what i've learned
+
+#### Wordpress Course 1
+- [ ] Introduction to the Course
+- [ ] Installing Wordpress Locally
+- [ ] Installing Wordpress on a Web Host
+- [ ] A first look around Wordpress
+- [ ] Wordpress Settings, Plugins & Themes
+- [ ] Website Content with Posts & Pages
+- [ ] The Homepage
+- [ ] Creating the Legal Pages
+- [ ] Website Navigation
+- [ ] Wordpress Security
+- [ ] A few more Free Wordpress Plugins
+- [ ] Steps to follow to build a site
+- [ ] Reference
+- [ ] Setting Up A Real Website
+
+
+#### Wordpress Project'll be built on my own for Course 1 
+- [ ] Project [link-1](https://colorlib.com/preview/#consolution)
+- [ ] Project [link-2](https://colorlib.com/wp/template/lifecoach/)
+
+#### Article 
+- [ ] Writing an article about what i've learned
+
+#### Wordpress Projects: Code along them as I follow Wordpress Course 2
+- [ ] Project [link-1](https://www.youtube.com/watch?v=AAdUu5GA78I)
+- [ ] Project [link-2](https://www.youtube.com/watch?v=701pwm78Q90)
+- [ ] Project [link-3](https://www.youtube.com/watch?v=JqsJP715K5s)
+
+#### Wordpress Course 2
+- [ ] Welcome!
+- [ ] Getting Started
+- [ ] First Coding Steps PHP
+- [ ] WordPress Specific PHP
+- [ ] Pages
+- [ ] Building the Blog Section
+- [ ] Workflow and Automation
+- [ ] Events Post Type
+- [ ] Programs Post Type
+- [ ] Professors Post Type
+- [ ] Cleaner Code (Less Duplication)
+- [ ] Campus Post Type
+- [ ] Live Search (UI JavaScript)
+- [ ] WordPress REST API (AJAX)
+- [ ] Customizing the REST API
+- [ ] Combining Front-End & Back-End
+- [ ] Non-JS Fallback Traditional Search
+- [ ] User Roles and Permissions
+- [ ] User Generated Content
+- [ ] Like or Heart Count for Professors
+- [ ] Going Live Deploying Our WordPress Site
+- [ ] Extra Credit Challenges & Topics
+- [ ] Gutenberg Block Editor Essentials
+- [ ] Extra Credit Challenges & Topics Continued
+- [ ] Bonus Debugging & Documentation
+- [ ] VirtualBox and Vagrant
+
+##### Wordpress Project built'll be on my own for Course 2
+- [ ] Project [link-1](https://www.phptpoint.com/projects/online-food-order-system-project/)
+- [ ] Project [link-2](https://www.phptpoint.com/projects/courier-management-system-free-download/)
+
+#### Article 
+- [ ] Writing an article about what i've learned
+
+#### Wordpress Security
+- [ ] Tutorial [link-1](https://www.youtube.com/watch?v=FE-PUFY8CiA)
+- [ ] Tutorial [link-2](https://www.youtube.com/watch?v=Wt3Amy2PI3s)
+- [ ] Tutorial [link-3](https://www.youtube.com/watch?v=iFn6x4-qtR0)
+- [ ] Project [link](https://colorlib.com/preview/#accounting)
+
+#### Article 
+- [ ] Writing an article about what i've learned
+
+#### Wordpess Theme
+- [ ] What is Wordpress Theme [link-1](https://webdesign.tutsplus.com/articles/what-is-a-wordpress-theme--cms-35257#:~:text=A%20WordPress%20theme%20is%20made%20of%20four%20things%3A,%E2%80%93%20for%20additional%20styling%20such%20as%20background%20images)
+- [ ] What is Wordpress Theme [link-2](https://themegrill.com/blog/what-is-a-wordpress-theme/)
+- [ ] Wordpress Theme Tutorial [link-1](https://www.youtube.com/watch?v=-h7gOJbIpmo&t=61s)
+- [ ] Project [link](https://colorlib.com/preview/#orbit)
+- [ ] Wordpress Theme Tutorial [link-2](https://www.youtube.com/watch?v=MoO-UsIvFIs)
+- [ ] Project [link](https://colorlib.com/preview/#edustage)
+
+#### Article 
+- [ ] Writing an article about what i've learned
+
+#### Wordpress Plugin 
+- [ ] What is Wordpress Plugin [link-1](https://www.hostinger.com/tutorials/what-is-wordpress-plugin)
+- [ ] What is Wordpress Plugin [link-2](https://kinsta.com/knowledgebase/wordpress-plugin/)
+- [ ] Wordpress Plugin Tutorial [link](https://www.youtube.com/watch?v=0l7JTie_6jM&list=PLriKzYyLb28kR_CPMz8uierDWC2y3znI2)
+- [ ] Project
+
+#### Article 
+- [ ] Writing an article about what i've learned
+
+#### Elementor
+- [ ] What is Elementor [link-1](https://elementor.com/blog/what-is-elementor-for-wordpress/)
+- [ ] What is Elementor [link-2](https://envato.com/blog/what-is-elementor/)
+- [ ] Elementor Comparison vs Divi [link](https://www.youtube.com/watch?v=gvg0ldGN6A0)
+- [ ] Elementor Tutorial [link](https://www.youtube.com/watch?v=xYrvjaSJH_M&t=207s)
+- [ ] Project [link](https://colorlib.com/preview/#vacationrental)
+
+#### Article 
+- [ ] Writing an article about what i've learned
+
+#### WooCommerse
+- [ ] WooCommerse intro [link](https://www.wpzoom.com/plugins/what-is-woocommerce/)
+- [ ] WooCommerse Tutorial [link](https://www.youtube.com/watch?v=Txg-PrWRdzs)
+- [ ] Project [link](https://colorlib.com/preview/#product)
+- [ ] WooCommerse Elementor Tutorial [link](https://www.youtube.com/watch?v=ai4A7s27iDI&t=1193s)
+- [ ] Project [link](https://preview.colorlib.com/theme/winkel/index.html)
+
+#### Article 
+- [ ] Writing an article about what i've learned
+
+#### SEO 
+- [ ] Tutorial [link-1](https://yoast.com/what-does-yoast-seo-do/)
+- [ ] Tutorial [link-2](https://yoast.com/beginners-guide-yoast-seo/)
+- [ ] Tutorial [link-3](https://www.youtube.com/watch?v=uNL82kDhG3w)
+- [ ] Project [link](https://colorlib.com/preview/#kiddos)
+
+#### Article 
+- [ ] Writing an article about what i've learned
+
+
+
+###  Laravel
+|  Start Date   | End Date     |
+| ------------- | ------------ |
+| July 12, 2020 |  October 19, 2020|
+
+- [ ] MVC design pattern [link](https://addyosmani.com/resources/essentialjsdesignpatterns/book/#detailmvcmvp)
+- [ ] MVC In Laravel [link-1](https://blog.pusher.com/laravel-mvc-use/)
+- [ ] MVC In Laravel [link-2](https://www.techjblog.com/index.php/2020/09/laravel-tutorial-3-the-mvc-structure/)
+- [ ] Laravel intro [link-1](https://www.resourcifi.com/blog/what-are-the-core-concepts-of-laravel-framework/)
+- [ ] Laravel intro [link-2](https://www.educba.com/what-is-laravel-framework/)
+
+- [ ] Building project [link](https://phpgurukul.com/car-rental-project-php-mysql-free-download/) while following along with course
+- [ ] Laravel course by Net Ninja [link](https://www.youtube.com/watch?v=zckH4xalOns&list=PL4cUxeGkcC9hL6aCFKyagrT1RCfVN4w2Q)
+
+- [ ] Facade Design Pattern [link]()https://www.dunebook.com/brief-overview-of-design-patterns-used-in-laravel/
+- [ ] Project [link](https://phpgurukul.com/hostel-management-system/)
+- [ ] Repository Design Pattern [link](https://www.dunebook.com/brief-overview-of-design-patterns-used-in-laravel/)
+- [ ] Project [link](https://phpgurukul.com/hospital-management-system-in-php/)
+- [ ] Provider Design Pattern [link](https://www.dunebook.com/brief-overview-of-design-patterns-used-in-laravel/)
+- [ ] Project [link](https://phpgurukul.com/zoo-management-system-using-php-and-mysql/)
+
+#### Article 
+- [ ] Writing an article about what i've learned
+
+#### Composer
+- [ ] Semantic versioning [link](https://www.techiediaries.com/semantic-versioning/)
+- [ ] Semantic versioning [link](https://semver.org/)
+- [ ] Dependancy management [link](https://medium.com/prodsters/what-are-dependency-managers-26d7d907deb8#:~:text=%20Example%20of%20Dependency%20Managers%20%201%20Composer,build%20tool%29%206%20and%20so%20on.%20More%20)
+
+#### Article 
+- [ ] Writing an article about what i've learned
+
+#### Dependency Injection
+- [ ] Dependenc Injection [link](https://laravel.com/docs/5.1/quickstart-intermediate#dependency-injection)
+- [ ] Service Container [link](https://laravel.com/docs/5.1/container)
+- [ ] Service Provider [link](https://laravel.com/docs/5.1/providers)
+- [ ] Project: [link](https://phpgurukul.com/student-record-system-php/)
+
+#### Article 
+- [ ] Writing an article about what i've learned
+
+#### Architecture Concepts
+- [ ] Request Lifecycle
+- [ ] Facades
+- [ ] Contracts
+
+#### Article 
+- [ ] Writing an article about what i've learned
+
+#### Routing
+- [ ] Routing [link](https://laravel.com/docs/8.x/routing#route-group-middleware)
+- [ ] Building project that Home, About, Index, Contact pages [link](https://www.resourcifi.com/blog/what-are-the-core-concepts-of-laravel-framework/)
+
+#### Article 
+- [ ] Writing an article about what i've learned
+
+#### Controller
+- [ ] Controller [link](https://laravel.com/docs/8.x/controllers)
+- [ ] Building project that Home, About, Index, Contact pages [link](https://www.resourcifi.com/blog/what-are-the-core-concepts-of-laravel-framework/)
+
+#### Article 
+- [ ] Writing an article about what i've learned
+
+#### View
+- [ ] Views [link](https://laravel.com/docs/8.x/views)
+- [ ] Project [link](https://phpgurukul.com/daily-expense-tracker-using-php-and-mysql/)
+
+#### Article 
+- [ ] Writing an article about what i've learned
+
+#### Request and Response
+- [ ] Request [link](https://laravel.com/docs/8.x/requests)
+- [ ] Response [link](https://laravel.com/docs/8.x/responses)
+- [ ] Project [link](https://phpgurukul.com/blood-bank-donor-management-system-free-download/)
+
+#### Article 
+- [ ] Writing an article about what i've learned
+
+#### Blade
+- [ ] Blade Templates [link](https://laravel.com/docs/8.x/blade)
+- [ ] Project: [link](https://phpgurukul.com/online-dj-booking-management-system-using-php-and-mysql/)
+
+#### Article 
+- [ ] Writing an article about what i've learned
+
+#### Compiling Assets
+- [ ] Compiling Assets [link](https://laravel.com/docs/8.x/mix)
+- [ ] Project: [link](https://phpgurukul.com/teachers-record-management-system-using-php-and-mysql/)
+
+#### Article 
+- [ ] Writing an article about what i've learned
+
+#### Using React in Laravel
+- [ ] How to use React in Laravel [link-1](https://dev.to/lvtdeveloper/using-react-in-a-laravel-application-8fp)
+- [ ] How to use React in Laravel [link-2](https://www.youtube.com/watch?v=uxOV7EjF-Oc)
+- [ ] How to use React in Laravel [link-3]()
+- [ ] Project [link](https://phpgurukul.com/park-ticketing-management-system-using-php-and-mysql/)
+
+#### Article 
+- [ ] Writing an article about what i've learned
+
+#### Database
+- [ ] Getting Started [link](https://laravel.com/docs/8.x/database)
+- [ ] Query Builder [link](https://laravel.com/docs/8.x/queries)
+- [ ] Project [link](https://jsbeginners.com/todo-list-javascript-project-v1/)
+- [ ] Pagination [link](https://laravel.com/docs/8.x/pagination)
+- [ ] Project [link](https://jsbeginners.com/recipe-app-project/)
+- [ ] Migrations [link](https://laravel.com/docs/8.x/migrations)
+- [ ] Project [link](https://jsbeginners.com/mead-javascript-todo-app-project/)
+- [ ] Seeding [link](https://laravel.com/docs/8.x/seeding)
+- [ ] Redis [link](https://laravel.com/docs/8.x/redis)
+- [ ] Project [link](https://jsbeginners.com/javascript-notes-app-project/)
+
+#### Article 
+- [ ] Writing an article about what i've learned
+
+#### Eloquent ORM
+- [ ] What is ORM [link-1](https://www.techopedia.com/definition/24200/object-relational-mapping--orm#:~:text=Object-relational%20mapping%20%28ORM%29%20is%20a%20programming%20technique%20in,to%20coexist%20within%20relational%20databases%20and%20OOP%20languages.)
+- [ ] What is ORM [link-2](https://blog.bitsrc.io/what-is-an-orm-and-why-you-should-use-it-b2b6f75f5e2a)
+- [ ] Getting Started [link](https://laravel.com/docs/8.x/eloquent)
+- [ ] Project source [link](https://github.com/florinpop17/app-ideas/blob/master/Projects/2-Intermediate/Book-Finder-App.md) - demo [link](https://booksure.netlify.app/)
+- [ ] Relationships [link](https://laravel.com/docs/8.x/eloquent-relationships)
+- [ ] Project [link](https://phpgurukul.com/employee-record-management-system-in-php-and-mysql/)
+- [ ] Collections [link](https://laravel.com/docs/8.x/eloquent-collections)
+- [ ] Mutators [link](https://laravel.com/docs/8.x/eloquent-mutators)
+- [ ] Project: [link](https://phpgurukul.com/online-course-registration-free-download/)
+- [ ] API Resources [link](https://laravel.com/docs/8.x/eloquent-resources)
+- [ ] Serialization [link](https://laravel.com/docs/8.x/eloquent-serialization)
+- [ ] Project [link](https://phpgurukul.com/news-portal-project-in-php-and-mysql/)
+
+#### Article 
+- [ ] Writing an article about what i've learned
+
+#### Logging
+- [ ] Logging [link](https://laravel.com/docs/8.x/logging)
+- [ ] Project [link](https://phpgurukul.com/dairy-farm-shop-management-system-using-php-and-mysql/)
+
+#### Article 
+- [ ] Writing an article about what i've learned
+
+#### Error Handling
+- [ ] Error Handling [link](https://laravel.com/docs/8.x/errors)
+- [ ] Project [link](https://phpgurukul.com/contact-form-with-mail-function-and-storing-data-in-the-database-mini-project/)
+
+#### Article 
+- [ ] Writing an article about what i've learned
+
+#### Security
+- [ ] Authentication [link](https://laravel.com/docs/8.x/authentication)
+- [ ] Project [link](https://phpgurukul.com/online-library-management-system/)
+- [ ] Authorization [link](https://laravel.com/docs/8.x/authorization)
+- [ ] Project [link](https://phpgurukul.com/student-record-system-php/)
+- [ ] Email Verification [link](https://laravel.com/docs/8.x/verification)
+- [ ] Project [link](https://phpgurukul.com/student-result-management-system/)
+- [ ] Encryption [link](https://laravel.com/docs/8.x/encryption)
+- [ ] Hashing [link](https://laravel.com/docs/8.x/hashing)
+- [ ] Password Reset [link](https://laravel.com/docs/8.x/passwords)
+- [ ] Project [link](https://phpgurukul.com/apartment-visitors-management-system-using-php-and-mysql/)
+
+#### Article 
+- [ ] Writing an article about what i've learned
+
+#### Middleware
+- [ ] Middleware [link](https://laravel.com/docs/8.x/middleware)
+- [ ] Project [link](https://phpgurukul.com/directory-management-system-using-php-and-mysql/)
+
+#### Article 
+- [ ] Writing an article about what i've learned
+
+#### Testing
+- [ ] Getting Started [link](https://laravel.com/docs/8.x/testing)
+- [ ] HTTP Tests [link](https://laravel.com/docs/8.x/http-tests)
+- [ ] Console Tests [link](https://laravel.com/docs/8.x/console-tests)
+- [ ] Project [link](https://phpgurukul.com/small-crm-php/)
+- [ ] Browser Tests [link](https://laravel.com/docs/8.x/dusk)
+- [ ] Project [link](https://phpgurukul.com/local-services-search-engine-management-system-using-php-and-mysql/)
+- [ ] Database [link](https://laravel.com/docs/8.x/database-testing)
+- [ ] Project [link](https://phpgurukul.com/client-management-system-using-php-mysql/)
+- [ ] Mocking [link](https://laravel.com/docs/8.x/mocking)
+- [ ] Project [link](https://phpgurukul.com/beauty-parlour-management-system-using-php-and-mysql/)
+
+#### Article 
+- [ ] Writing an article about what i've learned
  
