@@ -1,24 +1,23 @@
 # Johongirmirzo Rahimov
 
- 
-
-### 100 Days Of Code 
+## 400 Days of Code
 |  Start Date   | End Date     |
 | ------------- | ------------ |
 | July 12, 2020 |  October 19, 2020|
+
 ## GOALS
-- [ ] Learning JavaScript and Completing JavaScript track in FCC
-- [ ] Starting to publish articles once a week
+- [ ] Coding daily
+- [ ] Creating blog and publishing articles 
 - [ ] Getting a job
 
 | Log  | 
 | --- |
-| [100 Days Round 1](https://github.com/Johongirr/365-days-of-code/blob/master/log1.md) | 
+| [log](https://github.com/Johongirr/365-days-of-code/blob/master/log1.md) | 
 
 ## Challenge & Commitment
 This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway/100-days-of-code "the official repo") challenge. More details about the challenge can be found here: [100daysofcode.com](http://100daysofcode.com/ "100daysofcode.com").
 
-**Commitment:** *I will code daily for the next 100 days.*
+**Commitment:** *I will code daily to hone my programming skill for the next 400 days*
 
  
 
@@ -193,6 +192,10 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 #### Article 
 - [ ] Writing an article about what i've learned
 
+#### Capstone
+- [ ] UI/UX Portfolios For Inspiration [link-1](https://medium.com/userexperience-guide/80-more-essential-ux-portfolios-2019-edition-9d146874590f)
+- [ ] UI/UX Portfolios For Inspiration [link-2](https://uxdesign.cc/50-essential-ux-portfolios-2019-edition-38d87fccd998)
+- [ ] Building My Own Portfolio
 
 
 
@@ -214,11 +217,13 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 | ------------- | ------------ |
 | July 12, 2020 |  October 19, 2020|
 
-- [ ] Freelancing Guide [link-1]()
-- [ ] Freelancing Guide [link-2]()
-- [ ] Freelancing Guide [link-3]()
-- [ ] Freelancing Guide [link-4]()
-- [ ] Freelancing Guide [link-5]()
+- [ ] Freelancing Guide [link-1](https://www.youtube.com/watch?v=QyqbkFbxgSk&t=182s)
+- [ ] Freelancing Guide [link-2](https://www.youtube.com/watch?v=m2N3tmJ_A0Q&t=713s)
+- [ ] Freelancing Guide [link-3](https://www.freecodecamp.org/news/selling-services/)
+- [ ] Freelancing Guide [link-4](https://mikkegoes.com/how-to-become-a-freelance-web-developer/)
+- [ ] Freelancing Guide [link-5](https://careerfoundry.com/en/blog/web-development/freelance-web-developer/#:~:text=%20How%20To%20Become%20A%20Freelance%20Web%20Developer,your%20name%20out%20there%20as%20an...%20More%20)
+- [ ] Freelancing Guide [link-6](https://www.freecodecamp.org/news/freelance-web-developer-guide/)
+
 
 #### Article 
 - [ ] Writing an article about what i've learned
@@ -250,6 +255,137 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 
 
+
+###  Adobe Photoshop Essentials 
+|  Start Date   | End Date     |
+| ------------- | ------------ |
+| July 12, 2020 |  October 19, 2020|
+
+#### Websites to Follow to enhance Skills
+- Photoshop Essentials [link](https://www.photoshopessentials.com/) 
+- Photoshop Cafe [link](https://photoshopcafe.com/)
+- Phlearm [link](https://phlearn.com/)
+
+#### Photoshop Exercises to Do During Photoshop Learning Time
+- Photoshop Exercises [link-1](http://distans.svefi.net/exercises/#:~:text=%20%20%201%20Create%20a%20new%2C%20empty,you%20want%20to%20use.%20Paste%20them...%20More%20)
+- Photoshop Exercises [link-2](https://courses.cs.washington.edu/courses/cse458/19au/content/exercises/)
+
+#### Photoshop Inspirations
+- Photoshop Inspirations [link-1](https://www.designhill.com/i/photoshop+ideas+inspiration) to get Inspiration
+- Photoshop Inspirations [link-2](https://ffound.tumblr.com/)
+
+
+#### Adobe Photoshop Introduction
+- [ ] Photoshop Intro
+1. What is Adobe Photoshop [link-1](https://en.wikipedia.org/wiki/Adobe_Photoshop)
+2. What is Adobe Photoshop [link-2](https://www.makeuseof.com/tag/what-can-do-with-photoshop/)
+3. Things I can do with Adobe Photoshop [link-1](https://bmays.com/20-things-you-in-photoshop/)
+4. Things I can do with Adobe Photoshop [link-2](https://photoshoproadmap.com/12-awesome-things-you-probably-didnt-know-you-could-do-with-photoshop/)
+- [ ] Common Photoshop Mistakes 
+1. Common Photoshop Mistakes [link-1](https://www.youtube.com/watch?v=G4pvwR-ZLNc)
+2. Common Photoshop Mistakes [link-2](https://www.psdbox.com/beginner/7-mistakes-all-photoshop-beginners-do)
+- [ ] Photoshop Interface [link](https://www.youtube.com/watch?v=2cQT1ZgvgGI&t=409s)
+- [ ] Optimizing Photoshop Workflow [link](https://www.psdbox.com/tutorials/speed-up-your-workflow-in-photoshop)
+- [ ] Photoshop Tips [link](https://design.tutsplus.com/articles/10-essential-tools-tips-all-photoshop-beginners-should-learn--cms-29333)
+
+#### Photoshop Projects
+- [ ] Build 5 Project following along these courses [link](https://www.youtube.com/results?search_query=photoshop+projects+for+beginners)
+- [ ] Build 5 Project following along these course [link](https://www.youtube.com/results?search_query=creating+mockups+in+photoshop)
+
+#### Adobe Photoshop Course on Udemy by Daniel Walter Scott
+- [ ] Getting Started
+- [ ] Layer
+- [ ] Color & Adjusment Layers
+- [ ] Shapes
+- [ ] Text
+- [ ] Layer Styles
+- [ ] Cropping
+- [ ] Selection & Masking
+- [ ] Filters
+- [ ] Smart Objects
+- [ ] Transform & Distort
+- [ ] Retouching
+- [ ] Blending Modes
+- [ ] Visual Styles
+- [ ] Artboards
+- [ ] Color Modes & Resolution
+- [ ] Brushes
+- [ ] Shadows
+- [ ] Export
+- [ ] What next
+
+#### Article 
+- [ ] Writing an article about what i've learned
+
+
+
+
+###  Adobe Illustrator Essentials
+|  Start Date   | End Date     |
+| ------------- | ------------ |
+| July 12, 2020 |  October 19, 2020|
+
+#### Websites to Follow Enhance Skills 
+- Vector Guru [link](https://theinspirationgrid.com/)
+- I Love Typography [link](https://ilovetypography.com/)
+- Design Inspiration [link](https://www.designspiration.com/)
+
+#### Illustrator Exercises to Do During Illustrator Learning Time
+- Illustrator Exercises [link](https://practity.com/834-2/)
+
+
+#### Illustrator Inspirations
+- Pinterest [link](https://www.pinterest.com/littlemamabunny/illustrator-inspiration/)
+- The Inspiration Grid [link](https://theinspirationgrid.com/category/illustration/)
+
+#### Adobe Illustrator Introduction
+- [ ] Illustrator Intro
+1. What is Adobe Illustrator [link-1](https://en.wikipedia.org/wiki/Adobe_Illustrator)
+2. What is Adobe Illustrator [link-2](https://www.educba.com/what-is-adobe-illustrator/)
+3. What is Adobe Illustrator [link-3](https://blog.udemy.com/what-is-adobe-illustrator-used-for/)
+4. Things I can do with Adobe Illustrator [link-1](https://mariahalthoff.com/blog/30-ways-adobe-illustrator)
+5. Things I can do with Adobe Illustrator [link-2](https://www.creativelive.com/blog/how-illustrator-is-used/#:~:text=%207%20Awesome%20Ways%20Illustrator%20is%20Being%20Used,IoT%20%28Internet%20of%20Things%29%20and%20connected...%20More%20)
+- [ ] Common Illustrator Mistakes
+1. Illustrator Mistakes Beginners Make [link-1](https://creativemarket.com/blog/ten-common-illustrator-mistakes-to-avoid#:~:text=%20Ten%20Common%20Illustrator%20Mistakes%20To%20Avoid%20,a%20bit%20of%20a%20double-edged%20sword.%20More%20)
+2. Illustrator Mistakes Beginners Make [link-2](https://www.youtube.com/watch?v=E7kMW7o2d-o)
+3. Illustrator Mistakes Beginners Make [link-3](https://www.youtube.com/watch?v=-DXgHFAQm0A)
+- [ ] Illustrator Interface [link](https://www.youtube.com/watch?v=QKWnkIPur2Q&feature=youtu.be)
+- [ ] Optimizing Illustrator Workflow
+1. Illustrator Workflow [link-1](https://www.youtube.com/watch?v=KybPH2uVPrk)
+2. Illustrator Workflow [link-2](https://medium.com/@emmanouil/5-tips-to-help-you-get-a-fast-adobe-illustrator-workflow-4d3548595a75)
+- [ ] Illustrator Tips
+1. Illustrator Tips [link-1](https://www.youtube.com/watch?v=5EV7Udx2h0g)
+2. Illustrator Tips [link-2](https://www.youtube.com/watch?v=Diat64FseLE)
+3. Illustrator Tips [link-3](https://www.youtube.com/watch?v=4i2F7zLjS7c)
+
+
+#### Illustrator Projects
+- [ ] Do 5 Illustrator Projects [link](https://www.youtube.com/watch?v=iT_kxtlTB24&list=PLSMIv0i-2Ebk5Ep0-IChHj6JBfPR0i9ke)
+- [ ] Illustrator Project [link](https://www.youtube.com/watch?v=tXpnKlUMZQA)
+
+#### Golden Ratio to Create Logos and Icons
+- [ ] Golden Ratio [link](https://www.youtube.com/watch?v=vct4pM4Bk70&t=906s)
+
+#### Adobe Illustrator Essentials  by Martin Perhiniak
+- [ ] Introduction to Adobe Essentials
+- [ ] Drawing in Adobe Illustrator CC
+- [ ] Type & Fonts in Adobe Illustrator CC
+- [ ] Color in Adobe Illustrator CC
+- [ ] Masking in Adobe Illustrator CC
+- [ ] CC Libaries
+- [ ] Effects & Patterns in Adobe Illustrator CC
+- [ ] The Capture App
+- [ ] Free Templates
+- [ ] Exporting from Adobe Illustrator CC
+- [ ] Real World Exercises in Adobe Illustrator CC
+- [ ] Next Steps
+
+#### Article 
+- [ ] Writing an article about what i've learned
+
+
+
+
 ###  UX/UI by Daniel Walter Scott
 |  Start Date   | End Date     |
 | ------------- | ------------ |
@@ -272,10 +408,10 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [ ] Choosing colours [link-2](https://www.designhill.com/design-blog/how-to-choose-colors-for-the-best-ui-design/)
 - [ ] Text & Fonts Advanced
 - [ ] Drawing
-- [ ] Working with Illustrator
+- [ ] Working with Illustrator 
 - [ ] Working with InDesign
 - [ ] Images
-- [ ] Working with Photoshop
+- [ ] Working with Photoshop 
 - [ ] APP Design
 - [ ] Placeholder content & Plugins
 - [ ] Asset Panel
@@ -463,6 +599,9 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 | ------------- | ------------ |
 | July 12, 2020 |  October 19, 2020|
 
+
+- [ ] Coding along and rebuilding Amazon Clone with React [link](https://www.youtube.com/watch?v=RDV3Z1KCBvo&t=812s) till the end of course by Odin and Net Ninja
+
 #### Completing Ninja React course with odin react course
 - [ ] React by Ninja [link](https://www.youtube.com/watch?v=OxIDLw0M-m0&list=PL4cUxeGkcC9ij8CfkAY2RAGb-tmkNwQHG)
 
@@ -484,7 +623,6 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [ ] Writing an article about what i've learned
 
 #### React by Maximillian
-
 - [ ] Working with Lists and Conditionals
 - [ ] Styling React Components & Elements
 - [ ] Project: [link](http://demo15.downloader.tech/)
@@ -532,15 +670,48 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 #### Article 
 - [ ] Writing an article about what i've learned
 
+#### Projects 
+- [ ] Coding along and rebuilding Instagram Clone with React [link](hhttps://www.youtube.com/watch?v=f7T48W0cwXM&list=PL-J2q3Ga50oMQa1JdSJxYoZELwOJAXExP&index=3) till the end of React course by Maximillian
+- [ ] Coding along and rebuilding Youtube Clone with React [link](https://www.youtube.com/watch?v=NT299zIk2JY&list=PL-J2q3Ga50oMQa1JdSJxYoZELwOJAXExP&index=8) till the end of course by Maximillian
+- [ ] Coding along and rebuilding Google Clone with React [link](https://www.youtube.com/watch?v=DAWWf7q8sqM&list=PL-J2q3Ga50oMQa1JdSJxYoZELwOJAXExP&index=15) till the end of course by Maximillian
 
- 
+
+
+
+###  Git and Github
+|  Start Date   | End Date     |
+| ------------- | ------------ |
+| July 12, 2020 |  October 19, 2020|
+
+- [ ] Git Intro [link](https://www.git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F)
+- [ ] Git Exercises [link](https://www.codecademy.com/learn/learn-git)
+- [ ] The Three Stages and Areas of Git [link](https://www.snipcademy.com/git-fundamentals)
+- [ ] The Three Stages and Areas of Git [link](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)
+- [ ] Project: Creating sample project to practise what I've learned
+- [ ] Git and GitHub overview [link](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/GitHub)
+- [ ] Hello World [link](https://guides.github.com/activities/hello-world/)
+- [ ] Git Handbook [link](https://guides.github.com/introduction/git-handbook/)
+- [ ] Project: Creating sample project to practise what I've learned
+- [ ] Forking Projects [link](https://guides.github.com/activities/forking/)
+- [ ] About pull requests [link](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/about-pull-requests)
+- [ ] Mastering Issues [link](https://guides.github.com/features/issues/)
+- [ ] Most Used Git Commands [link-2](https://www.adevguide.com/common-git-commands-developer-cheatsheet/#:~:text=%20Most%20Common%20Used%20Git%20Commands%20to%20make,or%20file.%20This%20command%20prints%20the...%20More%20)
+- [ ] Most Used Git Commands [link-2](https://dzone.com/articles/top-20-git-commands-with-examples#:~:text=%20Here%20are%20the%20Git%20commands%20which%20are,18%20git%20pull%2019%20git%20stash%20More%20)
+
+- [ ] Project: Creating sample project to practise what I've learned
+
+#### Article 
+- [ ] Writing an article about what i've learned
+
+
+
+
 ###  PHP & MySql
 |  Start Date   | End Date     |
 | ------------- | ------------ |
 | July 12, 2020 |  October 19, 2020|
 
 - [ ] PHP Intro [link-1](https://en.wikipedia.org/wiki/PHP#:~:text=PHP%20is%20a%20general-purpose%20scripting%20language%20especially%20suited,stands%20for%20the%20recursive%20initialism%20PHP%3A%20Hypertext%20Preprocessor.)
-- [ ] PHP Intro [link-2]
 
 - [ ] Building project [link](https://www.phptpoint.com/projects/employee-leave-management-system-project-download/) as i follow with courses 
 - [ ] Do exercises [here](https://www.learn-php.org/) along the courses
@@ -805,9 +976,9 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [ ] Writing an article about what i've learned
 
 #### Architecture Concepts
-- [ ] Request Lifecycle
-- [ ] Facades
-- [ ] Contracts
+- [ ] Request Lifecycle [link](https://laravel.com/docs/8.x/lifecycle)
+- [ ] Facades [link](https://laravel.com/docs/8.x/facades)
+- [ ] Contracts [link](https://laravel.com/docs/8.x/contracts)
 
 #### Article 
 - [ ] Writing an article about what i've learned
@@ -946,4 +1117,3 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 #### Article 
 - [ ] Writing an article about what i've learned
- 
