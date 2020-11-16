@@ -121,6 +121,10 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 | ------------- | ------------ |
 | July 12, 2020 |  October 19, 2020|
 
+#### HTML Intro
+- [ ] HTML Best Practises [link](https://www.webfx.com/blog/web-design/20-html-best-practices-you-should-follow/)
+- [ ] 
+
 #### Basic HTML Page Structure
 - [ ] HTML Basics
 - [ ] Linking Internal and External Pages
@@ -142,6 +146,10 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 #### Article 
 - [ ] Writing an article about what i've learned
 
+#### CSS Intro 
+- [ ] CSS Best Practise [link](https://acodez.in/css-best-practices/)
+- [ ] Common CSS Mistakes [link](https://www.webfx.com/blog/web-design/12-common-css-mistakes-web-developers-make/)
+
 #### CSS
 - [ ] CSS Basics
 - [ ] The Box Model
@@ -162,8 +170,11 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 #### Design and UX
 - [ ] Introduction to Design and UX
 - [ ] Fonts and Typography
-- [ ] How to choose font [link-1](https://naldzgraphics.net/font-for-typography/)
-- [ ] How to choose font [link-2](https://webdesign.tutsplus.com/articles/choosing-the-right-font-a-practical-guide-to-typography-on-the-web--webdesign-15)
+- [ ] Fonts
+1. How to Choose Fonts [link-1](https://www.youtube.com/watch?v=IviIMAItx2s)
+2. How to Choose Fonts [link-2](https://naldzgraphics.net/font-for-typography/)
+3. How to Choose Fonts [link-3](https://webdesign.tutsplus.com/articles/choosing-the-right-font-a-practical-guide-to-typography-on-the-web--webdesign-15)
+4. How to Choose Fonts [link-4](https://visualcomposer.com/blog/your-ultimate-guide-to-fonts-and-typography/)
 - [ ] Project: [link](https://preview.colorlib.com/theme/ronaldo/)
 - [ ] Styling [text](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text)
 - [ ] Project: Design Teardown
@@ -236,6 +247,10 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 | ------------- | ------------ |
 | July 12, 2020 |  October 19, 2020|
 
+#### Accesibility by Udacity learn it synchronously with MDN's tutorial
+- [ ] Web Accessibility [link](https://www.udacity.com/course/web-accessibility--ud891)
+
+#### Accessibility Course by MDN
 - [ ] Accessibility overview
 - [ ] What is accessibility?
 - [ ] HTML: A good basis for accessibility
@@ -391,9 +406,15 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 | ------------- | ------------ |
 | July 12, 2020 |  October 19, 2020|
 
+- [ ] Design Principles [link](https://www.smashingmagazine.com/2008/01/10-principles-of-effective-web-design/#:~:text=10%20Principles%20Of%20Good%20Website%20Design%201%20Don%E2%80%99t,attention%20more%20than%20others%20do.%20More%20items...%20)
+
+#### Project to Complete Snchronously with The Course
 - [ ] Project Blog [site](https://uxplanet.org/ux-ui-portfolio-projects-for-beginners-1-blog-site-b3aa6fe0df2a) (building it alongside course)
 
+#### Course Off Project
+- Follow along and built projects on these course [link](https://www.youtube.com/results?search_query=xd+interface) As I learn Adobe XD
 
+#### UI/UX by Daniel Walter Scott
 - [ ] Getting Started
 - [ ] The Brief
 - [ ] Wireframing Low Fidelity
@@ -403,9 +424,15 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [ ] Prototyping an App - Introduction
 - [ ] Wireframe Feedback
 - [ ] High Fidelity UI Design
+- [ ] Color Theory
+1. Color Theory [link-1](https://webdesign.tutsplus.com/articles/an-introduction-to-color-theory-for-web-designers--webdesign-1437)
+2. Color Theory [link-2](https://www.kanukadigital.com/2019/08/colour-theory-in-web-design/)
+3. Color Theory [link-3](https://uxplanet.org/color-theory-brief-guide-for-designers-76e11c57eaa)
+4. Color Theory [link-4](https://www.youtube.com/watch?v=Qj1FK8n7WgY)
+- [ ] How to use Color Palettes
+1. Color Palettes [link-1](https://www.youtube.com/watch?v=u5AnzLg1HxY)
+2. Color Palettes [link-2](https://www.youtube.com/watch?v=eXcKOqviLE0)
 - [ ] Colors
-- [ ] Choosing colours [link-1](https://uxmisfit.com/2019/05/21/ui-design-in-practice-colors/)
-- [ ] Choosing colours [link-2](https://www.designhill.com/design-blog/how-to-choose-colors-for-the-best-ui-design/)
 - [ ] Text & Fonts Advanced
 - [ ] Drawing
 - [ ] Working with Illustrator 
@@ -434,10 +461,13 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 | ------------- | ------------ |
 | July 12, 2020 |  October 19, 2020|
 
+#### Javascript Intro
+- [ ] Javascript [intro](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
+- [ ] Javascript Best Practises [link-1](https://www.educative.io/blog/javascript-tips-simplify-code)
+
 - [ ] Coding along with Wes Bos's 30 days of javascript
 
 #### JavaScript 101
-- [ ] Javascript [intro](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
 - [ ] Fundamentals Part 1
 - [ ] Fundamentals Part 2
 - [ ] Developer Tools 2
@@ -568,7 +598,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 
 
-### Cross Browser Compatibility
+### Cross Browser Compatibility MDN
 |  Start Date   | End Date     |
 | ------------- | ------------ |
 | July 12, 2020 |  October 19, 2020|
@@ -599,7 +629,16 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 | ------------- | ------------ |
 | July 12, 2020 |  October 19, 2020|
 
+#### React Introduction
+- [ ] React Intro [link-1](https://www.edureka.co/blog/what-is-react/#:~:text=React%20is%20a%20component-based%20library%20which%20is%20used,strong%20foundation%20and%20a%20large%20community%20supporting%20it.)
+- [ ] React Intro [link-2](https://en.wikipedia.org/wiki/React_(web_framework))
+- [ ] React Best Practises [link](https://www.codeinwp.com/blog/react-best-practices/)
+- [ ] React Tips to Get Better at it
+1. React Tips [link-1](https://codeburst.io/the-7-most-common-mistakes-that-react-developers-make-8ff64fc8c61)
+2. React Tips [link-2](https://www.youtube.com/watch?v=BncMF2aTL0w&t=51s)
+3. React Tips [link-3](https://www.youtube.com/watch?v=xa-_FIy2NgE)
 
+#### Amazon Clon with React
 - [ ] Coding along and rebuilding Amazon Clone with React [link](https://www.youtube.com/watch?v=RDV3Z1KCBvo&t=812s) till the end of course by Odin and Net Ninja
 
 #### Completing Ninja React course with odin react course
@@ -796,12 +835,14 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 #### Wordpress Intro
 - [ ] Wordpress intro [link-1](https://ithemes.com/tutorials/what-is-wordpress/#:~:text=WordPress%20is%20an%20open-source%20website%20creation%20platform%20that,excellent%20website%20platform%20for%20a%20variety%20of%20websites.)
 - [ ] Wordpress intro [link-2](https://kinsta.com/blog/wordpress-com-vs-wordpress-org/)
+- [ ] Wordpress intro [link-3](https://www.youtube.com/watch?v=Z1ND4HeGj3o)
 - [ ] What can u do with wordpress [link](https://www.searchenginejournal.com/11-cool-things-can-wordpress-probably-arent/113010/#:~:text=11%20Cool%20Things%20You%20Can%20Do%20With%20WordPress,is%20a%20serious%20concern.%20...%20More%20items...%20)
 - [ ] Wordpress Core and Why is it Improtant [link](https://kinsta.com/blog/wordpress-com-vs-wordpress-org/)
 - [ ] Wordpress.com vs Wordpress.ord [link](https://kinsta.com/blog/wordpress-com-vs-wordpress-org/)
 - [ ] Hidden gems of Wordpress [link](https://bestwordpresstutorials.com/the-hidden-gems-of-wordpress/)
-- [ ] Wordpress.com vs Wordpress.ord Whic one to choose [link](https://www.wpbeginner.com/beginners-guide/self-hosted-wordpress-org-vs-free-wordpress-com-infograph/)
+- [ ] Wordpress.com vs Wordpress.org Which one to choose [link](https://www.wpbeginner.com/beginners-guide/self-hosted-wordpress-org-vs-free-wordpress-com-infograph/)
 - [ ] How to make 100k/YEAR with WordPress Freelancing [link](https://www.youtube.com/watch?v=g36F5Er3X6M)
+- [ ] Wordpress Interface [link](https://www.youtube.com/watch?v=bWTOftSg2Ek)
 
 #### Wordpress Projects: Code Along them as I follow Wordpress Course 1
 - [ ] Project [link-1](https://www.youtube.com/watch?v=8AZ8GqW5iak&t=534s)
@@ -867,7 +908,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [ ] Bonus Debugging & Documentation
 - [ ] VirtualBox and Vagrant
 
-##### Wordpress Project built'll be on my own for Course 2
+##### Wordpress Project'll be built on my own for Course 2
 - [ ] Project [link-1](https://www.phptpoint.com/projects/online-food-order-system-project/)
 - [ ] Project [link-2](https://www.phptpoint.com/projects/courier-management-system-free-download/)
 
@@ -907,6 +948,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [ ] What is Elementor [link-1](https://elementor.com/blog/what-is-elementor-for-wordpress/)
 - [ ] What is Elementor [link-2](https://envato.com/blog/what-is-elementor/)
 - [ ] Elementor Comparison vs Divi [link](https://www.youtube.com/watch?v=gvg0ldGN6A0)
+- [ ] Elementor Interface [link]()
 - [ ] Elementor Tutorial [link](https://www.youtube.com/watch?v=xYrvjaSJH_M&t=207s)
 - [ ] Project [link](https://colorlib.com/preview/#vacationrental)
 
