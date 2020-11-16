@@ -185,6 +185,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 #### Responsive Design and CSS Frameworks
 - [ ] Mobile First RWD [link](https://www.youtube.com/watch?v=PM3XW_1RAIs&list=PL4cUxeGkcC9hH1tAjyUPZPjbj-7s200a4)
 - [ ] Project: [link](https://preview.colorlib.com/theme/constructioncompany/)
+- [ ] Responsive Web Design Tutorial [link](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893)
 - [ ] Responsive Design
 - [ ] Project: Building with Responsive Design
 - [ ] CSS Frameworks like Bootstrap and Foundation
@@ -823,6 +824,28 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 #### Article 
 - [ ] Writing an article about what i've learned
+
+
+
+
+###  SQL
+|  Start Date   | End Date     |
+| ------------- | ------------ |
+| July 12, 2020 |  October 19, 2020|
+
+#### SQL Introduction
+- [ ] What is SQL [link-1](https://www.thebalancecareers.com/what-is-sql-and-uses-2071909#:~:text=SQL%20can%20be%20used%20to%20share%20and%20manage,may%20be%20related%20together%20by%20a%20common%20field.)
+- [ ] What is SQL [link-2](https://www.ntchosting.com/encyclopedia/databases/structured-query-language/)
+- [ ] SQL Mistakes Newbies Make [link](https://www.red-gate.com/simple-talk/sql/t-sql-programming/ten-common-sql-programming-mistakes/#:~:text=%20Ten%20Common%20SQL%20Programming%20Mistakes%20%201,easy%20to%20abstract%20yourself%20from%20the...%20More%20)
+- [ ] SQL Best Practises [link](https://365datascience.com/sql-best-practices/)
+
+#### SQL Project
+- [ ] I'll Do First 2 projects in  [here](https://www.upgrad.com/blog/sql-project-ideas-topics-for-beginners/) as I learn SQL
+
+#### SQL Courses
+- [ ] CodeCademy [link](https://www.codecademy.com/learn/learn-sql)
+- [ ] Odin Project [link](https://www.theodinproject.com/courses/databases)
+- [ ] App Academy [link](https://open.appacademy.io/learn/full-stack-online/sql/)
 
 
 
