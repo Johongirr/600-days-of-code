@@ -168,6 +168,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [ ] Writing an article about what i've learned
 
 #### Design and UX
+- [ ] 6 Rules of Golden Design [link](https://www.youtube.com/watch?v=EFf9jBs2yfU)
 - [ ] Introduction to Design and UX
 - [ ] Fonts and Typography
 - [ ] Fonts
@@ -190,6 +191,20 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [ ] Project: Building with Responsive Design
 - [ ] CSS Frameworks like Bootstrap and Foundation
 - [ ] Project: Using Bootstrap
+
+#### Fonts Advanced
+- [ ] Fonts Advanced 
+1. How to Choose Fonts for Your design [link](https://www.youtube.com/watch?v=IviIMAItx2s&t=3s)
+2. Typography Font for Web Design [link](https://slickplan.com/blog/typography-font-design-for-the-web)
+3. Choosing Typography For Web Design [link](https://dribbble.com/stories/2020/08/17/choosing-typography-for-web-design)
+
+
+#### Color Schemas 
+- [ ] Color Schemas
+1. Website Color Schema and How to Choose Yours [link](https://www.canva.com/learn/website-color-schemes/)
+2. Choosing Best Color Pallette for Website [link](https://speckyboy.com/choosing-best-color-palette-website/)
+3. Web Design Colors [link](https://www.a2hosting.com/blog/web-design-colors/)
+4. Easy Guide to Choose Color Palette [link](https://www.freepik.com/blog/easy-guide-to-choose-a-color-palette-for-your-design/)
 
 #### Article 
 - [ ] Writing an article about what i've learned
