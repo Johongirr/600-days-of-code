@@ -1,9 +1,9 @@
 # Johongirmirzo Rahimov
 
-## 400 Days of Code
+## 600 Days of Code
 |  Start Date   | End Date     |
 | ------------- | ------------ |
-| July 12, 2020 |  October 19, 2020|
+| Nov 19, 2020 |  October 19, 2020|
 
 ## GOALS
 - [ ] Coding daily
@@ -25,11 +25,15 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ### Learning How to Learn by Barbara Oakley
 |  Start Date   | End Date     |
 | ------------- | ------------ |
-| July 12, 2020 |  October 19, 2020|
+| Nov 19, 2020 |  Dec 3, 2020|
 
 #### Videos on achieving goals and learning
-- [ ] watch [link-1](https://www.youtube.com/watch?v=LNHBMFCzznE&t=23s). 
-- [ ] watch [link-2](https://www.youtube.com/watch?v=TQMbvJNRpLE&t=64s).
+- [ ] After Watching this Your Brain'll not be the same [link-1](https://www.youtube.com/watch?v=LNHBMFCzznE&t=23s). 
+- [ ] The First 20 Hours - How to Learn Anything [link-2](https://www.youtube.com/watch?v=5MgBikgcWnY&t=33s)
+- [ ] How to Achieve Your Most Ambitious Goals [link-3](https://www.youtube.com/watch?v=TQMbvJNRpLE&t=64s).
+- [ ] Visualization Technique [link-4](https://www.youtube.com/watch?v=2iPFtZENEq4)
+- [ ] The Skill of Self-confidence [link-5](https://www.youtube.com/watch?v=w-HYZv6HzAs&t=30s)
+- [ ] How to Get Your Brain to Focus [link-6](https://www.youtube.com/watch?v=Hu4Yvq-g7_Y)
 
 #### What is Learning
 - [ ] Focussed versus Diffused Thinking
@@ -68,7 +72,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ### Computer Science by CS50 
 |  Start Date   | End Date     |
 | ------------- | ------------ |
-| July 12, 2020 |  October 19, 2020|
+| Dec 4, 2020 |  Dec 10, 2020|
 
 - [ ] Computational Thinking
 - [ ] C
@@ -89,7 +93,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ### Internet 
 |  Start Date   | End Date     |
 | ------------- | ------------ |
-| July 12, 2020 |  October 19, 2020|
+| Dec 11, 2020 |  Dec 16, 2020|
 
 - [ ] How Internet [works-1](https://medium.com/@User3141592/how-does-the-internet-work-edc2e22e7eb8#:~:text=Summary%201%20The%20Internet%20started%20as%20ARPANET%20in,each%20other%20in%20well-defined%20interfaces.%20More%20items...%20)
 - [ ] How Internet [works-2](https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm)
@@ -119,11 +123,11 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ###  HTML and CSS by Odin Project
 |  Start Date   | End Date     |
 | ------------- | ------------ |
-| July 12, 2020 |  October 19, 2020|
+| Dec 17, 2020 |  Feb 10, 2021|
 
 #### HTML Intro
 - [ ] HTML Best Practises [link](https://www.webfx.com/blog/web-design/20-html-best-practices-you-should-follow/)
-- [ ] 
+
 
 #### Basic HTML Page Structure
 - [ ] HTML Basics
@@ -192,12 +196,18 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [ ] CSS Frameworks like Bootstrap and Foundation
 - [ ] Project: Using Bootstrap
 
+#### Article 
+- [ ] Writing an article about what i've learned
+
 #### Fonts Advanced
 - [ ] Fonts Advanced 
 1. How to Choose Fonts for Your design [link](https://www.youtube.com/watch?v=IviIMAItx2s&t=3s)
 2. Typography Font for Web Design [link](https://slickplan.com/blog/typography-font-design-for-the-web)
 3. Choosing Typography For Web Design [link](https://dribbble.com/stories/2020/08/17/choosing-typography-for-web-design)
+- [ ] Project [title](https://colorlib.com/preview/#fashion)
 
+#### Article 
+- [ ] Writing an article about what i've learned
 
 #### Color Schemas 
 - [ ] Color Schemas
@@ -205,6 +215,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 2. Choosing Best Color Pallette for Website [link](https://speckyboy.com/choosing-best-color-palette-website/)
 3. Web Design Colors [link](https://www.a2hosting.com/blog/web-design-colors/)
 4. Easy Guide to Choose Color Palette [link](https://www.freepik.com/blog/easy-guide-to-choose-a-color-palette-for-your-design/)
+- [ ] Project [title](https://colorlib.com/preview/#logisticexpress)
 
 #### Article 
 - [ ] Writing an article about what i've learned
@@ -229,7 +240,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ###  PSD To HTML
 |  Start Date   | End Date     |
 | ------------- | ------------ |
-| July 12, 2020 |  October 19, 2020|
+| Feb 11, 2021 |  Feb 17, 2021|
 
 - [ ] Tutorial [link-1](https://www.youtube.com/watch?v=d_llyPvEBrU&t=211s)
 - [ ] Tutorial [link-2](https://www.youtube.com/watch?v=KiFqtm0kRlI&list=PL4cUxeGkcC9j-0YIv3EDq58-B1yZWvw8_)
@@ -242,7 +253,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ###  Freelancing Guide
 |  Start Date   | End Date     |
 | ------------- | ------------ |
-| July 12, 2020 |  October 19, 2020|
+| Feb 18, 2021 |  Feb 21, 2021|
 
 - [ ] Freelancing Guide [link-1](https://www.youtube.com/watch?v=QyqbkFbxgSk&t=182s)
 - [ ] Freelancing Guide [link-2](https://www.youtube.com/watch?v=m2N3tmJ_A0Q&t=713s)
@@ -261,7 +272,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ###  Accessibility by MDN
 |  Start Date   | End Date     |
 | ------------- | ------------ |
-| July 12, 2020 |  October 19, 2020|
+| Feb 22, 2021 |  March 7, 2021|
 
 #### Accesibility by Udacity learn it synchronously with MDN's tutorial
 - [ ] Web Accessibility [link](https://www.udacity.com/course/web-accessibility--ud891)
@@ -290,7 +301,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ###  Adobe Photoshop Essentials 
 |  Start Date   | End Date     |
 | ------------- | ------------ |
-| July 12, 2020 |  October 19, 2020|
+| March 8, 2021 |  March 24, 2021|
 
 #### Websites to Follow to enhance Skills
 - Photoshop Essentials [link](https://www.photoshopessentials.com/) 
@@ -354,7 +365,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ###  Adobe Illustrator Essentials
 |  Start Date   | End Date     |
 | ------------- | ------------ |
-| July 12, 2020 |  October 19, 2020|
+| March 25, 2021 |  Apr 10, 2021 |
 
 #### Websites to Follow Enhance Skills 
 - Vector Guru [link](https://theinspirationgrid.com/)
@@ -420,7 +431,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ###  UX/UI by Daniel Walter Scott
 |  Start Date   | End Date     |
 | ------------- | ------------ |
-| July 12, 2020 |  October 19, 2020|
+| Apr 11, 2021 |  Apr 30, 2021 |
 
 - [ ] Design Principles [link](https://www.smashingmagazine.com/2008/01/10-principles-of-effective-web-design/#:~:text=10%20Principles%20Of%20Good%20Website%20Design%201%20Don%E2%80%99t,attention%20more%20than%20others%20do.%20More%20items...%20)
 
@@ -475,7 +486,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ###  JavaScript by Odin Project
 |  Start Date   | End Date     |
 | ------------- | ------------ |
-| July 12, 2020 |  October 19, 2020|
+| May 1, 2021 |  Aug 30, 2021 |
 
 #### Javascript Intro
 - [ ] Javascript [intro](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
@@ -596,7 +607,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ### Web  Security
 |  Start Date   | End Date     |
 | ------------- | ------------ |
-| July 12, 2020 |  October 19, 2020|
+| Aug 31, 2021 |  Sep 4, 2021 |
 
 - [ ] HTTPS [link-1](https://www.addictivetips.com/vpn/https-explained/#:~:text=HTTP%20stands%20for%20Hyper%20Text%20Transfer%20Protocol%2C%20a,HTML%20websites%20to%20PHP%20pages%2C%20Javascript%2C%20and%20beyond.)
  [link-2](https://www.freecodecamp.org/news/wtf-is-https/)
@@ -617,7 +628,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ### Cross Browser Compatibility MDN
 |  Start Date   | End Date     |
 | ------------- | ------------ |
-| July 12, 2020 |  October 19, 2020|
+| Sep 5, 2021 | Sep 18, 2021 |
 
 - [ ] Cross browser testing overview
 - [ ] Introduction to cross browser testing
@@ -643,7 +654,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ###  React
 |  Start Date   | End Date     |
 | ------------- | ------------ |
-| July 12, 2020 |  October 19, 2020|
+| Sep 19, 2021 | Nov 26, 2021 |
 
 #### React Introduction
 - [ ] React Intro [link-1](https://www.edureka.co/blog/what-is-react/#:~:text=React%20is%20a%20component-based%20library%20which%20is%20used,strong%20foundation%20and%20a%20large%20community%20supporting%20it.)
@@ -736,7 +747,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ###  Git and Github
 |  Start Date   | End Date     |
 | ------------- | ------------ |
-| July 12, 2020 |  October 19, 2020|
+| Nov 27, 2021 | Dec 6, 2021 |
 
 - [ ] Git Intro [link](https://www.git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F)
 - [ ] Git Exercises [link](https://www.codecademy.com/learn/learn-git)
@@ -761,10 +772,10 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 
 
-###  PHP & MySql
+###  PHP(OO, PHPUnit, REST API) & MySql 
 |  Start Date   | End Date     |
 | ------------- | ------------ |
-| July 12, 2020 |  October 19, 2020|
+| Dec 7, 2021 | Jan 31, 2022 |
 
 - [ ] PHP Intro [link-1](https://en.wikipedia.org/wiki/PHP#:~:text=PHP%20is%20a%20general-purpose%20scripting%20language%20especially%20suited,stands%20for%20the%20recursive%20initialism%20PHP%3A%20Hypertext%20Preprocessor.)
 
@@ -781,10 +792,6 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 
 ### OO PHP
-|  Start Date   | End Date     |
-| ------------- | ------------ |
-| July 12, 2020 |  October 19, 2020|
-
 - [ ] Building project [link](https://www.phptpoint.com/projects/online-food-order-system-project/) as i follow with courses
 
 - [ ] OOP PHP course [link](https://www.youtube.com/watch?v=Anz0ArcQ5kI&list=PL0eyrZgxdwhypQiZnYXM7z7-OTkcMgGPh)
@@ -808,10 +815,6 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 
 ### PHPUnit Testing
-| Start Date   | End Date     |
-| ------------- | ------------ |
-| July 12, 2020 |  October 19, 2020|
-
 - [ ] Write test for this project [link](https://phpgurukul.com/tourism-management-system-free-download/) as I follow with courses
 
 #### PHPUnit Testing Courses
@@ -826,10 +829,6 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 
 ### RESTFUL Apis with PHP
-| Start Date   | End Date     |
-| ------------- | ------------ |
-| July 12, 2020 |  October 19, 2020|
-
 - [ ] What is REST Api [link-1](https://en.wikipedia.org/wiki/Representational_state_transfer)
 - [ ] What is REST Api [link-2](https://searchapparchitecture.techtarget.com/definition/RESTful-API)
 - [ ] What is REST Api [link-3](https://codeofaninja.com/2017/02/create-simple-rest-api-in-php.html)
@@ -846,7 +845,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ###  SQL
 |  Start Date   | End Date     |
 | ------------- | ------------ |
-| July 12, 2020 |  October 19, 2020|
+| Feb 1, 2022 |  Feb 18, 2020|
 
 #### SQL Introduction
 - [ ] What is SQL [link-1](https://www.thebalancecareers.com/what-is-sql-and-uses-2071909#:~:text=SQL%20can%20be%20used%20to%20share%20and%20manage,may%20be%20related%20together%20by%20a%20common%20field.)
@@ -862,13 +861,14 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [ ] Odin Project [link](https://www.theodinproject.com/courses/databases)
 - [ ] App Academy [link](https://open.appacademy.io/learn/full-stack-online/sql/)
 
-
+#### Article 
+- [ ] Writing an article about what i've learned
 
 
 ###  Wordpress
 |  Start Date   | End Date     |
 | ------------- | ------------ |
-| July 12, 2020 |  October 19, 2020|
+| Feb 19, 2022 |  Apr 30, 2022 |
 
 #### Wordpress Intro
 - [ ] Wordpress intro [link-1](https://ithemes.com/tutorials/what-is-wordpress/#:~:text=WordPress%20is%20an%20open-source%20website%20creation%20platform%20that,excellent%20website%20platform%20for%20a%20variety%20of%20websites.)
@@ -886,9 +886,6 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 #### Wordpress Projects: Code Along them as I follow Wordpress Course 1
 - [ ] Project [link-1](https://www.youtube.com/watch?v=8AZ8GqW5iak&t=534s)
 - [ ] Project [link-2](https://www.youtube.com/watch?v=6gosrWrGF9Q&t=1s)
-
-#### Article 
-- [ ] Writing an article about what i've learned
 
 #### Wordpress Course 1
 - [ ] Introduction to the Course
@@ -1015,10 +1012,11 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 
 
+
 ###  Laravel
 |  Start Date   | End Date     |
 | ------------- | ------------ |
-| July 12, 2020 |  October 19, 2020|
+| May 1, 2022 |  Jul 9, 2022|
 
 - [ ] MVC design pattern [link](https://addyosmani.com/resources/essentialjsdesignpatterns/book/#detailmvcmvp)
 - [ ] MVC In Laravel [link-1](https://blog.pusher.com/laravel-mvc-use/)
