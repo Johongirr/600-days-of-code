@@ -10,9 +10,9 @@
 - [ ] Creating blog and publishing articles 
 - [ ] Getting a job
 
-| Log  1| | Log 2 | | Log 3 | | Log 4 | | Log 5 | | Log 6 |
-| ----- | | ----- | | ----- | | ----- | | ----- | | ----- |
-| [100 Days Round 1](https://github.com/Johongirr/365-days-of-code/blob/master/log1.md) | | [100 Days Round 2](https://github.com/Johongirr/365-days-of-code/blob/master/log1.md)| | [100 Days Round 3](https://github.com/Johongirr/365-days-of-code/blob/master/log1.md) | | [100 Days Round 4](https://github.com/Johongirr/365-days-of-code/blob/master/log1.md) | | [100 Days Round 5](https://github.com/Johongirr/365-days-of-code/blob/master/log1.md) |  | [100 Days Round 6](https://github.com/Johongirr/365-days-of-code/blob/master/log1.md) |
+| Log  1| Log 2 |  Log 3  | Log 4  | Log 5  | Log 6 |
+| ----- |  ----- |  -----  | -----  | -----  | ----- |
+| [100 Days Round 1](https://github.com/Johongirr/365-days-of-code/blob/master/log1.md)  | [100 Days Round 2](https://github.com/Johongirr/365-days-of-code/blob/master/log1.md)|  [100 Days Round 3](https://github.com/Johongirr/365-days-of-code/blob/master/log1.md)  | [100 Days Round 4](https://github.com/Johongirr/365-days-of-code/blob/master/log1.md)  | [100 Days Round 5](https://github.com/Johongirr/365-days-of-code/blob/master/log1.md)   | [100 Days Round 6](https://github.com/Johongirr/365-days-of-code/blob/master/log1.md) |
 
 
  
