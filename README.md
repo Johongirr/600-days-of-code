@@ -12,7 +12,7 @@
 
 | Log  1| Log 2 |  Log 3  | Log 4  | Log 5  | Log 6 |
 | ----- |  ----- |  -----  | -----  | -----  | ----- |
-| [100 Days Round 1](https://github.com/Johongirr/365-days-of-code/blob/master/log1.md)  | [100 Days Round 2](https://github.com/Johongirr/365-days-of-code/blob/master/log1.md)|  [100 Days Round 3](https://github.com/Johongirr/365-days-of-code/blob/master/log1.md)  | [100 Days Round 4](https://github.com/Johongirr/365-days-of-code/blob/master/log1.md)  | [100 Days Round 5](https://github.com/Johongirr/365-days-of-code/blob/master/log1.md)   | [100 Days Round 6](https://github.com/Johongirr/365-days-of-code/blob/master/log1.md) |
+| [100 Days Round 1](https://github.com/Johongirr/600-days-of-code/blob/master/log1.md)  | [100 Days Round 2](https://github.com/Johongirr/600-days-of-code/blob/master/log2.md)|  [100 Days Round 3](https://github.com/Johongirr/600-days-of-code/blob/master/log3.md)  | [100 Days Round 4](https://github.com/Johongirr/600-days-of-code/blob/master/log4.md)  | [100 Days Round 5](https://github.com/Johongirr/600-days-of-code/blob/master/log5.md)   | [100 Days Round 6](https://github.com/Johongirr/600-days-of-code/blob/master/log6.md) |
 
 
  
