@@ -10,14 +10,16 @@
 - [ ] Creating blog and publishing articles 
 - [ ] Getting a job
 
-| Log  | 
-| --- |
-| [log](https://github.com/Johongirr/365-days-of-code/blob/master/log1.md) | 
+| Log  1| | Log 2 | | Log 3 | | Log 4 | | Log 5 | | Log 6 |
+| ----- | | ----- | | ----- | | ----- | | ----- | | ----- |
+| 100 Days Round [log](https://github.com/Johongirr/365-days-of-code/blob/master/log1.md) | | 100 Days Round  [log](https://github.com/Johongirr/365-days-of-code/blob/master/log1.md)| | 100 Days Round [log](https://github.com/Johongirr/365-days-of-code/blob/master/log1.md) | | 100 Days Round [log](https://github.com/Johongirr/365-days-of-code/blob/master/log1.md) | | 100 Days Round [log](https://github.com/Johongirr/365-days-of-code/blob/master/log1.md) |  | 100 Days Round [log](https://github.com/Johongirr/365-days-of-code/blob/master/log1.md) |
 
+
+ 
 ## Challenge & Commitment
 This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway/100-days-of-code "the official repo") challenge. More details about the challenge can be found here: [100daysofcode.com](http://100daysofcode.com/ "100daysofcode.com").
 
-**Commitment:** *I will code daily to hone my programming skill for the next 400 days*
+**Commitment:** *I will code daily to hone my programming skill for the next 600 days*
 
  
 
