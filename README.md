@@ -3,7 +3,7 @@
 ## 600 Days of Code
 |  Start Date   | End Date     |
 | ------------- | ------------ |
-| Nov 19, 2020 |  October 19, 2020|
+| Nov 19, 2020 |  Jul 9, 2022|
 
 ## GOALS
 - [ ] Coding daily
