@@ -27,7 +27,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ### Learning How to Learn by Barbara Oakley
 |  Start Date   | End Date     |
 | ------------- | ------------ |
-| Nov 19, 2020 |  Dec 3, 2020|
+| Nov 20, 2020 |  Dec 3, 2020|
 
 #### Videos on achieving goals and learning
 - [ ] After Watching this Your Brain'll not be the same [link-1](https://www.youtube.com/watch?v=LNHBMFCzznE&t=23s). 
