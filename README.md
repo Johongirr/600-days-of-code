@@ -30,12 +30,12 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 | Nov 20, 2020 |  Dec 3, 2020|
 
 #### Videos on achieving goals and learning
-- [x] After Watching this Your Brain'll not be the same [link-1](https://www.youtube.com/watch?v=LNHBMFCzznE&t=23s) 
-- [x] The First 20 Hours - How to Learn Anything [link-2](https://www.youtube.com/watch?v=5MgBikgcWnY&t=33s)
-- [x] How to Achieve Your Most Ambitious Goals [link-3](https://www.youtube.com/watch?v=TQMbvJNRpLE&t=64s).
-- [x] Visualization Technique [link-4](https://www.youtube.com/watch?v=2iPFtZENEq4)
-- [x] The Skill of Self-confidence [link-5](https://www.youtube.com/watch?v=w-HYZv6HzAs&t=30s)
-- [x] How to Get Your Brain to Focus [link-6](https://www.youtube.com/watch?v=Hu4Yvq-g7_Y)
+- [X] After Watching this Your Brain'll not be the same [link-1](https://www.youtube.com/watch?v=LNHBMFCzznE&t=23s) 
+- [X] The First 20 Hours - How to Learn Anything [link-2](https://www.youtube.com/watch?v=5MgBikgcWnY&t=33s)
+- [X] How to Achieve Your Most Ambitious Goals [link-3](https://www.youtube.com/watch?v=TQMbvJNRpLE&t=64s).
+- [X] Visualization Technique [link-4](https://www.youtube.com/watch?v=2iPFtZENEq4)
+- [X] The Skill of Self-confidence [link-5](https://www.youtube.com/watch?v=w-HYZv6HzAs&t=30s)
+- [X] How to Get Your Brain to Focus [link-6](https://www.youtube.com/watch?v=Hu4Yvq-g7_Y)
 
 #### What is Learning
 - [ ] Focussed versus Diffused Thinking
