@@ -37,38 +37,6 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [X] The Skill of Self-confidence [link-5](https://www.youtube.com/watch?v=w-HYZv6HzAs&t=30s)
 - [X] How to Get Your Brain to Focus [link-6](https://www.youtube.com/watch?v=Hu4Yvq-g7_Y)
 
-#### What is Learning
-- [ ] Focussed versus Diffused Thinking
-- [ ] Procrastination, Memory, Sleep
-- [ ] Summary
-- [ ] Review
-- [ ] Reflactive Essay about a Learning Challenge
-
-#### Chunking
-- [ ] Chunking - The Essentials
-- [ ] Seeing the Bigger Picture
-- [ ] Review
-- [ ] Optional Further Readings
-- [ ] Optional Interviews
-
-#### Procrastination and Memory
-- [ ] Procrastination
-- [ ] Memory
-- [ ] Review
-- [ ] Optional Further Readings
-- [ ] Optional Interviews
-- [ ] Final Project on Learning
-
-#### Renaissance Learning and Unlocking Your Potential
-- [ ] Renaissance Learning and Unlocking Your Potential I
-- [ ] Renaissance Learning and Unlocking Your Potential II
-- [ ] Review
-- [ ] Optional Further Readings
-- [ ] Reading
-
-#### Article 
-- [ ] Writing an article about this course
-
 
 
 ### Computer Science by CS50 
