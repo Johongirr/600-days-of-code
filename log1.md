@@ -93,11 +93,11 @@ In Pre-Order algorithm first root(parent) node visited, then all left child node
 It is used to copy tree
 
 ##### Post-Order and for What it is used for
-In Post-Order first left leaf node then right leaf node and then finally parent node visited: LEFT CHILD -> RIGHT CHILD -> ROOT 
+In Post-Order first left child node then right child node and then finally parent node visited: LEFT CHILD -> RIGHT CHILD -> ROOT 
 It's used to delete tree as it first visits child nodes then parent node
 
 ##### In-Order
-In In-Order first left leaf node and then its parent node then its right sibling leaf node visited: LEFT CHILD -> ROOT -> RIGHT CHILD
+In In-Order first left child node and then its parent node then right child node visited: LEFT CHILD -> ROOT -> RIGHT CHILD
 If we use In-Order in BSTS we will get sorted data
 
 
