@@ -44,11 +44,11 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 | ------------- | ------------ |
 | Dec 4, 2020 |  Dec 10, 2020|
 
-- [ ] Computational Thinking
-- [ ] C
-- [ ] Arrays
-- [ ] Algorithms
-- [ ] Memory
+- [x] Computational Thinking
+- [x] C
+- [x] Arrays
+- [x] Algorithms
+- [x] Memory
 - [ ] Data Structures
 - [ ] Python
 - [ ] SQL
