@@ -71,6 +71,36 @@ Adding and Removing O(1)
 Accessing and Searching O(n)
 
 
+### Day 4: Dec 7, 2020
+
+#### Things I've learned today
+   * Tree Traversal
+   * Breadth First Search
+   * Depth First Search (Pre-Order; Post-Order; In-Order)
+   
+   
+##### Tree Traversal
+Traversing Tree is process of visiting (checking and or updating) each node exactly once in the tree data structures
+
+##### Breadth First Search
+Breadth First Search  searches nodes on the same level and it uses queue(array/sll/dll) to enqueue them and after it visited them, itdequeue them
+
+##### Depth First Search
+Depth First Search searches nodes vertically and it has 3 algorithms on its own to visit nodes on the specific order
+
+##### Pre-Order and for What it is used for
+In Pre-Order algorithm first root(parent) node visited, then all left child nodes and all right child nodes: ROOT -> LEFT CHILD -> RIGHT CHILD
+It is used to copy tree
+
+##### Post-Order and for What it is used for
+In Post-Order first left leaf node then right leaf node and then finally parent node visited: LEFT CHILD -> RIGHT CHILD -> ROOT 
+It's used to delete tree as it first visits child nodes then parent node
+
+##### In-Order
+In In-Order first left leaf node and then its parent node then its right sibling leaf node visited: LEFT CHILD -> ROOT -> RIGHT CHILD
+If we use In-Order in BSTS we will get sorted data
+
+
 
 
 
