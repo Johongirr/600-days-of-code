@@ -102,5 +102,33 @@ If we use In-Order in BSTS we will get sorted data
 
 
 
+### Day 5: Dec 8, 2020
+
+#### Things I've learned today
+        * Binary Heaps
+        * Priority Queues
+        
+        
+##### Binary Heaps
+Binary Heaps are one of the Heap data structure and is also like tree especially Binary Search Tree
+
+Binary Heaps has following things:
+1. Each parent node can have at most 2 child nodes
+2. left child node is always inserted first. As a result they become compact trees. Unlike BSTS in which as a result of adding all nodes to one side, SLL/DLL like structure is created.
+3. In Binary Heaps there are no such rules as values of the child nodes that are greater than the values of the parent node, go to the right side of the parent node and values of the child nodes that are smaller than the values of the parent node, go to the left side of the parent node.
+4. There are 2 rules to use BH, values of parent nodes either must alwaybe greater than their child nodes or values of parent nodes must always be smaller than values of child nodes based on type of heap is used
+5. In Max Binary Heaps value of parent node must always be greater than values of child nodes
+6. In Min Binary Heaps value of parent node must always be smaller than values of child nodes
+7. BH can be implemented by SLL/DLL but it is most often used and recommended with Array as by using one awesome math formula -> 
+   * We can find left and right child of parent node by following formula:  parent node at index of "n" in an array, its left child is stored at index of  2 * n + 1 and its      right child is stored at index of 2 * n + 2 and they have to be floored as division returns decimal as in array indexes integer based
+   * We can find index parent node in index of child at "n" (n - 1) / 2 and it has to be floored
+8. Big O of Adding and Removing is O(log n) and Searching is O(n)
+9. It is used to implement Graph Traversal
+10. It is used to implement Priority Queues
+
+##### Priority Queues
+1. Priority Queues are data structure in which nodes are specified priorities and nodes with higher priorities are dequeued(executed, served) before nodes with lower priorities.
+2. It is best implemented with Binary Heaps
+
 
 
