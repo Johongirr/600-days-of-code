@@ -132,3 +132,41 @@ Binary Heaps has following things:
 
 
 
+### Day 6: Dec 9, 2020
+
+#### Things I've learned today
+       * Hash Tables
+       
+##### Hash Tables
+Hash Tables are data structure that consists of collection of key-value pairs and it's built-in most programming languages. We know it as Objects and Maps in JavaScript and dictionaries in Python and it is built-in many other programming languages.
+
+##### How to Create Hash Table
+Hash Tables is implemented with Array
+We have to use a hash function to convert key to valid index to find value of it.
+
+##### Hash Function
+1. Hash function basically creates index for key-value pairs to be inserted in arrays
+2. It uses prime numbers to distribute key-value pairs evenly throughout an array.
+3. Optimally array length of also should be some prime number 
+3. Same input always produce same output
+4. It takes input of any size and create fixed size (if array length is 10 it will create indexes 0-9 regardkess input sizes
+5. It should be fast (constant time)
+
+##### Hash Collision
+Hash collision is when more than one key-value pair is inserted at the same index
+It has 2 solutions
+1. Use Separate chaining which is you can insert more than single key-value pair at the same index thus number of key-value pairs are more than length of an array
+2. Use Linear probing which is you can insert only one key-value pair at each index thus array length and amount of key-value pairs will be equal
+
+##### Hash function use cases
+It is used in Security, Cryptography, Hash Tables
+
+##### Big O of Hash Tables
+Average case: Adding O(1); Removing O(1); Accessing O(1)
+
+Worst Case O(n)
+
+
+
+
+
