@@ -74,9 +74,9 @@ Accessing and Searching O(n)
 ### Day 4: Dec 7, 2020
 
 #### Things I've learned today
-   * Tree Traversal
-   * Breadth First Search
-   * Depth First Search (Pre-Order; Post-Order; In-Order)
+ * Tree Traversal
+ * Breadth First Search
+ * Depth First Search (Pre-Order; Post-Order; In-Order)
    
    
 ##### Tree Traversal
@@ -105,8 +105,8 @@ If we use In-Order in BSTS we will get sorted data
 ### Day 5: Dec 8, 2020
 
 #### Things I've learned today
-        * Binary Heaps
-        * Priority Queues
+ * Binary Heaps
+ * Priority Queues
         
         
 ##### Binary Heaps
@@ -135,7 +135,7 @@ Binary Heaps has following things:
 ### Day 6: Dec 9, 2020
 
 #### Things I've learned today
-       * Hash Tables
+ * Hash Tables
        
 ##### Hash Tables
 Hash Tables are data structure that consists of collection of key-value pairs and it's built-in most programming languages. We know it as Objects and Maps in JavaScript and dictionaries in Python and it is built-in many other programming languages.
