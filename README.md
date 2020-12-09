@@ -49,10 +49,8 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [x] Arrays
 - [x] Algorithms
 - [x] Memory
-- [ ] Data Structures
-- [ ] Python
-- [ ] SQL
-- [ ] Information
+- [x] Data Structures
+ 
 
 #### Article 
 - [ ] Writing an article about this course
