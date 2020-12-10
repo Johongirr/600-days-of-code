@@ -168,5 +168,17 @@ Worst Case O(n)
 
 
 
+#### Day 7: Dec 10, 2020
+
+##### Things I've done today
+ * Today I wrote my first ever blog
+ * Decided to create my Youtube channel
+ 
+##### My Blog
+I wrote my first ever blog on blogging platform DEV.to. It was just introduction on about me and 100 days of coding challenge that I started. And my goal of sharing my weekly progress on it
+
+##### My Youtube Channel
+I've finally made commitment to create my Youtube channel. I collected enough information on how to create Youtube channel and based on collected data, I made a plan on what kind of youtube channel i'm creating, what I'm teaching the first. So I'm teaching as I'm learning in my curriculum
+
 
 
