@@ -53,7 +53,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
  
 
 #### Article 
-- [ ] Writing an article about this course
+- [x] Writing an article about this course
 
 
 
