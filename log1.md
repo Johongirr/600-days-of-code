@@ -28,7 +28,7 @@ As nodes in DLL use two pointers and data while in SLL only uses data and a sing
 I've been learning Algorithms and Data Structures Which is the course of Colt Steele. And I'm very satisfied with his course for it contains not only theortical explanations of topics but also practical exercies
 
 
-#### Day 3: Dec 6, 2020
+### Day 3: Dec 6, 2020
 
 #### Things I've Learned
  * Stacks and Queues
@@ -168,7 +168,7 @@ Worst Case O(n)
 
 
 
-#### Day 7: Dec 10, 2020
+### Day 7: Dec 10, 2020
 
 ##### Things I've done today
  * Today I wrote my first ever blog
@@ -181,4 +181,49 @@ I wrote my first ever blog on blogging platform DEV.to. It was just introduction
 I've finally made commitment to create my Youtube channel. I collected enough information on how to create Youtube channel and based on collected data, I made a plan on what kind of youtube channel i'm creating, what I'm teaching the first. So I'm teaching as I'm learning in my curriculum
 
 
+
+### Day 8: Dec 11, 2020
+
+##### Things I've learned
+ * How internet works
+ * Web hosting and domain name
+ * What is software
+ * Software devlopment life cycle
+ 
+*I'll go briefly on each topic as they all were very long materials
+
+##### How Internet Works
+Internet works via well defined interfaces, protocols, packet routing routers, IP protocols, TCP protocols, FTP protocols and many more protocosl. It could be said Internet consits of protocols on how computers should communicate with each other.
+ 
+##### Internet layers
+Internet can be broken down into four independent layers each of which uses capabilities of layers underneath it. These layers are called network layers.And they are followings:
+1. Application layer - application layers all capabilites of layers below it wihout worrying their implementation details, all the things that is interacted on the internet lives in this layer and also many protofols, IMAP, FTP and many more
+
+2. Transport layer - This layer is there for if data loss in Link and Internet layers. That's why TCP layer lives in here which has 2 jobs. TCP reconstruct messages from packets and TCP re-transmit packets that did not reach to the destination computer
+
+3. Internet layer - is concerned with routing packets to their destinations. IP Internet Protocol lives in here which is job is specify routers how to move packets to the destination computer but it doesn't guarentee that packet always make it to the destination
+4. Link layer - it is physical layer which transmits data bits via some physical things in the form of fibre optic cables or wi-fi radio signals
+
+##### Web Hostingn and domain name
+Web hosting is remote computer server which is inserted into hude building or warehouse which stores files of your website and put your website onlin on the Internet
+Domain name is address of your website
+
+##### What is software
+Software is sets of instrucions to tell computer what to do
+
+There are types of software
+1. Application software is anything that's designed for the client: website, webapp, browser, mediaplayer, spreadsheet and many many more
+
+2. System software is anything to do with internal sytem of the computer like hardware, OS, Word processing editor and it works as interface between hardware and user applications
+
+
+##### SDLC
+It consits of 7 stages
+1. Planning 
+2. Requirement analysis
+3. Design
+4. Implementation/Coding
+5. Testing
+6. Deployment
+7. Maintanance
 
