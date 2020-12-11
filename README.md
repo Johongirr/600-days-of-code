@@ -87,7 +87,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 
 
-15
+
 ###  HTML and CSS by Odin Project
 |  Start Date   | End Date     |
 | ------------- | ------------ |
