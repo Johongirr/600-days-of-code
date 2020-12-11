@@ -63,7 +63,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 | ------------- | ------------ |
 | Dec 11, 2020 |  Dec 16, 2020|
 
-- [ ] How Internet [works-1](https://medium.com/@User3141592/how-does-the-internet-work-edc2e22e7eb8#:~:text=Summary%201%20The%20Internet%20started%20as%20ARPANET%20in,each%20other%20in%20well-defined%20interfaces.%20More%20items...%20)
+- [x] How Internet [works-1](https://medium.com/@User3141592/how-does-the-internet-work-edc2e22e7eb8#:~:text=Summary%201%20The%20Internet%20started%20as%20ARPANET%20in,each%20other%20in%20well-defined%20interfaces.%20More%20items...%20)
 - [ ] How Internet [works-2](https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm)
 - [ ] Domain Name and Web [hosting](https://www.webhostingsecretrevealed.net/blog/web-hosting-guides/what-is-the-difference-between-a-domain-and-web-hosting/#:~:text=Domain%20vs%20Sub-domain%20%20%20%20Website%20Domain,%E2%80%93%20%20%20%E2%80%93%20%20%20co.jp%20)
 - [ ] What is [software-1](https://www.britannica.com/technology/software)
