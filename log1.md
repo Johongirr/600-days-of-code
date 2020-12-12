@@ -227,3 +227,30 @@ It consits of 7 stages
 6. Deployment
 7. Maintanance
 
+
+
+
+### Day 9: Dec 12, 2020
+
+##### Thing I've learned
+ * How browser Works
+ 
+
+##### How Browser Works
+Browser is software application that is installed on the computer and is the client on the  Internet. It's used to retrieve web pages, documents, PDFs and display them on the screen
+
+##### Web page, Website, Web server, Search engine
+1. Web page is a single html document which can inlude external css, internal css, third party librariies and javascript files
+2. Website is the collection of web pages that's linked with each other via links 
+3. Web server is the remote computer where website is stored
+4. Search engine is that which helps to find web pages. Search engines examples: Google, Yahoo, Yandex and more and also you can use search bar at the top of your browser
+
+
+##### Browser Structure
+1. UI of Browser which user directly interacts with are as followings: prev and next buttons, load and pause buttons, settings, preferences, bookmark, search bar, and many more
+2. The Browser engine combines capabalities of UI of Browser with Rendering engine
+3. Rendering engine displays parsed content of HTML, CSS, JavaScript and visual assets little by little on the screen as it receives packets from network calls to the server.
+So Rendering engine can't wait till all packets come and parse them and display that'would be horrible UX and for this reason it gradually displays parsed contents of HTML,CSS,JAVASCRIPT and other visual assets to the users
+4. Networking - is where request is made to the server HTTP/HTTPS
+5. JavaScript interpreter - is used to parse and execute javascript code
+6. Data Storage - this is a persisten layer and browser sometimes needs to save data locally like cookies and sessions and it has built-in storage  localStorage, IndexedDB, WebSQL and FileSystem.
