@@ -254,3 +254,22 @@ So Rendering engine can't wait till all packets come and parse them and display 
 4. Networking - is where request is made to the server HTTP/HTTPS
 5. JavaScript interpreter - is used to parse and execute javascript code
 6. Data Storage - this is a persisten layer and browser sometimes needs to save data locally like cookies and sessions and it has built-in storage  localStorage, IndexedDB, WebSQL and FileSystem.
+
+
+
+### Day 10: Dec 13, 2020
+
+##### Things 
+ * What is Client and Server
+
+##### Client
+Client is software application that runs on OS, mobile phones and any devices that has internet connection and installed browser. Users use it to browse the web.
+
+##### Client-side code
+Client-side code runs on the browser and so called front end developers use front end programming languages like Javascript, HTML, CSS to create UI of website
+
+##### Server
+Server is the remote computer on the web where it stores all files of static and dynamic website
+
+##### Server-side code
+Server-side code runs on the server and it's called backend programming where developer by using backend programming languages such as PHP, PYTHON, RUBY and their corresponding frameworks to dynamically create webpages based on the client's request
