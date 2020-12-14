@@ -79,8 +79,8 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [x] Client vs [server](https://blog.teamtreehouse.com/i-dont-speak-your-language-frontend-vs-backend)
 - [x] Client Side vs Server Side [development](https://careerkarma.com/blog/client-vs-server-side-development/#:~:text=Client-side%20web%20development%20involves%20interactivity%20and%20displaying%20data%2C,web%20development%20are%20client-side%2C%20server-side%2C%20and%20full-stack%20development.)
 - [x] What is Web [development](https://www.techopedia.com/definition/23889/web-development)
-- [ ] Common Software Architectural [patterns](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013)
-- [ ] The 5 Software Articheture Patterns You Need to Know(https://dzone.com/articles/software-architecture-the-5-patterns-you-need-to-k)
+- [x] Common Software Architectural [patterns](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013)
+- [x] The 5 Software Articheture Patterns You Need to Know(https://dzone.com/articles/software-architecture-the-5-patterns-you-need-to-k)
 
 #### Article 
 - [ ] Writing an article about what i've learned
