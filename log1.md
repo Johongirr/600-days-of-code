@@ -259,7 +259,7 @@ So Rendering engine can't wait till all packets come and parse them and display 
 
 ### Day 10: Dec 13, 2020
 
-##### Things 
+##### Things I've learned
  * What is Client and Server
 
 ##### Client
@@ -273,3 +273,25 @@ Server is the remote computer on the web where it stores all files of static and
 
 ##### Server-side code
 Server-side code runs on the server and it's called backend programming where developer by using backend programming languages such as PHP, PYTHON, RUBY and their corresponding frameworks to dynamically create webpages based on the client's request
+
+
+
+### Day 11: Dec 14, 2020
+
+##### Things I've learned
+ * 10 most commonly used software architectural patterns
+ 
+##### Software architectural pattern
+Software Architectural patterns is general reusable solutions to  commonly occuring problems in Software Architecture within a given context. They are like design patterns but their scope is broader
+
+##### 10 most commonly used Software architectural patterns are as followings:
+ 1. Layered pattern
+ 2. Client Server pattern
+ 3. Master Slave pattern
+ 4. Pipe Filter pattern
+ 5. Broker pattern
+ 6. Peer-to-peer pattern
+ 7. Event-bust pattern
+ 8. Model-view-controller pattern
+ 9. Blackboard pattern
+ 10.Interpreter pattern
