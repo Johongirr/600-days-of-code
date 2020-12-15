@@ -83,7 +83,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [x] The 5 Software Articheture Patterns You Need to Know(https://dzone.com/articles/software-architecture-the-5-patterns-you-need-to-k)
 
 #### Article 
-- [ ] Writing an article about what i've learned
+- [x] Writing an article about what i've learned
 
 
 
@@ -265,7 +265,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 
 
-76
+
 ###  Adobe Photoshop Essentials 
 |  Start Date   | End Date     |
 | ------------- | ------------ |
