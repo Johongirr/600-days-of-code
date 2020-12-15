@@ -295,3 +295,12 @@ Software Architectural patterns is general reusable solutions to  commonly occur
  8. Model-view-controller pattern
  9. Blackboard pattern
  10.Interpreter pattern
+ 
+ 
+ 
+ ### Day 12: Dec 15, 2020
+ 
+ #### Things I've done
+ Today I only solved coding challenges and reviewed some lessons
+ 
+ 
