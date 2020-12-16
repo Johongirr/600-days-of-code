@@ -304,3 +304,8 @@ Software Architectural patterns is general reusable solutions to  commonly occur
  Today I only solved coding challenges and reviewed some lessons
  
  
+ 
+ ### Day 13: Dec 16, 2020
+ 
+ #### Thing's I've done
+ Today I've solved coding challenges on data structures that I've learned from tomorrow I'm starting with HTML
