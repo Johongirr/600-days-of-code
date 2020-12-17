@@ -309,3 +309,103 @@ Software Architectural patterns is general reusable solutions to  commonly occur
  
  #### Thing's I've done
  Today I've solved coding challenges on data structures that I've learned from tomorrow I'm starting with HTML
+ 
+ 
+ 
+ ### Day 14: Dec 17, 2020
+ 
+ #### Things I've learned
+  * HTML basics, semantic elements, best practises
+  
+  
+ ##### Semantic HTML
+ Semantics in HTML just means giving content of the web page proper meaning, outline and structure and by using appropriate semantic HTML elements.
+
+- So in short semantic element
+
+    Semantic element indicates what kind of content it contains
+
+- What using semantic elements result in
+
+    Using semantic elements help enable computers, screen readers, search engines and other devices to effectively read and  understand content of the web page.
+
+- Why developers/designers should about using semantic elements
+    - For search engines
+
+        Semantic elements enable search engine to better read and understand the content of your websites. this ultimately placing you higher in search engine ranks
+
+    - For screen readers
+
+        Many disabled people such as visually impaired(blind) people use screen readers which reads content on the web for them. screen readers understand well semantic elements so semantic elements make website accessible to everyone
+
+- text based semantical elements
+    - headings <h1> to <h6>
+
+        Headings help breaking content of the page and  with building hierarchy of each web page thus enabling searching engines index of a page and determine content of the web age. And they should be for semantic meaning not for making text bold
+
+        - can you have more than one h1 in a single page
+
+            version of before HTML5; h1 must be used once for per page and it indicates semantic meaning for screen readers that what this page is about
+
+            But this is no longer case with HTML5; you can use multiple h1 headings for each web page
+
+    - paragraphs <p></p>
+
+        paragraphs just contains paragraphs and often used after heading to describe what title says in heading
+
+    - bold text with <strong></strong> and <b></b>
+
+        <strong></strong> semantic elements indicates that it contains important text
+
+        <b></b> on the other hand is used to just making text stylistically bold
+
+    - emphasizing text <em></em> and <i></i>
+
+        <em></em> element is used to indicate that text it contains should be emphasized
+
+        <i></i> text contains in it semantically means that it's alternative voice or tone. 
+
+- structurally semantical elements
+    - What are structurally semantical elements
+
+        They give semantic structure to the web page and can be used multiple times as long as used correctly
+
+    - header element
+
+        <header> </header> elements semantically means that it's top part of the web page, article, sections, and other fragment of the web page. Inside header element can include followings introductory text, heading,  or even navigation 
+
+    - navigation element
+
+        <nav></nav> is used to indicate it contains major navigational links of the web page. It should only be used with major navigational sections such as global navigations, a table of contents, next/previous links  and other major navigational links
+
+        - Can it be used everywhere
+
+            No. if there's single link and not very important links use <a></a>
+
+    - article element
+
+        <article></article> element is used to indicate independent and context free section of the page that can be independently distributed and reused and still makes sense when used in different context.
+
+        - How to decide whether to use article or not
+
+            So when deciding to use article or not, we should think that if content in it is reused in different context does it still makes sense in new context if so we can use it.
+
+    - section element
+
+        Thematic means: - indicating theme of sentence;
+
+        <section></section> semantically indicates that it contains thematically related group of content and generally includes heading.
+
+        Section is useful to break up and provide a hierarchy for the web page
+
+    - aside element
+
+        <aside></aside> element contains content like sidebars, inserts or brief explanations and content in it is related  to its surrounding content(its parent element → it's nested inside another element)
+
+        - Usage with article
+
+            if aside is used inside article element it contains content about author of the article
+
+    - footer element
+
+        <footer></footer> element  semantically indicates  the end of the page, section, article or other fragment of the web page. And it's at the bottom of its parent element. And it should only contains content that's related to its parent element not different
