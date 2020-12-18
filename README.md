@@ -98,8 +98,8 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 
 #### Basic HTML Page Structure
-- [ ] HTML Basics
-- [ ] Linking Internal and External Pages
+- [x] HTML Basics
+- [x] Linking Internal and External Pages
 - [ ] Working with Images, Video and Other Media
 - [ ] Project: Embedding Images and Video
 - [ ] What's New in HTML5
