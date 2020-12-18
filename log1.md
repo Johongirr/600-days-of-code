@@ -409,3 +409,165 @@ Software Architectural patterns is general reusable solutions to  commonly occur
     - footer element
 
         <footer></footer> element  semantically indicates  the end of the page, section, article or other fragment of the web page. And it's at the bottom of its parent element. And it should only contains content that's related to its parent element not different
+
+
+
+
+ ### Day 15: Dec 18, 2020
+ 
+ #### Things I've learned
+  * CSS position elements
+  * In which order to use CSS declarations
+  
+  - CSS
+    - Declarations order
+
+        You should combine declarations that are related to into single group in this order
+
+        Reason positioning comes first because positioning element can remove it from normal document flow and override box model styles
+
+        And box model comes next as it describe dimensions of elements
+
+        Other do not effect above two in any shape of form so they come last
+
+        1. Positioning
+        2. Box Model
+        3. Typography
+        4. Visual
+        5. Misc
+
+        ```html
+        declaration-order {
+          /* Positioning */
+          position: absolute;
+          top: 0;
+          right: 0;
+          bottom: 0;
+          left: 0;
+          z-index: 100;
+
+          /* Box-model */
+          display: block;
+          float: right;
+          width: 100px;
+          height: 100px;
+
+          /* Typography */
+          font: normal 13px "Helvetica Neue", sans-serif;
+          line-height: 1.5;
+          color: #333;
+          text-align: center;
+
+          /* Visual */
+          background-color: #f5f5f5;
+          border: 1px solid #e5e5e5;
+          border-radius: 3px;
+
+          /* Misc */
+          opacity: 1;
+        }
+        ```
+
+    - Selectors
+
+        Avoid using attribute selectors because the Browser performance slow down causes by usage attribute selectors
+
+    - CSS link pseudo-classes
+        - What are the actual link pseudo-classes
+
+            :link and :visited are made specifically for <a> tag to style it
+
+        - What are dynamic pseudo-classes
+
+            Dynamic pseudo-classes are :active, :hover, :focus which can be used to style not only links but any HTML elements
+
+        - What link pseudo-classes
+
+            Link pseudo-classes are just certain states of HTML links and knowing exact states of when they are activated enabling designers to be able to design link effectively
+
+        - CSS pseudo-classes list for styling links
+
+            :link, :visited, :hover, :active and :focus
+
+            ```css
+            * Default */
+            a {
+              color: blue;
+            }
+            /* Unvisited links */
+            a:link {
+              color: blue;
+            }
+            /* Visited links */
+            a:visited {
+              color: purple;
+            }
+            /* Hover state */
+            a:hover {
+              color: red; 
+            }
+            /* Focused state */
+            a:focus {
+              color: orange;
+            }
+            /* Activated state */
+            a:active {
+              color: green;
+            }
+            ```
+
+        - Overview of pseudo-classes
+
+            :link selects unvisited links
+
+            :visited selects visited links
+
+            :hover is the state of when user places his mouse pointer on top of the link or other element on which hover is used
+
+            :active state occurs when user clicks-and-mouse-down on the link or element in which active is used without releasing mouse button.
+
+            :focus state happens  when user tabs the link or element in it focus is used or after user clicks on the link or element in it focus is used
+
+        - In which order CSS pseudo classes should be used
+
+            This order below is suggested order
+
+            ```css
+            a { }
+            a:link { }
+            a:visited { }
+            a:hover { }
+            a:focus { }
+            a:active { }
+            ```
+
+        - Modern browsers on :link and :visited link pseudo-classes
+
+            Modern browsers restrict how :link and :visited should be used for security reasons. as hackers can manipulate :visited property to link to other hacky websites.
+
+            :visited and :link link pseudo-classes should be used for changing following properties
+
+            - `[color](https://css-tricks.com/almanac/properties/c/color/)`
+            - `[background-color](https://css-tricks.com/almanac/properties/b/background-color/)`
+            - `[border-color](https://css-tricks.com/almanac/properties/b/border/)` (and its sub-properties)
+            - `[outline-color](https://css-tricks.com/almanac/properties/o/outline/)`
+            - The color parts of the `fill` and `stroke` properties
+
+- positioned elements
+    - position fixed
+
+        element with position fixed placed relative to the browser viewport
+
+    - position absolute
+
+        element with position absolute placed relative to its the closest parent other than ''static'' but with followings (absolute, fixed, relative)
+
+    - setting width on absolutely and fixed positioned elements
+
+        Setting width 100% on elements with positioned ''absolute, fixed; left, right''  is the same as setting both left:0 and right:0. instead use one only not both
+
+    - Browser and position fixed
+
+        Browsers break position: fixed on elements whose parent used transform property.
+
+        This result in its parent element to be placed position relative and that position fixed element be placed as position absolute
