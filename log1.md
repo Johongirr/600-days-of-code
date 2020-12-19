@@ -571,3 +571,122 @@ Software Architectural patterns is general reusable solutions to  commonly occur
         Browsers break position: fixed on elements whose parent used transform property.
 
         This result in its parent element to be placed position relative and that position fixed element be placed as position absolute
+        
+        
+        
+        
+        ### Day 15, Dec 19, 2020
+        
+        #### Things I've learned
+         *  Image file format types
+       
+- Difference between image types
+    - There are 2 compressions types
+        - What is compression
+
+            Compression is the process of making images file sizes smaller and smaller without worsening quality of the image to an unacceptable level (greatly)
+
+        - lossless
+
+            When an image file size is made smaller, it does not affect the quality of the image
+
+        - lossy
+
+            When image file sizes are made smaller, image quality worsens. So if make image smaller and smaller image quality gets worse and worse
+
+    - Colour depths(palettes)
+        - Indexed
+
+            Image can only use 256 different colours which is controlled by the author in so-called Colour Map
+
+        - Direct
+
+            You can store and use many many thousands of colours that are directly chosen by the author
+
+    - image file formats
+        - BMP
+
+            BMP  image file format is lossless/indexed and direct  and it is very old image file format in which image data is not lost when saved image with it but there's very little compression which means that saving as BMP results in very large file sizes. As it's file sizes are so big nobody really uses it
+
+            - Good for
+
+                It's good at nothing. It doesn't excel at anything
+
+        - GIF
+
+            GIF is lossless/indexed only and meaning that saving image over and over doesn't lose any data and doesn't worsen its quality. It's file size much smaller than BMP because good compression is used. But it has limited (256) kinds of colours only which is very small
+
+            - GIF images can also be
+
+                animated and have transparency
+
+            - Good for
+
+                logos, line drawings and other simple images that need to be small. Only used for websites
+
+        - JPEG
+
+            JPEG is lossy/indexed - it is specifically made detailed images as small as possible by getting rid of information that human eye can't see. So as a result of this it's lossy file format and saving the same image format  over and over again result in data loss which make image look  fuzzy. And it's file size larger than GIF's
+
+            - Good for
+
+                Photographs and gradients
+
+            - Bad for
+
+                As JPEG is lossy image file format saving it over and over again result in data loss and for this reason it's bad for logos and line drawings
+
+        - PNG-8
+
+            PING-8 is lossless/indexed - PING image formats are new and (PING-8 versions have indexed colour palettes) which can replace GIFS. 
+
+            - Drawbacks of PING-8
+                1. You can't animate in PING-8 file formats
+                2. Poor browser support with some older browsers like IE
+                3. It has poor implementations on Photoshop, it has indexed colour palettes
+            - Good for
+
+                The one thing PNG-8 better than GIF  is to have support for alpha transparency
+
+        - PNG-24
+
+            PING-24 is lossless/direct  is great format as it combines lossless compression with direct colours palettes like BMP and but it's much smaller than BMP file formats.
+
+            - Drawbacks
+                1. PNG-24 files will be bigger than JPEG files (for photos) and GIF/PNG-8(for logos and graphics). Take into consideration these
+                2. Saving image as PNG-24 will be likely at least 5 times bigger than equivalent JPEG images. with little improvement in quality. If quality is more important than memory, use PNG-24
+            - Good for
+
+                Like PNG-8, PNG-24 supports alpha transparency
+
+        - SVG
+
+            SVG is vector/lossless - vector file format which consists of mathematical lines and curves instead of pixels
+
+            - What do you when you zoom in in vector vs rastor images
+                - In Vector images when you zoom in as close as you can, you only will se lines and curves
+                - In Rastor images when you zoom in, you will see individual pixels
+            - Good for
+
+                Vector image file formats are really good for logos, graphs and icons as when you zoom in, quality of images is not lost
+
+            - Complicated logos and icons on vectors
+
+                Often file size of logos and icons are tiny even when visually large. And file size is really depends on complexity shapes (vector lines and curves used) used. If your logo is really complicated, this requires a lot of computing power which result in slowing down user's computer and also larger file sizes. So it's important to keep your vectors as such simpler as possible
+
+            - vector vs rastor images in computing power
+
+                Vector images require more computing power than rastor images because mathematical calculations are involved during drawing lines and curves
+
+            - SVG and JavaScript
+
+                As SVGs are written on XML that makes it possible to see and edit them on the code editor and change them with JavaScript
+
+        - Rastor vs Vector
+            - Rastor file types
+
+                JPG, PNG, GIF, BMP, Ps, TIFF and they are perfect for photo editing and creating digital painting in porgrammes such as Photoshop and Gimp
+
+            - Vector file types
+
+                SVG, PDF, AI, CDR, EPS - Vector images  can be created using programmes such as Adobe Illustrator, Coreldraw, Inkspace 
