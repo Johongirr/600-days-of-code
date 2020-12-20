@@ -690,3 +690,30 @@ Software Architectural patterns is general reusable solutions to  commonly occur
             - Vector file types
 
                 SVG, PDF, AI, CDR, EPS - Vector images  can be created using programmes such as Adobe Illustrator, Coreldraw, Inkspace 
+                
+                
+                
+                
+               
+### Day 16, Dec 20, 2020
+
+### Things I've learned
+ * Flexbox
+ 
+ 
+##### What is flexbox
+Flexbox is mode of building flexible websites
+
+##### What can we do with flexbox
+1. Create small scale layouts
+2. Create components of websites/apps like navbars
+3. Equal height columns
+
+##### Flexbox container and items
+Flexbox container is HTML element whose display property is set to flex and its direct child elements will be flex items. 
+Flex items can also be flex containers
+
+##### Main and cross axis
+Flex container consists of axises of main and cross. by default flex items are stacked left to right in horizontal line where main-axis arrow points to right. And in cross axis flex items moved to top or bottom or center or stretch.
+
+
