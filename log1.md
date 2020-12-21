@@ -697,7 +697,7 @@ Software Architectural patterns is general reusable solutions to  commonly occur
                
 ### Day 16, Dec 20, 2020
 
-### Things I've learned
+#### Things I've learned
  * Flexbox
  
  
@@ -716,4 +716,18 @@ Flex items can also be flex containers
 ##### Main and cross axis
 Flex container consists of axises of main and cross. by default flex items are stacked left to right in horizontal line where main-axis arrow points to right. And in cross axis flex items moved to top or bottom or center or stretch.
 
+
+
+
+### Day 17, Dec 21, 2020
+
+#### Things I've done
+ * Wrote blog on data structures
+ * Practised my flexbox skills
+ 
+#### Blog on data structures
+I've written blog on data structures and published it on dev.to 
+
+#### Practised flexbox skills
+Built examples website
 
