@@ -731,3 +731,15 @@ I've written blog on data structures and published it on dev.to
 #### Practised flexbox skills
 Built examples website
 
+
+
+### Day 18, Dec 22, 2020
+
+#### Things I've learned
+ * Grid
+ 
+ 
+#### Grid
+CSS Grid is two-dimensional grid-based layout module unlike flexbox which is one-dimensional. Building any layout with CSS Grid is freaking easy to do. This native CSS layout sytem is definitely better than its frameworks for building layouts as it does not have to make HTTPS requests.
+
+And it can create fluid layouts in which grid columns move to new row if screen gets smaller thus making it accessible for any screen sizes
