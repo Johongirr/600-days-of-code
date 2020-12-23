@@ -94,7 +94,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 | Dec 17, 2020 |  Feb 10, 2021|
 
 #### HTML Intro
-- [ ] HTML Best Practises [link](https://www.webfx.com/blog/web-design/20-html-best-practices-you-should-follow/)
+- [x] HTML Best Practises [link](https://www.webfx.com/blog/web-design/20-html-best-practices-you-should-follow/)
 
 
 #### Basic HTML Page Structure
