@@ -743,3 +743,17 @@ Built examples website
 CSS Grid is two-dimensional grid-based layout module unlike flexbox which is one-dimensional. Building any layout with CSS Grid is freaking easy to do. This native CSS layout sytem is definitely better than its frameworks for building layouts as it does not have to make HTTPS requests.
 
 And it can create fluid layouts in which grid columns move to new row if screen gets smaller thus making it accessible for any screen sizes
+
+
+
+### Day 19, Dec 23, 2020
+
+#### Thing I've don
+ * Solved coding challenge in Leetcode 
+ 
+ 
+#### Solved coding challenge in easy difficulty level 
+Even if it says easy, problem was pretty hard but I managed to solve it learn about map data structure in javascript 
+
+Link to my solution in [here](https://github.com/Johongirr/coding_challenges/blob/master/easy/twoSum.js)
+
