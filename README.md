@@ -101,7 +101,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [x] HTML Basics
 - [x] Linking Internal and External Pages
 - [x] Working with Images, Video and Other Media
-- [ ] Project: Embedding Images and Video
+- [x] Project: Embedding Images and Video
 - [ ] What's New in HTML5
 - [ ] HTML5 [doctor](http://html5doctor.com/computer-says-no-to-html5-document-outline/)
 - [ ] Project: [link](https://preview.colorlib.com/theme/specer/index.html)
