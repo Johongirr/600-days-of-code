@@ -748,7 +748,7 @@ And it can create fluid layouts in which grid columns move to new row if screen 
 
 ### Day 19, Dec 23, 2020
 
-#### Thing I've don
+#### Thing I've done
  * Solved coding challenge in Leetcode 
  
  
@@ -757,3 +757,22 @@ Even if it says easy, problem was pretty hard but I managed to solve it learn ab
 
 Link to my solution in [here](https://github.com/Johongirr/coding_challenges/blob/master/easy/twoSum.js)
 
+
+
+### Day 20, Dec 24, 2020
+
+#### Things I've done
+ * Built the clone of  Youtube as part of Odin Project curriculum
+ 
+#### Link to Project
+Link to live website is in [here](https://johongirr.github.io/youtube-clone/)
+
+
+#### What I've learned
+1. Think any web page as series separate components that are combined together to form the whole web page
+2. After deeply knowing that start with marking up each individual components as semantically as possible one at a time. Focus on the current task all the time
+3. And use BEM to name each element in the page try to avoid selecting elements with element itself, id or attribute etc... use class selectors 
+4. In your CSS stylesheets define all the colours  and fonts as well that are used more than once in css variables.
+5. And also define styles for flexbox, grid, paddings, margings, (you might not inlcude grid or flexbox occasionaly). Defines these styles in advance helps with DRY as all styles are defined in one place and then applied to element. As you know where they are in the source code you can easily modify them if you need
+6. Last stage is apply styles to each component one at a time
+ 
