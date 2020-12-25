@@ -776,3 +776,16 @@ Link to live website is in [here](https://johongirr.github.io/youtube-clone/)
 5. And also define styles for flexbox, grid, paddings, margings, (you might not inlcude grid or flexbox occasionaly). Defines these styles in advance helps with DRY as all styles are defined in one place and then applied to element. As you know where they are in the source code you can easily modify them if you need
 6. Last stage is apply styles to each component one at a time
  
+
+
+### Day 21, Dec 25, 2020
+
+#### Things I've don
+ * Wrote script for my youtube channel
+ * Solved leet code coding challenge
+ 
+#### Leetcode soulution
+Link to [solution](https://github.com/Johongirr/coding_challenges/blob/master/easy/reverseLinkedList.js)
+
+#### Script for youtube
+So today I've wrote script for introduction to the course and intro to algorithms section of the course.
