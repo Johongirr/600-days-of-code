@@ -789,3 +789,16 @@ Link to [solution](https://github.com/Johongirr/coding_challenges/blob/master/ea
 
 #### Script for youtube
 So today I've wrote script for introduction to the course and intro to algorithms section of the course.
+
+
+### Day 22, Dec 26, 2020
+
+#### Things I've done
+ * Wrote script for my youtube channel
+ * Built layout of practise website
+ 
+#### Script for youtube
+So today was quite successful day coz I managed to complete writing script for algorithms section of my course. and I wrote script for few sections of Data Strucutres section
+
+#### Layout for Practise website
+So I'm practising my HTML/CSS skills by  re-building practical website
