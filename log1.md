@@ -802,3 +802,19 @@ So today was quite successful day coz I managed to complete writing script for a
 
 #### Layout for Practise website
 So I'm practising my HTML/CSS skills by  re-building practical website
+
+
+
+### Day 23, Dec 27, 2020
+
+#### Things I've done
+ * Wrote script for my youtube channel
+ * Solved coding challenge on Leetcode
+ 
+#### Script
+So I managed to complete writing script around 80% of my youtube videos. So I'm happy that I'm close to completing script and recording my videos and soon upload my first ever video to Youtube
+
+#### Links to coding challenge solution
+Link-1 [here](https://github.com/Johongirr/coding_challenges/blob/master/easy/reverseString.js)
+Link-2 [here](https://github.com/Johongirr/coding_challenges/blob/master/easy/reverseLinkedList.js)
+Link-3 [here](https://github.com/Johongirr/coding_challenges/blob/master/easy/deleteNode.js)
