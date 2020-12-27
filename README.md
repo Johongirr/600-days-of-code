@@ -102,15 +102,15 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [x] Linking Internal and External Pages
 - [x] Working with Images, Video and Other Media
 - [x] Project: Embedding Images and Video
-- [ ] What's New in HTML5
-- [ ] HTML5 [doctor](http://html5doctor.com/computer-says-no-to-html5-document-outline/)
-- [ ] Project: [link](https://preview.colorlib.com/theme/specer/index.html)
+- [x] What's New in HTML5
+- [x] HTML5 [doctor](http://html5doctor.com/computer-says-no-to-html5-document-outline/)
+- [x] Project: [link](https://preview.colorlib.com/theme/specer/index.html)
 
 #### Article 
-- [ ] Writing an article about what i've learned
+- [x] Writing an article about what i've learned
 
 #### Displaying and Inputting Data
-- [ ] Tables in HTML
+- [x] Tables in HTML
 - [ ] Ordered and Unordered Lists
 - [ ] Forms for Collecting Data
 - [ ] Project: HTML Forms
