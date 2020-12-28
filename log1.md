@@ -818,3 +818,14 @@ So I managed to complete writing script around 80% of my youtube videos. So I'm 
 Link-1 [here](https://github.com/Johongirr/coding_challenges/blob/master/easy/reverseString.js)
 Link-2 [here](https://github.com/Johongirr/coding_challenges/blob/master/easy/reverseLinkedList.js)
 Link-3 [here](https://github.com/Johongirr/coding_challenges/blob/master/easy/deleteNode.js)
+
+
+
+### Day 23, Dec 28, 2020
+
+#### Things I've done
+ * Completed writing script for youtube channel
+ 
+
+#### Script for Youtube
+So at last I finished writing script for series on algorithms and data structures. From tomorrow finally I'm starting to record myself then in few weeks I'm uploading my videos to Youtube
