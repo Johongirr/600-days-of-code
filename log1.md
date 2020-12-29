@@ -829,3 +829,45 @@ Link-3 [here](https://github.com/Johongirr/coding_challenges/blob/master/easy/de
 
 #### Script for Youtube
 So at last I finished writing script for series on algorithms and data structures. From tomorrow finally I'm starting to record myself then in few weeks I'm uploading my videos to Youtube
+
+
+
+### Day 24, Dec 29, 2020
+
+#### Things I've done
+ * learning about semantically structuring forms
+ 
+ 
+#### Forms
+
+1. So forms basically have two operations to do.
+  1. It's only way of interaction between client and the server where the client can send data to the server requesting to add submitted data to database or request data 
+   from the database
+  2. Updating UI on form submission via JavScript when form is submitted which means request is not made to the server but only submitted to update UI of the page
+  
+
+2. There are two main ways to get data from the user in form when user types
+   1. Number one is with inputs in which based on value of type property on input data is collected from the user and value of type can be many types such as
+       text(default) any text user types is collected on this input in fact if all other new input types are not supported by some browser they default to type="text"
+       color when input type is set to color user chooses one of the available colour on colour palette. And by the way can only choose colour, he can't do anything else other
+       email user needs to provide valid email address if user does not provde valid email address error is shown like certain characters needs to be provided for it to be valid
+       email address and so on
+       password user proides password and by default whenever user types each character user types is hidden by visually replacing it with * but in background whatever user 
+       type is kept
+       month user can only choose month of the year
+       and there a lot more as well such as hidden, file, week, range and a lot more   
+   2. textarea is the way of getting multiple lines of text and it has opening and closing tags in between it can include text as well
+   
+3. Name attribute needs to be included everything inside form whose data is submitted to the server. So basically when form is submitted it's submitted via HTTP(S) request
+   and in HTTP(S) request also url paramaters which are just basically form data or to put another way collection of data that user entered in inputs, textarea, option elements    of select element. So those paramaters are just form data in the form of name=value pairs. So that's why each form control whose data is submitted to the server needs
+    to have appropriate value for name attribute alongside value for value attribute. those name and value pairs in each input, textarea, option element of select element
+    is passed as URL paramaters (name=value pairs) to the server so server can do something with that data.
+    
+4. Label eleement has opening and closing tags. And it contains text which describes what input element it points to want from users. eg. And by including  input element's value    of id attribute which it acts as  a title or label for that input in its for attribute  both semantical and interactive connection is created in between them. So this means
+   form controls whose is labelled with lable element becomes accessible for screen reader users and also when user clicks on the text of label element input element is focussed
+
+5. And there'll be occasion when where by just nesting input elements such as checkbox and radio buttons you do not need to inlcude input elemeent's value of id attribute as   value of for attribute on label element which indicates what data that input wants to get from user. , instead those chekboxes and radio buttons whihcn nested inside label become focussable by clicking text inside lable element
+
+
+6. You can create submit button by setting value of type on input element to submit and can set text for the input with value attribute and also need to inlcude name in the submit button as to describe what it does. But if you want to get more control over buttons like you want to style it, you can use button element and in that case you don't need to include type and value and text is set in between opening and closing tags
+   
