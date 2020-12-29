@@ -111,7 +111,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 #### Displaying and Inputting Data
 - [x] Tables in HTML
-- [ ] Ordered and Unordered Lists
+- [x] Ordered and Unordered Lists
 - [ ] Forms for Collecting Data
 - [ ] Project: HTML Forms
 
