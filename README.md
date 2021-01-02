@@ -113,7 +113,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [x] Tables in HTML
 - [x] Ordered and Unordered Lists
 - [x] Forms for Collecting Data
-- [ ] Project: HTML Forms
+- [x] Project: HTML Forms
 
 #### Article 
 - [ ] Writing an article about what i've learned
