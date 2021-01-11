@@ -871,3 +871,15 @@ So at last I finished writing script for series on algorithms and data structure
 
 6. You can create submit button by setting value of type on input element to submit and can set text for the input with value attribute and also need to inlcude name in the submit button as to describe what it does. But if you want to get more control over buttons like you want to style it, you can use button element and in that case you don't need to include type and value and text is set in between opening and closing tags
    
+   
+### Day 25, Jan 11, 2021
+
+#### Things I've done
+ * Built anohter form
+ * Solved leetcode challenge
+ 
+### Link to Leetcode challenge
+[link](https://github.com/Johongirr/coding_challenges/blob/master/easy/isPalindrome.js)
+
+### Link to form
+[link](https://johongirr.github.io/contact-form/)
