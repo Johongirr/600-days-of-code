@@ -116,11 +116,11 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [x] Project: HTML Forms
 
 #### Article 
-- [ ] Writing an article about what i've learned
+- [x] Writing an article about what i've learned
 
 #### CSS Intro 
-- [ ] CSS Best Practise [link](https://acodez.in/css-best-practices/)
-- [ ] Common CSS Mistakes [link](https://www.webfx.com/blog/web-design/12-common-css-mistakes-web-developers-make/)
+- [x] CSS Best Practise [link](https://acodez.in/css-best-practices/)
+- [x] Common CSS Mistakes [link](https://www.webfx.com/blog/web-design/12-common-css-mistakes-web-developers-make/)
 
 #### CSS
 - [ ] CSS Basics
