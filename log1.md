@@ -875,7 +875,7 @@ So at last I finished writing script for series on algorithms and data structure
 ### Day 25, Jan 11, 2021
 
 #### Things I've done
- * Built anohter form
+ * Built another form
  * Solved leetcode challenge
  
 ### Link to Leetcode challenge
@@ -883,3 +883,26 @@ So at last I finished writing script for series on algorithms and data structure
 
 ### Link to form
 [link](https://johongirr.github.io/contact-form/)
+
+
+
+### Day 26, Jan 16, 2021
+
+#### Things I've learned and done
+ * Built loruki website clone
+ * Learned about bunch of cool attribute selectors
+ 
+ 
+#### Loruki Cloud Hosting Clone
+So building that website was great experience as I've learned made quite a lot mistakes and I've become conscious of my mistakes. So in the next projects I'll know what not to do. So the link to that website in in [here](https://johongirr.github.io/loruki-website/)
+
+
+#### Attribute Selectors
+So other than selecting elements by its class name or id name or by its type, we have option of selecting element by its attribute and value pair and followings some of the examples of them.
+h1[class="title"] - selects h1 where its class attribute has no other value other than title and also there is no empty space if so element can't be selected
+h1[class*="title"] - selects h1 where in its class attribute there is title among other values. element can  be selected as long as there is specified value in the attribute among other values.
+h1[class^="title"] - selects all h1 on the page where class attribute in h1 starts with specified value(title). element can not be selected even if there is whitespace before specified value or if value is not the starting value even if it contains in attribute
+h1[class$="title"] - selects all h1 on the page where class attribute in h1 ends with specified value. element can not be selected even if there is whitespace after specified value or if value is not the ending value even if it contains in attribute
+h1[class~="title"] - selects all h1 on the page where class attribute in h1 contains specified value(title) in space separated list of values in that attribute. element can not be selected if value is not space separated
+h1[class|="title"] - selects all h1 on the page where specified value(title) is starting value in list of dash-separated-value in class attribute. element can not be selected even if there is whitespace before dash-separated-values
+
