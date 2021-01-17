@@ -906,3 +906,23 @@ h1[class$="title"] - selects all h1 on the page where class attribute in h1 ends
 h1[class~="title"] - selects all h1 on the page where class attribute in h1 contains specified value(title) in space separated list of values in that attribute. element can not be selected if value is not space separated
 h1[class|="title"] - selects all h1 on the page where specified value(title) is starting value in list of dash-separated-value in class attribute. element can not be selected even if there is whitespace before dash-separated-values
 
+
+
+
+### Day 27, Jan 17, 2021
+
+### Thing I've done
+ * Built construction company website
+ * Learned about box model
+ 
+#### Construction Company Clone
+Link to this website is in [link](https://johongirr.github.io/construction-company/)
+
+
+#### Box model
+So according to box model each and every element in the document is a rectangular box and each box can have following properties: width/height, padding, border and margins. NOTE all those properties are optional so there can be element without any of these properties.
+
+Block level boxes are those whose display property by default is set to block some examples of them are header, div, p, h1, article and many more and. all those box model properties apply to block level Boxes
+
+Inline level boxes are also like block level boxes determined by its display property so if its display property is set to inline it's inline level box. 
+width/height can be applied to inline level elements and margin is only applied to right and left side of the box and padding applies to all four sides of the box. 
