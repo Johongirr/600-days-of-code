@@ -123,8 +123,8 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [x] Common CSS Mistakes [link](https://www.webfx.com/blog/web-design/12-common-css-mistakes-web-developers-make/)
 
 #### CSS
-- [ ] CSS Basics
-- [ ] The Box Model
+- [x] CSS Basics
+- [x] The Box Model
 - [ ] Floats and Positioning
 - [ ] Project: [link](https://preview.colorlib.com/theme/travel2/)
 - [ ] Flexbox
