@@ -948,7 +948,7 @@ So there are two solution for this problem
      display: block;
   }
 ```
-2. So second solution is to use clear property that directly comes under floated element(s). And you can declare these declartion on that element 
+2. So second solution is to use clear property on the element that directly comes under floated element(s). So setting clear  property to both  on that element means that it should treat floated element that is above of it as if it's in normal flow thus it can't wrap around that floated element
 ```CSS
   p {
     clear: both;
@@ -957,9 +957,9 @@ So there are two solution for this problem
 
 ### Clear Property
 Clear property has values such left right both inherit and none. And clear property basically treats element that's on its top which is floated, as it's in the normal flow.
-* left - setting clear:left on element that's below floated element just tells that it's to sit below that floated element by treating it as if that floated element is in the normal
-* right - setting clear:right just tells top right of element which is below floated element to the right, to sit below it
-* both - defines that element has to sit below element that's floated to the right or left
+* left - setting clear:left on element basically tells that top left edge of this element has to sit below element that's floated to th left
+* right - setting clear:right on element is the same as above but in this case top right edge of this element has to sit below element that float is set to right
+* both - setting clear:both on element indicates  that both top right and top left edges of this element has to sit below element which is either floated left or right
 
 
 ### Position
