@@ -926,3 +926,54 @@ Block level boxes are those whose display property by default is set to block so
 
 Inline level boxes are also like block level boxes determined by its display property so if its display property is set to inline it's inline level box. 
 width/height can be applied to inline level elements and margin is only applied to right and left side of the box and padding applies to all four sides of the box. 
+
+
+### Day 28, Jan 18, 2021
+
+#### Thing I've done
+* Learned about positioning and floating 
+
+
+#### Floating Element
+So element can be floated to the right and to the left with float:left or right declarations. And when box is floated following things happen
+* box is removed from normal document flow which is the source order of elements and other elements wrap around floated element as if it does not exist on the page. 
+* and if it's only floated element or all other elements are floated inside their parent element then height of that parent element of course will be 0 or else if there is other element that's not floated height of the parent will be that not floated element's height
+
+So there are two solution for this problem
+1. You access parent's element's after psuedo element then do followings. So of course this might not work always if floated elements are not only child of the element, which means is that if there are other elements after floated element(s). So in that case you have to use second hack which I'll describe in few
+ ```CSS 
+  .container::after {
+     content: "";
+     clear: both;
+     display: block;
+  }
+```
+2. So second solution is to use clear property that directly comes under floated element(s). And you can declare these declartion on that element 
+```CSS
+  p {
+    clear: both;
+  }
+```
+
+### Clear Property
+Clear property has values such left right both inherit and none. And clear property basically treats element that's on its top which is floated, as it's in the normal flow.
+* left - setting clear:left on element that's below floated element just tells that it's to sit below that floated element by treating it as if that floated element is in the normal
+* right - setting clear:right just tells top right of element which is below floated element to the right, to sit below it
+* both - defines that element has to sit below element that's floated to the right or left
+
+
+### Position
+So we can  position elements with position values and it enables us to move element not only to left and right but to top and bottom with offsetting properties and using absolute and fixed result element to be removed from normal flow like float and overlap other elements. And there are few values that I explain below
+* static - so by default all elements position property is set to static so this values is default and in that mode we can't use offsetting properties left, right, bottom and top on that element
+* relative - so when element is set to relative, it'll be normal flow. And using offsetting proeprties top,bottom, left and right moves element relative to its position.
+* absolute - setting absolute on element result in element to be removed from normal document flow and other element move to its place in source order. And it'll be position relative to  its closest  parent element whose position is set to other static which might be (absolute, relative, or fixed)
+* fixed - setting fixed on Box causes Box to be removed from normal flow and it'll be positioned relative to viewport(browser window) it's ll be fixed in the viewport so when we scroll the page, fixed element will be fixed to the position it's position is set to fix but we can move it with offsetting properties relative to viewport
+
+
+### Offsetting properties
+So there are 4 offsetting properties that are left, right, top and bottom for position values other than static. So misuse of these properties can brind out unexpected results in your code so it's better to know them in detail which of course I'll be explaining below
+* Setting width:100% of positioned elements is the same as setting left:0 and right:0. So basically what happens we set left:0 and right:0 is that positioned element moves away from or towards specified value times to the left and moves away from or towards specified value times to the right. And it stretches to fill available space in between left and right.
+* Setting height:100% of positiond element is also the same as the example above but those apply to height of the positioned element not the width of it.
+* It does not need to be left:0 right:0 or top:0 bottom:0 to make element positioned element to occupy available width of height of the element. instead of 0 on those properties we can use unit values such as 2em, 3rem 2px etc.. ans still that positioned element moves aways from its' relatively positioned   element specified value times and stretches to occupy availbe height or widht of its container 
+
+
