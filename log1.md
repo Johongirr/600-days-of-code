@@ -972,7 +972,7 @@ So we can  position elements with position values and it enables us to move elem
 
 ### Offsetting properties
 So there are 4 offsetting properties that are left, right, top and bottom for position values other than static. So misuse of these properties can brind out unexpected results in your code so it's better to know them in detail which of course I'll be explaining below
-* Setting width:100% of positioned elements is the same as setting left:0 and right:0. So basically what happens we set left:0 and right:0 is that positioned element moves away from or towards specified value times to the left and moves away from or towards specified value times to the right. And it stretches to fill available space in between left and right.
+* Setting width:100% of positioned elements(other than relative and static) is the same as setting left:0 and right:0. So basically what happens we set left:0 and right:0 is that positioned element moves away from or towards specified value times to the left and moves away from or towards specified value times to the right. And it stretches to fill available space in between left and right.
 * Setting height:100% of positiond element is also the same as the example above but those apply to height of the positioned element not the width of it.
 * It does not need to be left:0 right:0 or top:0 bottom:0 to make element positioned element to occupy available width of height of the element. instead of 0 on those properties we can use unit values such as 2em, 3rem 2px etc.. ans still that positioned element moves aways from its' relatively positioned   element specified value times and stretches to occupy availbe height or widht of its container 
 
