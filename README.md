@@ -125,7 +125,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 #### CSS
 - [x] CSS Basics
 - [x] The Box Model
-- [ ] Floats and Positioning
+- [x] Floats and Positioning
 - [ ] Project: [link](https://preview.colorlib.com/theme/travel2/)
 - [ ] Flexbox
 - [ ] Project: [link](https://colorlib.com/preview/#feliciano)
