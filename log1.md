@@ -977,3 +977,16 @@ So there are 4 offsetting properties that are left, right, top and bottom for po
 * It does not need to be left:0 right:0 or top:0 bottom:0 to make element positioned element to occupy available width of height of the element. instead of 0 on those properties we can use unit values such as 2em, 3rem 2px etc.. ans still that positioned element moves aways from its' relatively positioned   element specified value times and stretches to occupy availbe height or widht of its container 
 
 
+
+### Day 29, Jan 20, 2021
+
+### Things I've done
+* Completed Building Multi Page Website
+
+### Link to website
+View in [here](https://johongirr.github.io/traver-company-website/)
+
+### What new have I learned after building this website
+* Always build layout first
+* And decide what typography and color palette to use for the website
+* then fill layout with necessary components of the page
