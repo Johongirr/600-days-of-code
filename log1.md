@@ -990,3 +990,13 @@ View in [here](https://johongirr.github.io/traver-company-website/)
 * Always build layout first
 * And decide what typography and color palette to use for the website
 * then fill layout with necessary components of the page
+
+
+
+### Day 30, Jan 21, 2021
+
+### Things I've done
+* Completed flexbox section on Odin Project
+
+
+So today basically refreshed my mind on Flexbox as I've learned nearly all properties on flexbox a while ago. And built project with flexbox 
