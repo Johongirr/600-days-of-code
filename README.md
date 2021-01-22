@@ -128,7 +128,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [x] Floats and Positioning
 - [x] Project: [link](https://preview.colorlib.com/theme/travel2/)
 - [x] Flexbox
-- [ ] Project: [link](https://colorlib.com/preview/#feliciano)
+- [x] Project: [link](https://colorlib.com/preview/#feliciano)
 - [ ] Grid
 - [ ] Project: Positioning and Floating Elements
 - [ ] Best Practices
