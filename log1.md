@@ -1000,3 +1000,12 @@ View in [here](https://johongirr.github.io/traver-company-website/)
 
 
 So today basically refreshed my mind on Flexbox as I've learned nearly all properties on flexbox a while ago. And built project with flexbox 
+
+
+### Day 31, Jan 22, 2021
+
+### Things I've done
+* Built website
+
+#### Website
+So today I completed building clone of some website to practise my HTML/CSS knowledge and I built it with semantic HTML and with RWD. 
