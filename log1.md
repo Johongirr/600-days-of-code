@@ -1009,3 +1009,20 @@ So today basically refreshed my mind on Flexbox as I've learned nearly all prope
 
 #### Website
 So today I completed building clone of some website to practise my HTML/CSS knowledge and I built it with semantic HTML and with RWD. 
+
+
+
+### Day 32, Jan 23, 2021
+
+### Things I've done
+* Learned about colour wheel and colour combinations
+
+
+### Colour theory
+So colour theory basically practical combination of art and design used  together to determine what colours look good together. And colour wheel was invented by Isaac Newton in 1666 who transferred colour spectrum into colour wheel.
+
+### Colour combination
+So colour harmony which is how colour feel and look together are taken by using colour wheel by using many rules of colour combinations.
+There are many colour combinations and some of them as followings
+* Complementary - color combination is when two colours are on the opposite side of the colour wheel. And it creates hight impact and contrast colour combination and they together appear more brighter and prominent
+* Analogous - color combination is colours that consist of 3 colours that are side by side on the colour wheel. And they can be overwhelming even though they are verstile. So to balance overwhelmingness, we should use one of the 3 as dominant colour and other colours as accents
