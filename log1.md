@@ -1026,3 +1026,14 @@ So colour harmony which is how colour feel and look together are taken by using 
 There are many colour combinations and some of them as followings
 * Complementary - color combination is when two colours are on the opposite side of the colour wheel. And it creates hight impact and contrast colour combination and they together appear more brighter and prominent
 * Analogous - color combination is colours that consist of 3 colours that are side by side on the colour wheel. And they can be overwhelming even though they are verstile. So to balance overwhelmingness, we should use one of the 3 as dominant colour and other colours as accents
+
+
+### Day 33, Jan 24, 2021
+
+### Things I've done
+* Did few exercises on FCC
+
+
+### FCC exercise
+So I've completed few CSS exercises on FCC which was about colour theory and colour combinations hsl and so on
+
