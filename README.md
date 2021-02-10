@@ -91,7 +91,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ###  HTML and CSS by Odin Project
 |  Start Date   | End Date     |
 | ------------- | ------------ |
-| Dec 17, 2020 |  Feb 10, 2021|
+| Feb 11, 2020 |  March 31, 2021|
 
 #### HTML Intro
 - [x] HTML Best Practises [link](https://www.webfx.com/blog/web-design/20-html-best-practices-you-should-follow/)
@@ -134,8 +134,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [ ] Best Practices
 - [ ] Backgrounds and Gradients
 - [ ] Project: Building with Backgrounds and Gradients
-- [ ] [challenge](https://en.wikiversity.org/wiki/Web_Design/CSS_challenges)
-
+ 
 #### Article 
 - [ ] Writing an article about what i've learned
 
