@@ -3,7 +3,7 @@
 ## 600 Days of Code
 |  Start Date   | End Date     |
 | ------------- | ------------ |
-| Nov 19, 2020 |  Jul 9, 2022| 
+| Nov 19, 2020 |  Jul 21 2022| 
 
 ## GOALS
 - [ ] Coding daily
@@ -207,7 +207,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ###  PSD To HTML
 |  Start Date   | End Date     |
 | ------------- | ------------ |
-| Feb 11, 2021 |  Feb 17, 2021|
+| Apr 1, 2021 |  Apr 7, 2021|
 
 - [ ] Tutorial [link-1](https://www.youtube.com/watch?v=d_llyPvEBrU&t=211s)
 - [ ] Tutorial [link-2](https://www.youtube.com/watch?v=KiFqtm0kRlI&list=PL4cUxeGkcC9j-0YIv3EDq58-B1yZWvw8_)
@@ -220,7 +220,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ###  Freelancing Guide
 |  Start Date   | End Date     |
 | ------------- | ------------ |
-| Feb 18, 2021 |  Feb 21, 2021|
+| Apr 8, 2021 |  Apr 11, 2021|
 
 - [ ] Freelancing Guide [link-1](https://www.youtube.com/watch?v=QyqbkFbxgSk&t=182s)
 - [ ] Freelancing Guide [link-2](https://www.youtube.com/watch?v=m2N3tmJ_A0Q&t=713s)
@@ -239,7 +239,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ###  Accessibility by MDN
 |  Start Date   | End Date     |
 | ------------- | ------------ |
-| Feb 22, 2021 |  March 7, 2021|
+| Apr 12, 2021 |  Apr 27, 2021|
 
 #### Accesibility by Udacity learn it synchronously with MDN's tutorial
 - [ ] Web Accessibility [link](https://www.udacity.com/course/web-accessibility--ud891)
@@ -268,7 +268,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ###  Adobe Photoshop Essentials 
 |  Start Date   | End Date     |
 | ------------- | ------------ |
-| March 8, 2021 |  March 24, 2021|
+| Apr 28, 2021 |  Maj 14, 2021|
 
 #### Websites to Follow to enhance Skills
 - Photoshop Essentials [link](https://www.photoshopessentials.com/) 
@@ -329,76 +329,12 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 
 
-###  Adobe Illustrator Essentials
-|  Start Date   | End Date     |
-| ------------- | ------------ |
-| March 25, 2021 |  Apr 10, 2021 |
-
-#### Websites to Follow Enhance Skills 
-- Vector Guru [link](https://theinspirationgrid.com/)
-- I Love Typography [link](https://ilovetypography.com/)
-- Design Inspiration [link](https://www.designspiration.com/)
-
-#### Illustrator Exercises to Do During Illustrator Learning Time
-- Illustrator Exercises [link](https://practity.com/834-2/)
-
-
-#### Illustrator Inspirations
-- Pinterest [link](https://www.pinterest.com/littlemamabunny/illustrator-inspiration/)
-- The Inspiration Grid [link](https://theinspirationgrid.com/category/illustration/)
-
-#### Adobe Illustrator Introduction
-- [ ] Illustrator Intro
-1. What is Adobe Illustrator [link-1](https://en.wikipedia.org/wiki/Adobe_Illustrator)
-2. What is Adobe Illustrator [link-2](https://www.educba.com/what-is-adobe-illustrator/)
-3. What is Adobe Illustrator [link-3](https://blog.udemy.com/what-is-adobe-illustrator-used-for/)
-4. Things I can do with Adobe Illustrator [link-1](https://mariahalthoff.com/blog/30-ways-adobe-illustrator)
-5. Things I can do with Adobe Illustrator [link-2](https://www.creativelive.com/blog/how-illustrator-is-used/#:~:text=%207%20Awesome%20Ways%20Illustrator%20is%20Being%20Used,IoT%20%28Internet%20of%20Things%29%20and%20connected...%20More%20)
-- [ ] Common Illustrator Mistakes
-1. Illustrator Mistakes Beginners Make [link-1](https://creativemarket.com/blog/ten-common-illustrator-mistakes-to-avoid#:~:text=%20Ten%20Common%20Illustrator%20Mistakes%20To%20Avoid%20,a%20bit%20of%20a%20double-edged%20sword.%20More%20)
-2. Illustrator Mistakes Beginners Make [link-2](https://www.youtube.com/watch?v=E7kMW7o2d-o)
-3. Illustrator Mistakes Beginners Make [link-3](https://www.youtube.com/watch?v=-DXgHFAQm0A)
-- [ ] Illustrator Interface [link](https://www.youtube.com/watch?v=QKWnkIPur2Q&feature=youtu.be)
-- [ ] Optimizing Illustrator Workflow
-1. Illustrator Workflow [link-1](https://www.youtube.com/watch?v=KybPH2uVPrk)
-2. Illustrator Workflow [link-2](https://medium.com/@emmanouil/5-tips-to-help-you-get-a-fast-adobe-illustrator-workflow-4d3548595a75)
-- [ ] Illustrator Tips
-1. Illustrator Tips [link-1](https://www.youtube.com/watch?v=5EV7Udx2h0g)
-2. Illustrator Tips [link-2](https://www.youtube.com/watch?v=Diat64FseLE)
-3. Illustrator Tips [link-3](https://www.youtube.com/watch?v=4i2F7zLjS7c)
-
-
-#### Illustrator Projects
-- [ ] Do 5 Illustrator Projects [link](https://www.youtube.com/watch?v=iT_kxtlTB24&list=PLSMIv0i-2Ebk5Ep0-IChHj6JBfPR0i9ke)
-- [ ] Illustrator Project [link](https://www.youtube.com/watch?v=tXpnKlUMZQA)
-
-#### Golden Ratio to Create Logos and Icons
-- [ ] Golden Ratio [link](https://www.youtube.com/watch?v=vct4pM4Bk70&t=906s)
-
-#### Adobe Illustrator Essentials  by Martin Perhiniak
-- [ ] Introduction to Adobe Essentials
-- [ ] Drawing in Adobe Illustrator CC
-- [ ] Type & Fonts in Adobe Illustrator CC
-- [ ] Color in Adobe Illustrator CC
-- [ ] Masking in Adobe Illustrator CC
-- [ ] CC Libaries
-- [ ] Effects & Patterns in Adobe Illustrator CC
-- [ ] The Capture App
-- [ ] Free Templates
-- [ ] Exporting from Adobe Illustrator CC
-- [ ] Real World Exercises in Adobe Illustrator CC
-- [ ] Next Steps
-
-#### Article 
-- [ ] Writing an article about what i've learned
-
-
 
 
 ###  UX/UI by Daniel Walter Scott
 |  Start Date   | End Date     |
 | ------------- | ------------ |
-| Apr 11, 2021 |  Apr 30, 2021 |
+| Maj 15, 2021 |  Jun 5, 2021 |
 
 - [ ] Design Principles [link](https://www.smashingmagazine.com/2008/01/10-principles-of-effective-web-design/#:~:text=10%20Principles%20Of%20Good%20Website%20Design%201%20Don%E2%80%99t,attention%20more%20than%20others%20do.%20More%20items...%20)
 
@@ -453,7 +389,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ###  JavaScript by Odin Project
 |  Start Date   | End Date     |
 | ------------- | ------------ |
-| May 1, 2021 |  Aug 30, 2021 |
+| Jun 6, 2021 |  Sept 6, 2021 |
 
 #### Javascript Intro
 - [ ] Javascript [intro](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
@@ -574,7 +510,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ### Web  Security
 |  Start Date   | End Date     |
 | ------------- | ------------ |
-| Aug 31, 2021 |  Sep 4, 2021 |
+| Sept 7, 2021 |  Sept 13, 2021 |
 
 - [ ] SSH [link-1](https://en.wikipedia.org/wiki/SSH_(Secure_Shell))
 - [ ] SSH [link-2](https://dev.to/risafj/ssh-key-authentication-for-absolute-beginners-in-plain-english-2m3f)
@@ -598,7 +534,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ### Cross Browser Compatibility MDN
 |  Start Date   | End Date     |
 | ------------- | ------------ |
-| Sep 5, 2021 | Sep 18, 2021 |
+| Sep 14, 2021 | Sep 27, 2021 |
 
 - [ ] Cross browser testing overview
 - [ ] Introduction to cross browser testing
@@ -624,7 +560,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ###  React
 |  Start Date   | End Date     |
 | ------------- | ------------ |
-| Sep 19, 2021 | Nov 26, 2021 |
+| Sep 28, 2021 | Dec 5, 2021 |
 
 #### React Introduction
 - [ ] React Intro [link-1](https://www.edureka.co/blog/what-is-react/#:~:text=React%20is%20a%20component-based%20library%20which%20is%20used,strong%20foundation%20and%20a%20large%20community%20supporting%20it.)
@@ -717,7 +653,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ###  Git and Github
 |  Start Date   | End Date     |
 | ------------- | ------------ |
-| Nov 27, 2021 | Dec 6, 2021 |
+| Dec 6, 2021 | Dec 17, 2021 |
 
 - [ ] Git Intro [link](https://www.git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F)
 - [ ] Git Exercises [link](https://www.codecademy.com/learn/learn-git)
@@ -745,7 +681,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ###  PHP(OO, PHPUnit, REST API) & MySql 
 |  Start Date   | End Date     |
 | ------------- | ------------ |
-| Dec 7, 2021 | Jan 31, 2022 |
+| Dec 18, 2021 | Feb 11, 2022 |
 
 - [ ] PHP Intro [link-1](https://en.wikipedia.org/wiki/PHP#:~:text=PHP%20is%20a%20general-purpose%20scripting%20language%20especially%20suited,stands%20for%20the%20recursive%20initialism%20PHP%3A%20Hypertext%20Preprocessor.)
 
@@ -815,7 +751,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ###  SQL
 |  Start Date   | End Date     |
 | ------------- | ------------ |
-| Feb 1, 2022 |  Feb 18, 2020|
+| Feb 12, 2022 |  Feb 29, 2022|
 
 #### SQL Introduction
 - [ ] What is SQL [link-1](https://www.thebalancecareers.com/what-is-sql-and-uses-2071909#:~:text=SQL%20can%20be%20used%20to%20share%20and%20manage,may%20be%20related%20together%20by%20a%20common%20field.)
@@ -838,7 +774,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ###  Wordpress
 |  Start Date   | End Date     |
 | ------------- | ------------ |
-| Feb 19, 2022 |  Apr 30, 2022 |
+| March 1, 2022 |  Maj 12, 2022 |
 
 #### Wordpress Intro
 - [ ] Wordpress intro [link-1](https://ithemes.com/tutorials/what-is-wordpress/#:~:text=WordPress%20is%20an%20open-source%20website%20creation%20platform%20that,excellent%20website%20platform%20for%20a%20variety%20of%20websites.)
@@ -986,7 +922,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ###  Laravel
 |  Start Date   | End Date     |
 | ------------- | ------------ |
-| May 1, 2022 |  Jul 9, 2022|
+| May 13, 2022 |  Jul 21, 2022|
 
 - [ ] MVC design pattern [link](https://addyosmani.com/resources/essentialjsdesignpatterns/book/#detailmvcmvp)
 - [ ] MVC In Laravel [link-1](https://blog.pusher.com/laravel-mvc-use/)
