@@ -91,7 +91,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ###  HTML and CSS by Odin Project
 |  Start Date   | End Date     |
 | ------------- | ------------ |
-| Feb 11, 2020 |  March 31, 2021|
+| Feb 12, 2020 |  March 31, 2021|
 
 #### HTML Intro
 - [x] HTML Best Practises [link](https://www.webfx.com/blog/web-design/20-html-best-practices-you-should-follow/)
