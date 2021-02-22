@@ -1037,3 +1037,18 @@ There are many colour combinations and some of them as followings
 ### FCC exercise
 So I've completed few CSS exercises on FCC which was about colour theory and colour combinations hsl and so on
 
+
+
+### Day 34, Feb 22, 2021
+
+### Thing's I've learned
+* Backgrounds
+
+
+#### Gradient
+So gradient is basically one colour fading into another colour and there are 2 types of gradients
+ 1. Linear gradient - is where colours fade into other colours in linear direction
+ 2. Radial gradient - is when main colour starts at the very center of ellipse or circle and gradients fades outwards
+
+
+
