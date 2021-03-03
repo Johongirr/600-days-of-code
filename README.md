@@ -154,7 +154,6 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 #### Responsive Design and CSS Frameworks
 - [ ] Mobile First RWD [link](https://www.youtube.com/watch?v=PM3XW_1RAIs&list=PL4cUxeGkcC9hH1tAjyUPZPjbj-7s200a4)
-- [ ] Project: [link](https://preview.colorlib.com/theme/constructioncompany/)
 - [ ] Responsive Web Design Tutorial [link](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893)
 - [ ] Responsive Design
 - [ ] Project: Building with Responsive Design
