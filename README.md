@@ -129,26 +129,24 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [x] Project: [link](https://preview.colorlib.com/theme/travel2/)
 - [x] Flexbox
 - [x] Project: [link](https://colorlib.com/preview/#feliciano)
-- [ ] Grid
-- [ ] Project: Positioning and Floating Elements
-- [ ] Best Practices
-- [ ] Backgrounds and Gradients
-- [ ] Project: Building with Backgrounds and Gradients
+- [x] Grid
+- [x] Project: Positioning and Floating Elements
+- [x] Best Practices
+- [x] Backgrounds and Gradients
+- [x] Project: Building with Backgrounds and Gradients
  
 #### Article 
-- [ ] Writing an article about what i've learned
+- [x] Writing an article about what i've learned
 
 #### Design and UX
-- [ ] 6 Rules of Golden Design [link](https://www.youtube.com/watch?v=EFf9jBs2yfU)
-- [ ] Introduction to Design and UX
-- [ ] Fonts and Typography
-- [ ] Fonts
+- [x] 6 Rules of Golden Design [link](https://www.youtube.com/watch?v=EFf9jBs2yfU)
+- [x] Introduction to Design and UX
+- [x] Fonts and Typography
+- [x] Fonts
 1. How to Choose Fonts [link-1](https://www.youtube.com/watch?v=IviIMAItx2s)
 2. How to Choose Fonts [link-2](https://naldzgraphics.net/font-for-typography/)
 3. How to Choose Fonts [link-3](https://webdesign.tutsplus.com/articles/choosing-the-right-font-a-practical-guide-to-typography-on-the-web--webdesign-15)
 4. How to Choose Fonts [link-4](https://visualcomposer.com/blog/your-ultimate-guide-to-fonts-and-typography/)
-- [ ] Project: [link](https://preview.colorlib.com/theme/ronaldo/)
-- [ ] Styling [text](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text)
 - [ ] Project: Design Teardown
 
 #### Article 
