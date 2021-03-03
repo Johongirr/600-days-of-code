@@ -154,7 +154,6 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 #### Responsive Design and CSS Frameworks
 - [ ] Mobile First RWD [link](https://www.youtube.com/watch?v=PM3XW_1RAIs&list=PL4cUxeGkcC9hH1tAjyUPZPjbj-7s200a4)
-- [ ] Responsive Web Design Tutorial [link](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893)
 - [ ] Responsive Design
 - [ ] Project: Building with Responsive Design
 - [ ] CSS Frameworks like Bootstrap and Foundation
@@ -163,16 +162,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 #### Article 
 - [ ] Writing an article about what i've learned
 
-#### Fonts Advanced
-- [ ] Fonts Advanced 
-1. How to Choose Fonts for Your design [link](https://www.youtube.com/watch?v=IviIMAItx2s&t=3s)
-2. Typography Font for Web Design [link](https://slickplan.com/blog/typography-font-design-for-the-web)
-3. Choosing Typography For Web Design [link](https://dribbble.com/stories/2020/08/17/choosing-typography-for-web-design)
-- [ ] Project [title](https://colorlib.com/preview/#fashion)
-
-#### Article 
-- [ ] Writing an article about what i've learned
-
+ 
 #### Color Schemas 
 - [ ] Color Schemas
 1. Website Color Schema and How to Choose Yours [link](https://www.canva.com/learn/website-color-schemes/)
@@ -186,7 +176,6 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 #### Advanced CSS
 - [ ] Animations, Subtle Effects and Compatibility
-- [ ] Project: [link](https://preview.colorlib.com/theme/ogani/)
 - [ ] Using CSS Preprocessors to Save Time
 - [ ] Project: Design Your Own Grid-Based Framework
 - [ ] Article on Writing Better [css](https://davidwalsh.name/starting-css)
