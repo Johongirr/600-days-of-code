@@ -147,10 +147,10 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 2. How to Choose Fonts [link-2](https://naldzgraphics.net/font-for-typography/)
 3. How to Choose Fonts [link-3](https://webdesign.tutsplus.com/articles/choosing-the-right-font-a-practical-guide-to-typography-on-the-web--webdesign-15)
 4. How to Choose Fonts [link-4](https://visualcomposer.com/blog/your-ultimate-guide-to-fonts-and-typography/)
-- [ ] Project: Design Teardown
+- [x] Project: Design Teardown
 
 #### Article 
-- [ ] Writing an article about what i've learned
+- [x] Writing an article about what i've learned
 
 #### Responsive Design and CSS Frameworks
 - [ ] Mobile First RWD [link](https://www.youtube.com/watch?v=PM3XW_1RAIs&list=PL4cUxeGkcC9hH1tAjyUPZPjbj-7s200a4)
