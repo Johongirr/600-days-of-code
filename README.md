@@ -190,10 +190,66 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 
 
+
+###  UX/UI by Daniel Walter Scott
+|  Start Date   | End Date     |
+| ------------- | ------------ |
+| Apr 10, 2021 |  Apr 30, 2021 |
+- [ ] Design Principles [link](https://www.smashingmagazine.com/2008/01/10-principles-of-effective-web-design/#:~:text=10%20Principles%20Of%20Good%20Website%20Design%201%20Don%E2%80%99t,attention%20more%20than%20others%20do.%20More%20items...%20)
+
+#### Project to Complete Snchronously with The Course
+- [ ] Project Blog [site](https://uxplanet.org/ux-ui-portfolio-projects-for-beginners-1-blog-site-b3aa6fe0df2a) (building it alongside course)
+
+#### Course Off Project
+- Follow along and built projects on these course [link](https://www.youtube.com/results?search_query=xd+interface) As I learn Adobe XD
+
+#### UI/UX by Daniel Walter Scott
+- [ ] Getting Started
+- [ ] The Brief
+- [ ] Wireframing Low Fidelity
+- [ ] Type, Color & Icon Introduction
+- [ ] Prototyping a Website - Introduction
+- [ ] Symbols & Repeat Grids
+- [ ] Prototyping an App - Introduction
+- [ ] Wireframe Feedback
+- [ ] High Fidelity UI Design
+- [ ] Color Theory
+1. Color Theory [link-1](https://webdesign.tutsplus.com/articles/an-introduction-to-color-theory-for-web-designers--webdesign-1437)
+2. Color Theory [link-2](https://www.kanukadigital.com/2019/08/colour-theory-in-web-design/)
+3. Color Theory [link-3](https://uxplanet.org/color-theory-brief-guide-for-designers-76e11c57eaa)
+4. Color Theory [link-4](https://www.youtube.com/watch?v=Qj1FK8n7WgY)
+- [ ] How to use Color Palettes
+1. Color Palettes [link-1](https://www.youtube.com/watch?v=u5AnzLg1HxY)
+2. Color Palettes [link-2](https://www.youtube.com/watch?v=eXcKOqviLE0)
+- [ ] Colors
+- [ ] Text & Fonts Advanced
+- [ ] Drawing
+- [ ] Working with Illustrator 
+- [ ] Working with InDesign
+- [ ] Images
+- [ ] Working with Photoshop 
+- [ ] APP Design
+- [ ] Placeholder content & Plugins
+- [ ] Asset Panel
+- [ ] Symbol - Advanced
+- [ ] Micro Interactions
+- [ ] Prototyping Advanced
+- [ ] Voice Interactions
+- [ ] User Testing
+- [ ] Pitching to Clients & Customers
+- [ ] Exporting
+- [ ] What Next
+
+#### Article 
+- [ ] Writing an article about what i've learned
+
+
+
+
 ###  PSD To HTML
 |  Start Date   | End Date     |
 | ------------- | ------------ |
-| Apr 1, 2021 |  Apr 7, 2021|
+| Maj 1, 2021 |  Maj 7, 2021|
 
 - [ ] Tutorial [link-1](https://www.youtube.com/watch?v=d_llyPvEBrU&t=211s)
 - [ ] Tutorial [link-2](https://www.youtube.com/watch?v=KiFqtm0kRlI&list=PL4cUxeGkcC9j-0YIv3EDq58-B1yZWvw8_)
@@ -206,7 +262,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ###  Freelancing Guide
 |  Start Date   | End Date     |
 | ------------- | ------------ |
-| Apr 8, 2021 |  Apr 11, 2021|
+| Maj 8, 2021 |  Maj 11, 2021|
 
 - [ ] Freelancing Guide [link-1](https://www.youtube.com/watch?v=QyqbkFbxgSk&t=182s)
 - [ ] Freelancing Guide [link-2](https://www.youtube.com/watch?v=m2N3tmJ_A0Q&t=713s)
@@ -225,7 +281,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ###  Accessibility by MDN
 |  Start Date   | End Date     |
 | ------------- | ------------ |
-| Apr 12, 2021 |  Apr 27, 2021|
+| Maj 12, 2021 |  Maj 27, 2021|
 
 #### Accesibility by Udacity learn it synchronously with MDN's tutorial
 - [ ] Web Accessibility [link](https://www.udacity.com/course/web-accessibility--ud891)
@@ -254,7 +310,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ###  Adobe Photoshop Essentials 
 |  Start Date   | End Date     |
 | ------------- | ------------ |
-| Apr 28, 2021 |  Maj 14, 2021|
+| Maj 28, 2021 |  June 14, 2021|
 
 #### Websites to Follow to enhance Skills
 - Photoshop Essentials [link](https://www.photoshopessentials.com/) 
@@ -317,59 +373,8 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 
 
-###  UX/UI by Daniel Walter Scott
-|  Start Date   | End Date     |
-| ------------- | ------------ |
-| Maj 15, 2021 |  Jun 5, 2021 |
 
-- [ ] Design Principles [link](https://www.smashingmagazine.com/2008/01/10-principles-of-effective-web-design/#:~:text=10%20Principles%20Of%20Good%20Website%20Design%201%20Don%E2%80%99t,attention%20more%20than%20others%20do.%20More%20items...%20)
-
-#### Project to Complete Snchronously with The Course
-- [ ] Project Blog [site](https://uxplanet.org/ux-ui-portfolio-projects-for-beginners-1-blog-site-b3aa6fe0df2a) (building it alongside course)
-
-#### Course Off Project
-- Follow along and built projects on these course [link](https://www.youtube.com/results?search_query=xd+interface) As I learn Adobe XD
-
-#### UI/UX by Daniel Walter Scott
-- [ ] Getting Started
-- [ ] The Brief
-- [ ] Wireframing Low Fidelity
-- [ ] Type, Color & Icon Introduction
-- [ ] Prototyping a Website - Introduction
-- [ ] Symbols & Repeat Grids
-- [ ] Prototyping an App - Introduction
-- [ ] Wireframe Feedback
-- [ ] High Fidelity UI Design
-- [ ] Color Theory
-1. Color Theory [link-1](https://webdesign.tutsplus.com/articles/an-introduction-to-color-theory-for-web-designers--webdesign-1437)
-2. Color Theory [link-2](https://www.kanukadigital.com/2019/08/colour-theory-in-web-design/)
-3. Color Theory [link-3](https://uxplanet.org/color-theory-brief-guide-for-designers-76e11c57eaa)
-4. Color Theory [link-4](https://www.youtube.com/watch?v=Qj1FK8n7WgY)
-- [ ] How to use Color Palettes
-1. Color Palettes [link-1](https://www.youtube.com/watch?v=u5AnzLg1HxY)
-2. Color Palettes [link-2](https://www.youtube.com/watch?v=eXcKOqviLE0)
-- [ ] Colors
-- [ ] Text & Fonts Advanced
-- [ ] Drawing
-- [ ] Working with Illustrator 
-- [ ] Working with InDesign
-- [ ] Images
-- [ ] Working with Photoshop 
-- [ ] APP Design
-- [ ] Placeholder content & Plugins
-- [ ] Asset Panel
-- [ ] Symbol - Advanced
-- [ ] Micro Interactions
-- [ ] Prototyping Advanced
-- [ ] Voice Interactions
-- [ ] User Testing
-- [ ] Pitching to Clients & Customers
-- [ ] Exporting
-- [ ] What Next
-
-#### Article 
-- [ ] Writing an article about what i've learned
-
+ 
 
 
 ###  JavaScript by Odin Project
