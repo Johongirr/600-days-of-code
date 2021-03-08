@@ -153,8 +153,8 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [x] Writing an article about what i've learned
 
 #### Responsive Design and CSS Frameworks
-- [ ] Mobile First RWD [link](https://www.youtube.com/watch?v=PM3XW_1RAIs&list=PL4cUxeGkcC9hH1tAjyUPZPjbj-7s200a4)
-- [ ] Responsive Design
+- [x] Mobile First RWD [link](https://www.youtube.com/watch?v=PM3XW_1RAIs&list=PL4cUxeGkcC9hH1tAjyUPZPjbj-7s200a4)
+- [x] Responsive Design
 - [ ] Project: Building with Responsive Design
 - [ ] CSS Frameworks like Bootstrap and Foundation
 - [ ] Project: Using Bootstrap
@@ -164,15 +164,15 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
  
 #### Color Schemas 
-- [ ] Color Schemas
+- [x] Color Schemas
 1. Website Color Schema and How to Choose Yours [link](https://www.canva.com/learn/website-color-schemes/)
 2. Choosing Best Color Pallette for Website [link](https://speckyboy.com/choosing-best-color-palette-website/)
 3. Web Design Colors [link](https://www.a2hosting.com/blog/web-design-colors/)
 4. Easy Guide to Choose Color Palette [link](https://www.freepik.com/blog/easy-guide-to-choose-a-color-palette-for-your-design/)
-- [ ] Project [title](https://colorlib.com/preview/#logisticexpress)
+- [x] Project [title](https://colorlib.com/preview/#logisticexpress)
 
 #### Article 
-- [ ] Writing an article about what i've learned
+- [x] Writing an article about what i've learned
 
 #### Advanced CSS
 - [ ] Animations, Subtle Effects and Compatibility
