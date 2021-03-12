@@ -155,12 +155,12 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 #### Responsive Design and CSS Frameworks
 - [x] Mobile First RWD [link](https://www.youtube.com/watch?v=PM3XW_1RAIs&list=PL4cUxeGkcC9hH1tAjyUPZPjbj-7s200a4)
 - [x] Responsive Design
-- [ ] Project: Building with Responsive Design
-- [ ] CSS Frameworks like Bootstrap and Foundation
-- [ ] Project: Using Bootstrap
+- [x] Project: Building with Responsive Design
+- [x] CSS Frameworks like Bootstrap and Foundation
+- [x] Project: Using Bootstrap
 
 #### Article 
-- [ ] Writing an article about what i've learned
+- [x] Writing an article about what i've learned
 
  
 #### Color Schemas 
