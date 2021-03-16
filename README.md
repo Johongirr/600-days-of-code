@@ -175,9 +175,9 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [x] Writing an article about what i've learned
 
 #### Advanced CSS
-- [ ] Animations, Subtle Effects and Compatibility
-- [ ] Using CSS Preprocessors to Save Time
-- [ ] Project: Design Your Own Grid-Based Framework
+- [x] Animations, Subtle Effects and Compatibility
+- [x] Using CSS Preprocessors to Save Time
+- [x] Project: Design Your Own Grid-Based Framework
 - [ ] Article on Writing Better [css](https://davidwalsh.name/starting-css)
 
 #### Article 
