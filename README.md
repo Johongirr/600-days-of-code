@@ -188,7 +188,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ###  UX/UI by Daniel Walter Scott
 |  Start Date   | End Date     |
 | ------------- | ------------ |
-| Apr 10, 2021 |  Apr 30, 2021 |
+| March 18, 2021 |  Apr 15, 2021 |
 - [ ] Design Principles [link](https://www.smashingmagazine.com/2008/01/10-principles-of-effective-web-design/#:~:text=10%20Principles%20Of%20Good%20Website%20Design%201%20Don%E2%80%99t,attention%20more%20than%20others%20do.%20More%20items...%20)
 
 #### Project to Complete Snchronously with The Course
@@ -234,13 +234,15 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [ ] Exporting
 - [ ] What Next
 
-#### Article 
-- [ ] Writing an article about what i've learned
-
 #### Capstone
 - [ ] UI/UX Portfolios For Inspiration [link-1](https://medium.com/userexperience-guide/80-more-essential-ux-portfolios-2019-edition-9d146874590f)
 - [ ] UI/UX Portfolios For Inspiration [link-2](https://uxdesign.cc/50-essential-ux-portfolios-2019-edition-38d87fccd998)
 - [ ] Building My Own Portfolio
+
+#### Article 
+- [ ] Writing an article about what i've learned
+
+
 
 
 ###  PSD To HTML
