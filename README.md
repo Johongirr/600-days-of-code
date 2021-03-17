@@ -183,12 +183,6 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 #### Article 
 - [x] Writing an article about what i've learned
 
-#### Capstone
-- [ ] UI/UX Portfolios For Inspiration [link-1](https://medium.com/userexperience-guide/80-more-essential-ux-portfolios-2019-edition-9d146874590f)
-- [ ] UI/UX Portfolios For Inspiration [link-2](https://uxdesign.cc/50-essential-ux-portfolios-2019-edition-38d87fccd998)
-- [ ] Building My Own Portfolio
-
-
 
 
 ###  UX/UI by Daniel Walter Scott
@@ -243,7 +237,10 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 #### Article 
 - [ ] Writing an article about what i've learned
 
-
+#### Capstone
+- [ ] UI/UX Portfolios For Inspiration [link-1](https://medium.com/userexperience-guide/80-more-essential-ux-portfolios-2019-edition-9d146874590f)
+- [ ] UI/UX Portfolios For Inspiration [link-2](https://uxdesign.cc/50-essential-ux-portfolios-2019-edition-38d87fccd998)
+- [ ] Building My Own Portfolio
 
 
 ###  PSD To HTML
