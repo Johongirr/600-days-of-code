@@ -178,10 +178,10 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [x] Animations, Subtle Effects and Compatibility
 - [x] Using CSS Preprocessors to Save Time
 - [x] Project: Design Your Own Grid-Based Framework
-- [ ] Article on Writing Better [css](https://davidwalsh.name/starting-css)
+- [x] Article on Writing Better [css](https://davidwalsh.name/starting-css)
 
 #### Article 
-- [ ] Writing an article about what i've learned
+- [x] Writing an article about what i've learned
 
 #### Capstone
 - [ ] UI/UX Portfolios For Inspiration [link-1](https://medium.com/userexperience-guide/80-more-essential-ux-portfolios-2019-edition-9d146874590f)
